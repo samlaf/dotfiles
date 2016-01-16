@@ -1,0 +1,175 @@
+;; Object programming/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "programming/"
+  :tables
+  (list
+    (semanticdb-table "brace_balance.c"
+      :major-mode 'c-mode
+      :tags 
+        '( ("stdio.h" include (:system-flag t) nil [1 19])
+            ("OUT" variable (:constant-flag t) nil [108 111])
+            ("DOUBLE_QUOTE" variable (:constant-flag t) nil [122 134])
+            ("SINGLE_QUOTE" variable (:constant-flag t) nil [145 157])
+            ("LINE_COMMENT" variable (:constant-flag t) nil [168 180])
+            ("MULTI_COMMENT" variable (:constant-flag t) nil [191 204])
+            ("NONE" variable (:constant-flag t) nil [276 280])
+            ("FORWARDSLASH" variable (:constant-flag t) nil [291 303])
+            ("BACKSLASH" variable (:constant-flag t) nil [314 323])
+            ("STAR" variable (:constant-flag t) nil [334 338])
+            ("main" function (:type "int") nil [342 1958]))          
+      :file "brace_balance.c"
+      :pointmax 1961
+      :fsize 1974
+      :lastmodtime '(21896 29784 0 0)
+      :unmatched-syntax nil
+      :lexical-table 
+        '(("MULTI_COMMENT" . ((number "4" 205 . 206)))
+          ("NONE" . ((number "0" 281 . 282)))
+          ("FORWARDSLASH" . ((number "1" 304 . 305)))
+          ("BACKSLASH" . ((number "2" 324 . 325)))
+          ("SINGLE_QUOTE" . ((number "2" 158 . 159)))
+          ("OUT" . ((number "0" 112 . 113)))
+          ("DOUBLE_QUOTE" . ((number "1" 135 . 136)))
+          ("STAR" . ((number "3" 339 . 340)))
+          ("LINE_COMMENT" . ((number "3" 181 . 182)))
+          )
+)
+    (semanticdb-table "knr.c"
+      :major-mode 'c-mode
+      :tags 
+        '( ("stdio.h" include (:system-flag t) nil [1 19])
+            ("OUT" variable (:constant-flag t) nil [99 102])
+            ("DOUBLE_QUOTE" variable (:constant-flag t) nil [113 125])
+            ("SINGLE_QUOTE" variable (:constant-flag t) nil [136 148])
+            ("LINE_COMMENT" variable (:constant-flag t) nil [159 171])
+            ("MULTI_COMMENT" variable (:constant-flag t) nil [182 195])
+            ("NONE" variable (:constant-flag t) nil [267 271])
+            ("FORWARDSLASH" variable (:constant-flag t) nil [282 294])
+            ("BACKSLASH" variable (:constant-flag t) nil [305 314])
+            ("STAR" variable (:constant-flag t) nil [325 329])
+            ("main" function (:type "int") nil [333 1941]))          
+      :file "knr.c"
+      :pointmax 1944
+      :fsize 1943
+      :lastmodtime '(21896 54916 0 0)
+      :unmatched-syntax nil
+      :lexical-table 
+        '(("MULTI_COMMENT" . ((number "4" 196 . 197)))
+          ("NONE" . ((number "0" 272 . 273)))
+          ("FORWARDSLASH" . ((number "1" 295 . 296)))
+          ("BACKSLASH" . ((number "2" 315 . 316)))
+          ("SINGLE_QUOTE" . ((number "2" 149 . 150)))
+          ("OUT" . ((number "0" 103 . 104)))
+          ("DOUBLE_QUOTE" . ((number "1" 126 . 127)))
+          ("STAR" . ((number "3" 330 . 331)))
+          ("LINE_COMMENT" . ((number "3" 172 . 173)))
+          )
+)
+    (semanticdb-table "org.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("org" section nil nil [225 3101])
+            ("/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = \"code-highlighted\";
+     elem.className   = \"code-highlighted\";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->" section nil nil [3101 4720])
+            ("org" section (:members 
+              ( ("org" section (:members 
+                  ( ("Table of Contents" section (:members 
+                      ( ("1. <span class=\"todo TODO\">TODO" anchor nil nil [4872 4875])
+                        ("2. Important Concepts" anchor nil nil [4945 4948]))                      ) nil [4802 5066])
+                    ("1" section nil nil [5066 5342])
+                    ("2" section (:members 
+                      ( ("Emacs" anchor nil nil [5694 5697])
+                        ("Org" anchor nil nil [5757 5760])
+                        ("Validate" anchor nil nil [5833 5836]))                      ) nil [5342 5925]))                  ) nil [4746 5925]))              ) nil [4720 5925]))          
+      :file "org.html"
+      :pointmax 5925
+      :fsize 5924
+      :lastmodtime '(21862 181 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "Makefile"
+      :major-mode 'makefile-bsdmake-mode
+      :tags 
+        '( ("test" function nil nil [1 29])
+            ("check-syntax" function nil nil [30 73])
+            ("clean" function nil nil [75 107]))          
+      :file "Makefile"
+      :pointmax 107
+      :fsize 106
+      :lastmodtime '(21896 29478 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "knr.c~"
+      :major-mode 'c-mode
+      :tags 
+        '( ("stdio.h" include (:system-flag t) nil [1 19])
+            ("OUT" variable (:constant-flag t) nil [99 102])
+            ("DOUBLE_QUOTE" variable (:constant-flag t) nil [113 125])
+            ("SINGLE_QUOTE" variable (:constant-flag t) nil [136 148])
+            ("LINE_COMMENT" variable (:constant-flag t) nil [159 171])
+            ("MULTI_COMMENT" variable (:constant-flag t) nil [182 195])
+            ("NONE" variable (:constant-flag t) nil [267 271])
+            ("FORWARDSLASH" variable (:constant-flag t) nil [282 294])
+            ("BACKSLASH" variable (:constant-flag t) nil [305 314])
+            ("STAR" variable (:constant-flag t) nil [325 329])
+            ("main" function (:type "int") nil [333 1940]))          
+      :file "knr.c~"
+      :pointmax 1943
+      :fsize 1942
+      :lastmodtime '(21879 31797 0 0)
+      :unmatched-syntax nil
+      :lexical-table 
+        '(("MULTI_COMMENT" . ((number "4" 196 . 197)))
+          ("NONE" . ((number "0" 272 . 273)))
+          ("FORWARDSLASH" . ((number "1" 295 . 296)))
+          ("BACKSLASH" . ((number "2" 315 . 316)))
+          ("SINGLE_QUOTE" . ((number "2" 149 . 150)))
+          ("OUT" . ((number "0" 103 . 104)))
+          ("DOUBLE_QUOTE" . ((number "1" 126 . 127)))
+          ("STAR" . ((number "3" 330 . 331)))
+          ("LINE_COMMENT" . ((number "3" 172 . 173)))
+          )
+))
+  :file "!Users!samlaf!programming!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

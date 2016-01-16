@@ -1,0 +1,14 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: org-blog-heading
+# key: org-blog-heading
+# binding: direct-keybinding
+# --
+#+BEGIN_HTML
+---
+layout: default
+title: ${1:`(substring (file-name-base) (progn (string-match "[0-9]+-[0-9]+-[0-9]+-" (file-name-base)) (match-end 0)))`}
+excerpt: $2
+---
+#+END_HTML
+$0
+

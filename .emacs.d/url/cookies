@@ -1,0 +1,60 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".coursera.org"
+  [url-cookie "__204u" "6035038894-1440532452688" "Wed, 24 Aug 2016 19:54:12 UTC" "/" ".coursera.org" nil])
+ ("en.wikipedia.org"
+  [url-cookie "HttpOnly" nil "Mon, 15 Feb 2016 00:00:00 GMT" "/" "en.wikipedia.org" nil]
+  [url-cookie "WMF-Last-Access" "14-Jan-2016" "Mon, 15 Feb 2016 00:00:00 GMT" "/" "en.wikipedia.org" nil])
+ ("www.blackhatworld.com"
+  [url-cookie "bhw_lastactivity" "0" "09-Dec-2016 12:14:21.00 GMT" "/" "www.blackhatworld.com" nil]
+  [url-cookie "bhw_lastvisit" "1442755218" "09-Dec-2016 12:14:21.00 GMT" "/" "www.blackhatworld.com" nil])
+ (".youtube.com"
+  [url-cookie "PREF" "f1=40000000" "20-Mar-2016 14:33:57.00 GMT" "/" ".youtube.com" nil]
+  [url-cookie "httponly" nil "20-Mar-2016 14:33:57.00 GMT" "/" ".youtube.com" nil]
+  [url-cookie "VISITOR_INFO1_LIVE" "--24aF1Qifc" "20-Mar-2016 14:33:57.00 GMT" "/" ".youtube.com" nil])
+ (".moz.com"
+  [url-cookie "visid_incap_133232" "peqXDDW0SZ6OdlyTgDia9fu1rVUAAAAAQUIPAAAAAADYOZAKQQqfRiENc/Bc6NTJ" "Wed, 19 Jul 2017 12:23:12 GMT" "/" ".moz.com" nil])
+ (".google.ca"
+  [url-cookie "PREF" "ID=1111111111111111:FF=0:TM=1437610371:LM=1437610371:V=1:S=XQWopRD1FjszMLwf" "22-Jul-2017 00:12:51.00 GMT" "/" ".google.ca" nil]
+  [url-cookie "NID" "69=BEWCQUwIXPK5F54Rd8LjEwjIb14r-NR_AwCskLR01b79r3_mx1HedWrP6gk9o6zagNnXZhCCZaPb2GId7qKrkPFjAGKytFrLPIIT2TDf7qx9qtha3kayYCExbLXdgtKP" "29-Feb-2016 14:03:55.00 GMT" "/" ".google.ca" nil]
+  [url-cookie "HttpOnly" nil "29-Feb-2016 14:03:55.00 GMT" "/" ".google.ca" nil])
+ (".haskell.org"
+  [url-cookie "__cfduid" "dc748b3c668ca9b7542999224be25dbc61440619828" "25 Aug 16 20:10:28 [GMT]" "/" ".haskell.org" nil]
+  [url-cookie "HttpOnly" nil "25 Aug 16 20:10:28 [GMT]" "/" ".haskell.org" nil])
+ (".stackexchange.com"
+  [url-cookie "__cfduid" "df45bab23bb0179310ddeb445cc8790cf1447833977" "17 Nov 16 08:06:17 [GMT]" "/" ".stackexchange.com" nil]
+  [url-cookie "prov" "14693c38-9566-4c88-b289-770086e51720" "01-Jan-2055 00:00:00.00 GMT" "/" ".stackexchange.com" nil]
+  [url-cookie "HttpOnly" nil "17 Nov 16 08:06:17 [GMT]" "/" ".stackexchange.com" nil])
+ (".stackoverflow.com"
+  [url-cookie "__cfduid" "dddfa8b9af98e274598e027f9ea0f59631449924894" "11 Dec 16 12:54:54 [GMT]" "/" ".stackoverflow.com" nil]
+  [url-cookie "HttpOnly" nil "01-Jan-2055 00:00:00.00 GMT" "/" ".stackoverflow.com" nil]
+  [url-cookie "prov" "a043a454-d047-4200-a6a3-deb28bc01baa" "01-Jan-2055 00:00:00.00 GMT" "/" ".stackoverflow.com" nil])
+ (".amazon.com"
+  [url-cookie "x-wl-uid" "1TdYyRLUvqQlVl6ywBdIT4kJLwiCFl9tyCHWblHWHmT9QIC5RlyJhoWPfzuncgEiVYsRzIBdQU4Y=" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.com" nil]
+  [url-cookie "session-id-time" "2082787201l" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.com" nil]
+  [url-cookie "session-id" "180-5157414-6727502" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.com" nil])
+ (".google.com"
+  [url-cookie "NID" "69=BiXYh8fF5NGvnYidAQ5bCDbTpRODv-t5hj9_WYACcyS-2P7G8T15s8_WT8ZnDslmvVzWOG3d-cB4-cyjW1A7rW4vK_7U62_CV8SbyaaMa8ur5L3Gowh8Y9ZX_tfCBh6I" "22-Jan-2016 00:12:50.00 GMT" "/" ".google.com" nil]
+  [url-cookie "PREF" "ID=1111111111111111:FF=0:TM=1437610370:LM=1437610370:V=1:S=AkQh3kznJxdnUswP" "22-Jul-2017 00:12:50.00 GMT" "/" ".google.com" nil]
+  [url-cookie "HttpOnly" nil "22-Jan-2016 00:12:50.00 GMT" "/" ".google.com" nil]))
+)
+(setq url-cookie-secure-storage
+ '(("accounts.google.com"
+  [url-cookie "GAPS" "1:t6XJ8mTLulRHDMeAfXIe1iCAPY8lxQ:AeOJRR_5BCN5JNNo" "22-Jul-2017 01:34:17.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "HttpOnly" nil "22-Jul-2017 01:34:17.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "Priority" "HIGH" "22-Jul-2017 01:34:17.00 GMT" "/" "accounts.google.com" t])
+ ("developer.mozilla.org"
+  [url-cookie "dwf_section_edit" "False" "02-Feb-2016 06:40:41.00 GMT" "/" "developer.mozilla.org" t]
+  [url-cookie "Max-Age" "2592000" "02-Feb-2016 06:40:41.00 GMT" "/" "developer.mozilla.org" t]
+  [url-cookie "csrftoken" "HBrGxamP1OWsxTDLUFabnLKymYEilrCk" "01-Jan-2017 06:40:41.00 GMT" "/" "developer.mozilla.org" t])
+ (".github.com"
+  [url-cookie "HttpOnly" nil "Wed, 12 Sep 2035 16:00:50 -0000" "/" ".github.com" t]
+  [url-cookie "logged_in" "no" "Wed, 12 Sep 2035 16:00:50 -0000" "/" ".github.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:

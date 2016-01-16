@@ -1,0 +1,126 @@
+;; -*- emacs-lisp -*- <16/01/16 16:39:14 /Users/samlaf/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["sudo" "root" "Samuel-no-Air" nil nil]
+  ("locale" "LC_ALL=C")
+  ("uname" "Darwin 14.3.0")
+  ("test" "test")
+  ("remote-path"
+   ("/usr/bin" "/bin" "/usr/sbin" "/sbin" "/usr/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("file-exists" "test -e")
+  ("readlink" nil)
+  ("stat" nil)
+  ("id" "/usr/bin/id")
+  ("gid-integer" 0)
+  ("gid-string" "wheel")
+  ("uid-integer" 0)
+  ("tmpdir" "/sudo:root@Samuel-no-Air:/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch")
+  ("ls" "/bin/ls"))
+ (["sudo" "root" "Samuel-no-MacBook-Air.local" nil nil]
+  ("locale" "LC_ALL=C")
+  ("uname" "Darwin 14.3.0")
+  ("test" "test")
+  ("remote-path"
+   ("/usr/bin" "/bin" "/usr/sbin" "/sbin" "/usr/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("file-exists" "test -e")
+  ("readlink" nil)
+  ("stat" nil)
+  ("id" "/usr/bin/id")
+  ("gid-integer" 0)
+  ("gid-string" "wheel")
+  ("uid-integer" 0)
+  ("tmpdir" "/sudo:root@Samuel-no-MacBook-Air.local:/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch")
+  ("ls" "/bin/ls"))
+ (["scp" nil "awshost1" nil nil]
+  ("locale" "LC_ALL=en_US.utf8")
+  ("uname" "Linux 3.13.0-48-generic")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("~" "/home/ubuntu")
+  ("readlink" "\\readlink")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("ls" "/bin/ls --color=never")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("git" nil)
+  ("id" "/usr/bin/id")
+  ("gid-string" "ubuntu")
+  ("gid-integer" 1000)
+  ("uid-integer" 1000))
+ (["ssh" nil "awshost1" nil nil]
+  ("locale" "LC_ALL=en_US.utf8")
+  ("uname" "Linux 3.13.0-48-generic")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("id" "/usr/bin/id")
+  ("gid-string" "ubuntu")
+  ("readlink" "\\readlink")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("gid-integer" 1000)
+  ("~" "/home/ubuntu")
+  ("ls" "/bin/ls --color=never")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("tmpdir" "/ssh:awshost1:/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch"))
+ (["scp" nil "ssh" nil nil]
+  nil)
+ (["ssh" nil "52.33.247.245" nil nil]
+  nil)
+ (["ssh" nil "ec2-54-169-112-226.ap-southeast-1.compute.amazonaws.com" nil nil]
+  nil)
+ (["ssh" nil "ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com" nil nil]
+  nil)
+ (["ssh" nil "ec2-singapore" nil nil]
+  ("locale" "LC_ALL=en_US.utf8")
+  ("uname" "Linux 3.13.0-48-generic")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("file-exists" "test -e")
+  ("stat" "\\stat")
+  ("id" "/usr/bin/id")
+  ("gid-string" "ubuntu")
+  ("gid-integer" 1000)
+  ("readlink" "\\readlink")
+  ("ls" "/bin/ls --color=never")
+  ("uid-integer" 1000))
+ (["ssh" nil "ec2-54-169-174-61.ap-southeast-1.compute.amazonaws.com" nil nil]
+  nil)
+ (["ssh" nil "ec2-52-33-247-245.us-west-2.compute.amazonaws.com" nil nil]
+  nil)
+ (["ssh" nil "mcgill" nil nil]
+  nil)
+ (["ssh" nil "52.33.39.44" nil nil]
+  nil)
+ (["ssh" nil "54.169.228.79" nil nil]
+  nil)
+ (["ssh" nil "mimi.cs.mcgill.ca" nil nil]
+  nil)
+ (["scp" nil "sshx" nil nil]
+  nil)
+ (["sshx" nil "ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com" nil nil]
+  nil))

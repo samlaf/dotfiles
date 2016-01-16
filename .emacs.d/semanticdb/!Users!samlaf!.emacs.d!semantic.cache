@@ -1,0 +1,74 @@
+;; Object .emacs.d/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file ".emacs.d/"
+  :tables
+  (list
+    (semanticdb-table "init_org.el"
+      :major-mode 'emacs-lisp-mode
+      :tags 
+        '( ("setq" code nil nil [1 61])
+            ("global-set-key" code nil nil [62 102])
+            ("global-set-key" code nil nil [103 139])
+            ("global-set-key" code nil nil [140 177])
+            ("global-set-key" code nil nil [178 212])
+            ("global-set-key" code nil nil [213 251])
+            ("global-set-key" code nil nil [252 301])
+            ("global-set-key" code nil nil [302 351])
+            ("setq" code nil nil [399 432])
+            ("ox-latex" include nil nil [433 452])
+            ("add-to-list" code nil nil [453 507])
+            ("setq" code nil nil [575 603])
+            ("setq" code nil nil [686 732])
+            ("setq" code nil nil [734 767])
+            ("add-hook" code nil nil [769 889])
+            ("org-mode-keys" function nil nil [891 1018])
+            ("add-hook" code nil nil [1021 1056])
+            ("setq" code nil nil [1058 1237])
+            ("setq" code nil nil [1239 1758])
+            ("setq" code nil nil [1760 2149])
+            ("setq" code nil nil [2171 2199])
+            ("setq" code nil nil [2200 2266])
+            ("bh/remove-empty-drawer-on-clock-out" function nil nil [3708 3856])
+            ("add-hook" code nil nil [3858 3933])
+            ("setq" code nil nil [4048 4169])
+            ("setq" code nil nil [4243 4279])
+            ("setq" code nil nil [4318 4363])
+            ("setq" code nil nil [4421 4482])
+            ("setq" code nil nil [4554 4585])
+            ("setq" code nil nil [4586 4609])
+            ("setq" code nil nil [4610 4646])
+            ("ido-mode" code nil nil [4647 4670])
+            ("setq" code nil nil [4737 4784])
+            ("setq" code nil nil [4785 4834])
+            ("setq" code nil nil [4888 4938])
+            ("bh/verify-refile-target" function nil nil [5008 5174])
+            ("setq" code nil nil [5176 5241]))          
+      :file "init_org.el"
+      :pointmax 5245
+      :fsize 5244
+      :lastmodtime '(21895 29530 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "init_load_packages.el"
+      :major-mode 'emacs-lisp-mode
+      :tags 
+        '( ("global-set-key" code nil nil [14 56])
+            ("package" include nil nil [70 88])
+            ("add-to-list" code nil nil [89 160])
+            ("setq" code nil nil [243 457])
+            ("add-to-list" code nil nil [471 536])
+            ("yasnippet" include nil nil [537 557])
+            ("yas-global-mode" code nil nil [558 577])
+            ("yas/org-very-safe-expand" function nil nil [612 706])
+            ("add-hook" code nil nil [707 1033])
+            ("setq" code nil nil [1136 1179])
+            ("package-initialize" code nil nil [1201 1221])
+            ("setq" code nil nil [1222 1259])
+            ("exec-path-from-shell-initialize" code nil nil [1260 1293]))          
+      :file "init_load_packages.el"
+      :pointmax 1295
+      :fsize 1294
+      :lastmodtime '(21896 27618 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!samlaf!.emacs.d!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

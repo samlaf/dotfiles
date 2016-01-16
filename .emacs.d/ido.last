@@ -1,0 +1,375 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/samlaf/programming/bash/dotfiles/" . ".emacs.d/")
+ ("/Users/samlaf/programming/bash/" . "dotfiles/")
+ ("/ssh:ec2-singapore:" . "bitstarter/")
+ ("/usr/share/" . "info/")
+ ("/usr/local/share/" . "info/")
+ ("/Users/samlaf/.emacs.d/elpa/auctex-11.89/" . "doc/")
+ ("/Users/samlaf/website/samlaf.github.io/_site/2015/11/" . "29/")
+ ("/Users/samlaf/website/samlaf.github.io-backup/" . "scripts/")
+ ("/Users/samlaf/website/samlaf.github.io/_site/2015/09/" . "17/")
+ ("/Users/samlaf/website/samlaf.github.io/_site/2015/" . "11/")
+ ("/Users/samlaf/website/samlaf.github.io/_site/" . "img/")
+ ("/Users/samlaf/.emacs.d/site-lisp/" . "js-comint/")
+ ("/usr/local/Cellar/rhino/1.7.6/" . "bin/")
+ ("/usr/local/Cellar/rhino/" . "1.7.6/")
+ ("/Users/samlaf/Applications/Chrome Apps.localized/" . "Default apdfllckaahabafndbhieahigkjlhalf.app/")
+ ("/Users/samlaf/Applications/" . "Chrome Apps.localized/")
+ ("/usr/local/opt/findutils/" . "libexec/")
+ ("/usr/local/Cellar/grep/2.22/" . "bin/")
+ ("/usr/local/Cellar/grep/" . "2.22/")
+ ("/usr/local/opt/coreutils/" . "libexec/")
+ ("/usr/local/opt/gnu-tar/libexec/" . "gnubin/")
+ ("/usr/local/opt/gnu-tar/" . "libexec/")
+ ("/usr/local/opt/" . "findutils/")
+ ("/Users/samlaf/anki-master/" . "anki/")
+ ("/etc/" . "defaults/")
+ ("/opt/local/" . "etc/")
+ ("/opt/" . "local/")
+ ("/Applications/Anki.app/Contents/Resources/include/" . "python2.7/")
+ ("/Applications/Anki.app/Contents/Resources/lib/python2.7/lib-dynload/" . "pysqlite2/")
+ ("/Applications/Anki.app/Contents/Resources/lib/python2.7/" . "lib-dynload/")
+ ("/Applications/Anki.app/Contents/Resources/lib/" . "python2.7/")
+ ("/Applications/Anki.app/Contents/Resources/" . "include/")
+ ("/Applications/Anki.app/Contents/" . "Resources/")
+ ("/Applications/Anki.app/" . "Contents/")
+ ("/scp:awshost1:/usr/" . "bin/")
+ ("/scp:awshost1:/" . "usr/")
+ ("/scp:awshost1:/home/ubuntu/" . ".ssh/")
+ ("/Users/samlaf/.emacs.d/snippets/" . "org-mode/")
+ ("/Library/TeX/Distributions/.DefaultTeX/Contents/Programs/" . "texbin/")
+ ("/Library/TeX/Distributions/.DefaultTeX/Contents/" . "Programs/")
+ ("/Library/TeX/Distributions/.DefaultTeX/" . "Contents/")
+ ("/Library/TeX/Distributions/" . ".DefaultTeX/")
+ ("/Library/TeX/" . "texbin/")
+ ("/Library/" . "TeX/")
+ ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/T/" . "anki_temp/")
+ ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/" . "T/")
+ ("/var/folders/dn/" . "gy4jhwt134b99gk3xzkjlktc0000gn/")
+ ("/var/folders/" . "dn/")
+ ("/var/" . "folders/")
+ ("/System/Library/" . "Fonts/")
+ ("/System/" . "Library/")
+ ("/Users/samlaf/Library/" . "Fonts/")
+ ("/Users/samlaf/PKU/" . "auto/")
+ ("/Users/samlaf/.emacs.d/elpa/yasnippet-20150811.1222/" . "snippets/")
+ ("/Users/samlaf/.emacs.d/elpa/auto-complete-1.4/" . "dict/")
+ ("/Users/samlaf/Documents/Anki/addons/chinese/" . "db/")
+ ("/Users/samlaf/Documents/Anki/addons/" . "chinese/")
+ ("/Users/samlaf/Documents/Anki/" . "addons/")
+ ("/Users/samlaf/Documents/" . "Anki/")
+ ("/Users/samlaf/website/myblog/" . "_posts/")
+ ("/Users/samlaf/website/samlaf.github.io/" . "css/")
+ ("/Users/samlaf/website/org/" . "_posts/")
+ ("/Users/samlaf/website/" . "org/")
+ ("/Users/samlaf/mu/" . "mu4e/")
+ ("/usr/local/Cellar/mu/0.9.12/" . "bin/")
+ ("/usr/local/Cellar/mu/" . "0.9.12/")
+ ("/usr/local/Cellar/" . "rhino/")
+ ("/Users/samlaf/Maildir/Gmail/INBOX/" . "cur/")
+ ("/Users/samlaf/Maildir/Gmail/" . "INBOX/")
+ ("/Users/samlaf/Maildir/" . "Gmail/")
+ ("/usr/local/etc/" . "openssl/")
+ ("/usr/local/" . "ec2/")
+ ("/usr/" . "local/")
+ ("/Users/samlaf/.emacs.d/bbdb/" . "doc/")
+ ("/Users/samlaf/programming/aima/code/agents/" . "agents/")
+ ("/Users/samlaf/programming/aima/code/logic/" . "algorithms/")
+ ("/Users/samlaf/programming/aima/code/" . "agents/")
+ ("/Users/samlaf/programming/aima/" . "screenshots/")
+ ("/Users/samlaf/programming/Haskell/" . "RWH/")
+ ("/Users/samlaf/programming/my_cl_library/" . "onlisp/")
+ ("/Users/samlaf/programming/" . "Javascript/")
+ ("/Users/samlaf/.emacs.d/my_cl_library/" . "onlisp/")
+ ("/Users/samlaf/Pictures/MP Navigator EX/" . "2015_08_13/")
+ ("/Users/samlaf/Pictures/" . "MP Navigator EX/")
+ ("/Users/samlaf/.emacs.d/elpa/" . "auctex-11.89/")
+ ("/Users/samlaf/.emacs.d/cedet/lisp/" . "speedbar/")
+ ("/Users/samlaf/.emacs.d/cedet/" . "lisp/")
+ ("/Applications/Emacs.app/Contents/Resources/site-lisp/" . "lisp/")
+ ("/Applications/Emacs.app/Contents/" . "MacOS/")
+ ("/Applications/Emacs.app/" . "Contents/")
+ ("/Applications/" . "Anki.app/")
+ ("/Users/samlaf/Downloads/emacs-24.5/" . "src/")
+ ("/Users/samlaf/Downloads/" . "AnkiIR/")
+ ("/" . "usr/")
+ ("/Applications/Emacs.app/Contents/Resources/lisp/" . "mail/")
+ ("/Applications/Emacs.app/Contents/Resources/" . "etc/")
+ ("/Users/samlaf/.emacs.d/" . "eshell/")
+ ("/Users/" . "samlaf/")
+ ("/Users/samlaf/org/" . "notes/")
+ ("/Users/samlaf/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/samlaf/.emacs.d/eshell/"
+ "/Users/samlaf/"
+ "/Users/samlaf/programming/Bash/setup/"
+ "/Users/samlaf/programming/bash/dotfiles/"
+ "/Users/samlaf/tests/"
+ "/ssh:ec2-singapore:/home/ubuntu/bitstarter/"
+ "/ssh:ec2-singapore:"
+ "/ssh:ec2-singapore:bitstarter/"
+ "/Users/samlaf/.ssh/"
+ "/sshx:ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com:"
+ "/ssh:ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com:"
+ "/ssh:ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com:bitstarter/"
+ "/ssh:52.33.247.245:"
+ "/Users/samlaf/programming/Javascript/"
+ "/Users/samlaf/.emacs.d/lisp/"
+ "/Users/samlaf/Documents/Anki/addons/chinese/"
+ "/Users/samlaf/Documents/Anki/addons/chinese/templates/"
+ "/Users/samlaf/anki-master/anki/"
+ "/Users/samlaf/Documents/Anki/addons/chinese/models/"
+ "/Users/samlaf/programming/C/"
+ "/Users/samlaf/website/org/_posts/"
+ "/Users/samlaf/org/"
+ "/Users/samlaf/.emacs.d/cedet/"
+ "/Users/samlaf/info/"
+ "/Users/samlaf/.emacs.d/elpa/auctex-11.89/"
+ "/usr/share/info/"
+ "/Users/samlaf/.emacs.d/cedet/doc/info/"
+ "/usr/local/share/info/"
+ "/Users/samlaf/.emacs.d/elpa/"
+ "/Users/samlaf/programming/Haskell/"
+ "/Users/samlaf/website/samlaf.github.io/_posts/"
+ "/Users/samlaf/website/org/images/"
+ "/Users/samlaf/Desktop/"
+ "/Users/samlaf/website/samlaf.github.io/"
+ "/Users/samlaf/programming/"
+ "/Users/samlaf/website/samlaf.github.io/_site/"
+ "/Users/samlaf/website/samlaf.github.io/_site/img/"
+ "/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/T/anki_temp/"
+ "/Users/samlaf/PKU/riddles/"
+ "/Users/samlaf/website/samlaf.github.io/_site/2015/11/29/"
+ "/Users/samlaf/website/"
+ "/Users/samlaf/org/notes/"
+ "/Users/samlaf/PKU/"
+ "/Users/samlaf/.emacs.d/elpa/flymake-jshint-1.0/"
+ "/Users/samlaf/.emacs.d/site-lisp/js-comint/"
+ "/usr/local/Cellar/rhino/1.7.6/bin/"
+ "/usr/local/opt/findutils/libexec/"
+ "/usr/local/opt/gnu-tar/libexec/gnubin/"
+ "/ssh:awshost1:/home/ubuntu/"
+ "/ssh:awshost1:/bin/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "alias"
+ "history"
+ ".emacs"
+ ".bash_profile"
+ "README.md"
+ "setup.sh"
+ ".bashrc"
+ "test.sh"
+ "test"
+ ".bbdb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/samlaf/.emacs.d/eshell/" (22170 567 0 0) "lastdir" "history" "alias~" "alias" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/" (22170 434 0 0) "w3m-0.5.3/" "url/" "tramp" "timelog~" "timelog" "srecode-map.el" "snippets/" "site-lisp/" "semanticdb/" "scratch.el~" "scratch.el" "recentf" "quickurls" "lisp/" "kkcrc" "image-dired/" "ido.last~" "ido.last" "glibc/" "eshell/" "elpa/" "cedet/" "calc.el~" "calc.el" "bookmarks" "auto-save-list/" "ac-comphist.dat" "abbrev_defs" ".org-id-locations" "%backup%~" "../" "./")
+
+ ("/Users/samlaf/" (22170 126 0 0) "website/" "Treasures/" "tests/" "test" "TAGS" "slafer@mimi.cs.mcgill.ca" "ses/" "scrap/" "Sam/" "RMAIL" "quicklisp/" "public_html/" "Public/" "programming/" "PKU/" "Pictures/" "out2.txt" "org/" "News/" "Music/" "mu/" "Movies/" "mbox" "Maildir/" "Mail/" "log" "Library/" "info/" "fortunes/" "Dropbox/" "Downloads/" "Documents/" "diary~" "diary" "Desktop/" "complete/" "Books/" "bin/" "Applications/" "anki-master/" ".yomichan.json" ".w3m/" ".viminfo" ".vim/" ".Trash/" ".ssh/" ".slime-history.eld" ".slime/" ".sh_history" ".sbclrc" ".python_history" ".org-timestamps/" ".oracle_jre_usage/" ".offlineimaprc~" ".offlineimaprc" ".offlineimap/" ".npm/" ".node_repl_history" ".newsrc~" ".newsrc.eld~" ".newsrc.eld" ".newsrc-dribble~" ".newsrc" ".mu/" ".mplayer/" ".mailrc~" ".mailrc" ".lldb/" ".lesshst" ".gnus~" ".gnus" ".gnuplot_history" ".gnupg/" ".gitconfig~" ".gitconfig" ".git-credential-cache/" ".ghc/" ".gem/" ".emacs~" ".emacs.d/" ".emacs" ".dvdcss/" ".DS_Store" ".dropbox/" ".cvspass" ".cups/" ".config/" ".cisco/" ".CFUserTextEncoding" ".cache/" ".bbdb~" ".bbdb" ".bash_sessions/" ".bash_profile~" ".bash_profile.pysave" ".bash_profile.macports-saved_2015-08-16_at_21:09:20" ".bash_profile.ghc.orig" ".bash_profile" ".bash_history" ".authinfo~" ".authinfo" ".aspell.en.pws" ".aspell.en.prepl" ".anyconnect" "#test.html#" "#%2Amail%2A#4988NDq#" "../" "./")
+
+ ("/Users/samlaf/programming/Bash/" (22169 65331 0 0) "setup/" "dotfiles/" "../" "./")
+
+ ("/Users/samlaf/programming/Bash/dotfiles/" (22169 65334 0 0) "README.md" ".screenrc" ".git/" ".emacs.d/" ".bashrc_custom" ".bashrc" ".bash_profile" "../" "./")
+
+ ("/Users/samlaf/programming/Bash/setup/" (22169 65138 0 0) "setup.sh" "README.md" ".git/" ".#setup.sh" "../" "./")
+
+ ("/Users/samlaf/programming/bash/dotfiles/" (22169 64720 0 0) "README.md" ".screenrc" ".git/" ".bashrc_custom" ".bashrc" ".bash_profile" "../" "./")
+
+ ("/Users/samlaf/programming/bash/dotfiles/.emacs.d/" (22101 44196 0 0) "whitespace.el" "smooth-scrolling.el" "node_emacs" "linum.el" "js-config.el" "js-comint.el" "jade-mode/" "init.el" "defuns-config.el" "column-marker.el" "../" "./")
+
+ ("/Users/samlaf/tests/" (22169 63884 0 0) "test.sh~" "test.sh" "setup/" "NC_007779.ptt" "blink/" ".git/" ".#test.sh" "../" "./")
+
+ ("/Users/samlaf/programming/bash/" (22101 44193 0 0) "setup/" "dotfiles/" "../" "./")
+
+ ("/Users/samlaf/programming/bash/setup/" (22101 44115 0 0) "setup.sh" "README.md" ".git/" "../" "./")
+
+ ("/Users/samlaf/programming/Javascript/" (22169 45424 0 0) "test.js~" "test.js" "program.js~" "program.js" "program.html" ".#test.js" "#test.js#" "../" "./")
+
+ ("/Users/samlaf/org/" (22156 33287 0 0) "todo.org~" "todo.org_archive~" "todo.org_archive" "todo.org" "taiwan.org~" "summary.org~" "summary.org_archive" "summary.org" "speed-reading.org~" "speed-reading.org" "scratch.org" "refile.org~" "refile.org" "python.org~" "python.org" "programming.org~" "programming.org_archive~" "programming.org_archive" "programming.org" "notes.org~" "notes.org" "mental-programming-language-model.org" "memory.org~" "memory.org" "ltxpng/" "log.org~" "log.org" "lists.org~" "lists.org_archive~" "lists.org_archive" "lists.org" "linux.org~" "linux.org" "journal.org" "jazz.org~" "jazz.org" "japanese.org~" "japanese.org" "japanese/" "jap.org~" "jap.org_archive~" "jap.org_archive" "jap.org" "internet.org~" "internet.org_archive~" "internet.org_archive" "internet.org" "ideas.org~" "ideas.org" "haskell.org~" "haskell.org" "gtd.org~" "feeds.org~" "feeds.org" "emacs.org~" "emacs.org_archive~" "emacs.org_archive" "emacs.org" "elisp.org~" "elisp.org" "diary.org~" "diary.org" "data/" "chinese-questions.org~" "chinese-questions.org_archive~" "chinese-questions.org_archive" "chinese-questions.org" "china.org~" "china.org_archive~" "china.org_archive" "china.org" "ChangeLog" "bbdb.org~" "bbdb.org" "back.org" "ayumi.org~" "ayumi.org" "aima-ss.org~" "aima-ss.org" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/.ssh/" (22156 33043 0 0) "samlaf-key-pair-singapore.pem" "known_hosts~" "known_hosts" "id_dsa.pub" "id_dsa" "config~" "config" "cli-key-pair-singapore.pem" "../" "./")
+
+ ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/T/anki_temp/" (22154 61097 0 0) "paste-108770046771280.jpg" "paste-107026290049275.jpg" "../" "./")
+
+ ("/Users/samlaf/programming/C/" (22152 36512 0 0) "test.c~" "test.c" "Makefile" "knr.c" "brace_balance.c" "a.out" "../" "./")
+
+ ("/Users/samlaf/programming/" (22152 37168 0 0) "TAGS" "Python/" "MyPlayground.playground/" "Javascript/" "Haskell/" "Common_Lisp/" "chinese-support-addon/" "C/" "Bash/" "Aima-Norvig/" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/lisp/" (22155 27592 0 0) "scratch-lexical.el~" "scratch-lexical.el" "org-config.el~" "org-config.el" "my-functions.el~" "my-functions.elc" "my-config.el~" "my-config.el" "mu4e-config.el" "modes.el~" "modes.el" "macros.el~" "kmacros.el~" "kmacros.el" "ekeys.el~" "ekeys.el" "efuncs.el~" "efuncs.el" ".custom.el~" ".custom.el" "../" "./")
+
+ ("/Users/samlaf/Documents/Anki/addons/chinese/templates/" (21953 7050 0 0) "ruby.py" "chinese.py" "__init__.py" "../" "./")
+
+ ("/usr/local/opt/gnu-tar/libexec/gnubin/" (22016 19574 0 0) "tar" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/css/" (21714 29946 0 0) "style.css" "normalize.css" "newStyle.css~" "custom.css.map" "custom.css" "custom" "../" "./")
+
+ ("/Users/samlaf/anki-master/anki/" (22078 47183 0 0) "utils.py" "upgrade.py" "template/" "tags.py" "sync.py" "storage.py" "stdmodels.py" "statsbg.py" "stats.py" "sound.py" "sched.py" "notes.py" "models.py" "media.py" "latex.py" "lang.py" "js.py" "importing/" "hooks.py" "find.py" "exporting.py" "errors.py" "decks.py" "db.py" "consts.py" "collection.py" "cards.py" "ankiweb.certs" "anki" "__init__.py" "#models.py#" "../" "./")
+
+ ("/Users/samlaf/Documents/Anki/addons/" (22078 47324 0 0) "yomi_base/" "test.py~" "test.py" "Syntax Highlighting for Code.py" "Power_Create_lists_ordered_unordered_and_indented.py" "japanese_examples.utf" "japanese_examples.pickle" "image_occlusion_2/" "Image Occlusion 2.py" "Edit_LaTeX_build_process.py" "code_highlight_addon/" "Chinese_support.py~" "Chinese_support.py" "chinese/" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/Documents/Anki/addons/chinese/models/" (22078 47793 0 0) "ruby_synonyms.py" "ruby.py" "css.py" "compatibility.py" "cloze.py~" "cloze.py" "basic.py" "advanced.py" "__init__.py" "../" "./")
+
+ ("/Users/samlaf/anki-master/" (22068 21027 0 0) "tools/" "thirdparty/" "tests/" "runanki" "README.development" "README" "oldanki/" "Makefile" "LICENSE.logo" "LICENSE" "designer/" "aqt/" "anki.xpm" "anki.xml" "anki.png" "anki.desktop" "anki.bat" "anki.1" "anki/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/Documents/" (21887 2406 0 0) "test.tex" "test.synctex.gz" "test.pdf" "test.log" "test.aux" "Anki/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/Documents/Anki/" (22131 17480 0 0) "ユーザー 1/" "README.txt" "prefs.db" "IPA/" "addons/" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/Documents/Anki/ユーザー 1/" (22131 17500 0 0) "deleted.txt" "collection.media.db2" "collection.media/" "collection.log.old" "collection.log" "collection.anki2-wal" "collection.anki2-shm" "collection.anki2" "backups/" ".DS_Store" "../" "./")
+
+ ("/usr/local/bin/" (22123 59926 0 0) "xzmore" "xzless" "xzgrep" "xzfgrep" "xzegrep" "xzdiff" "xzdec" "xzcmp" "xzcat" "xz" "xargs" "xapian-tcpsrv" "xapian-replicate-server" "xapian-replicate" "xapian-progsrv" "xapian-metadata" "xapian-inspect" "xapian-config" "xapian-compact" "xapian-chert-update" "xapian-check" "wrjpgcom" "word-list-compress" "wireshark" "wget" "wftopfa" "webpng" "Wand-config" "w3mman" "w3m" "virtualenv-clone" "virtualenv-3.4" "virtualenv" "updatedb" "update_rubygems" "unxz" "unlzma" "unix2mac" "unix2dos" "unix-lpr.sh" "tshark" "tiffsplit" "tiffset" "tiffmedian" "tiffinfo" "tiffdump" "tiffdither" "tiffcrop" "tiffcp" "tiffcmp" "tiff2rgba" "tiff2ps" "tiff2pdf" "tiff2bw" "thumbnail" "text2pcap" "texdistmgr" "texdist" "stream" "ssh-copy-id" "srptool" "simplesearch" "simpleindex" "simpleexpand" "sieve" "sexp-conv" "sed" "scss" "sbcl" "sass-convert" "sass" "safe_yaml" "run-with-aspell" "ruby" "rougify" "ri" "rhino" "rgb2ycbcr" "realpath" "readmsg" "rdoc" "rdjpgcom" "rcs2log" "rawshark" "raw2tiff" "ras2tiff" "randpkt" "rake" "quest" "pyvenv-3.4" "pyvenv" "python3.4m-config" "python3.4m" "python3.4-config" "python3.4-32" "python3.4" "python3-config" "python3-32" "python3" "pygmentize" "pydoc3.4" "pydoc3" "pspell-config" "psktool" "ps2ps2" "ps2ps" "ps2pdfwr" "ps2pdf14" "ps2pdf13" "ps2pdf12" "ps2pdf" "ps2epsi" "ps2ascii" "printafm" "prezip-bin" "prezip" "preunzip" "precat" "ppm2tiff" "pphs" "pngtogd2" "pngtogd" "pngfix" "png-fix-itxt" "pkg-config" "pkcs1-conv" "pip3.4" "pip3" "pip2.7" "pip2" "pip" "pfbtopfa" "pf2afm" "pdf2ps" "pdf2dsc" "pcretest" "pcregrep" "pcre-config" "pbr" "pal2rgb" "openssl-osx-ca" "oldfind" "offlineimap" "ocsptool" "npm" "node" "nettle-lfib-stream" "nettle-hash" "nethack" "mu" "movemail" "montage" "mogrify" "mimeview" "messages" "mergecap" "mailutils-config" "mail" "MagickWand-config" "MagickCore-config" "Magick-config" "Magick++-config" "mac2unix" "lzmore" "lzmainfo" "lzmadec" "lzma" "lzless" "lzgrep" "lzfgrep" "lzegrep" "lzdiff" "lzcmp" "lzcat" "luarocks-admin-5.2" "luarocks-admin" "luarocks-5.2" "luarocks" "luac5.2" "luac-5.2" "luac" "lua5.2" "lua-5.2" "lua" "lprsetup.sh" "locate" "listen" "libpng16-config" "libpng-config" "kramdown" "jshint" "jpegtran" "jekyll" "irb" "import" "igawk" "ifnames" "idle3.4" "idle3" "identify" "html2text" "gyes" "gwhoami" "gwho" "gwc" "gvdir" "gusers" "guptime" "gunlink" "guniq" "gunexpand" "guname" "gtty" "gtsort" "gtruncate" "gtrue" "gtr" "gtouch" "gtimeout" "gtexinfo2man" "gtester-report" "gtester" "gtest" "gtee" "gtar" "gtail" "gtac" "gsync" "gsum" "gstty" "gstdbuf" "gstat" "gsplit" "gsort" "gsnd" "gslp" "gslj" "gsleep" "gshuf" "gshred" "gsha512sum" "gsha384sum" "gsha256sum" "gsha224sum" "gsha1sum" "gsettings" "gseq" "gsdj500" "gsdj" "gsbj" "gsasl" "gs-X11-Yosemite" "gs-X11" "gs-noX11-Yosemite" "gs-noX11" "gs" "gruncon" "grmdir" "grm" "gresource" "grep" "grealpath" "greadlink" "gpwd" "gptx" "gprintf" "gprintenv" "gpr" "gpinky" "gpg" "gpathchk" "gpaste" "god" "gobject-query" "gnutls-serv" "gnutls-cli-debug" "gnutls-cli" "gnutls-certtool" "gnuplot" "gnumfmt" "gnproc" "gnohup" "gnl" "gnice" "gmv" "gmktemp" "gmknod" "gmkfifo" "gmkdir" "gmd5sum" "gls" "glogname" "gln" "glink" "glibtoolize" "glibtool" "glib-mkenums" "glib-gettextize" "glib-genmarshal" "glib-compile-schemas" "glib-compile-resources" "gkill" "gjoin" "gio-querymodules" "ginstall" "gindent" "giftogd2" "gif2tiff" "gid" "ghostid" "ghead" "ggroups" "gfold" "gfmt" "gfalse" "gfactor" "gexpr" "gexpand" "genv" "gem" "gecho" "gdu" "gdtopng" "gdparttopng" "gdlib-config" "gdirname" "gdircolors" "gdir" "gdf" "gdd" "gdcmpgif" "gdbus-codegen" "gdbus" "gdb" "gdate" "gd2topng" "gd2togif" "gd2copypal" "gcut" "gcsplit" "gcp" "gcomm" "gcksum" "gchroot" "gchown" "gchmod" "gchgrp" "gchcon" "gcat" "gbasename" "gbase64" "gawk-4.1.3" "gawk" "gapplication" "g[" "from" "frm" "freetype-config" "font2c" "find" "fgrep" "fc-validate" "fc-scan" "fc-query" "fc-pattern" "fc-match" "fc-list" "fc-cat" "fc-cache" "fax2tiff" "fax2ps" "erb" "eps2eps" "egrep" "editcap" "easy_install-3.4" "dvipdf" "dumpcap" "dotlock" "dos2unix" "djpeg" "display" "dftest" "delve" "cvsbug" "cvs" "copydatabase" "convert" "conjure" "composite" "compare" "cjpeg" "capinfos" "bundler" "bundle" "brew" "bmp2tiff" "bdftogd" "awk" "autoupdate" "autoscan" "autoreconf" "automake-1.15" "automake" "autom4te" "autoheader" "autoconf" "aspell-import" "aspell" "asn1Parser" "asn1Decoding" "asn1Coding" "annotate" "animate" "aclocal-1.15" "aclocal" "2to3-3.4" "2to3" "../" "./")
+
+ ("/Users/samlaf/info/" (22122 17483 0 0) "dir~" "dir" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/cedet/" (22122 18463 0 0) "tests/" "testprojects/" "testdist.sh" "PRERELEASE_CHECKLIST" "obsolete/" "NEWS" "Makefile.wwwinfo" "Makefile" "lisp/" "INSTALL" "GIT_WORKFLOW" "gettodos.sh" "etc/" "doc/" "contrib/" "CEDET_STYLE_GUIDE" "cedet-update-version.el" "cedet-update-changelog.el" "cedet-remove-builtin.el" "cedet-emacs-merge.el" "cedet-ediff.el" "cedet-devel-load.el" "cedet-build.el" ".gitignore" ".git/" ".ede-ignore" ".cvsignore" "../" "./")
+
+ ("/usr/local/ec2/" (22123 59383 0 0) "ec2-api-tools-1.7.5.1/" "../" "./")
+
+ ("/usr/local/" (22123 59926 0 0) "var/" "texlive/" "SUPPORTERS.md" "share/" "sbin/" "README.md" "opt/" "MacGPG2/" "LICENSE.txt" "Library/" "lib/" "include/" "etc/" "ec2/" "CONTRIBUTING.md" "CODEOFCONDUCT.md" "Cellar/" "bin/" ".yardopts" ".travis.yml" ".gitignore" ".git/" "../" "./")
+
+ ("/usr/" (22037 16523 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "adic/" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/elpa/" (22122 14712 0 0) "yasnippet-readme.txt" "yasnippet-20150811.1222/" "swiper-20151030.700/" "spray-readme.txt" "spray-20150625.2345/" "speed-type-readme.txt" "slime-readme.txt" "skeletor-readme.txt" "rpn-calc-readme.txt" "pyvenv-20151029.913/" "python-mode-readme.txt" "python-docstring-readme.txt" "pydoc-readme.txt" "pydoc-info-readme.txt" "pydoc-info-20110301.34/" "popup-20150626.711/" "org2jekyll-readme.txt" "org-present-readme.txt" "org-pomodoro-readme.txt" "org-pomodoro-20150803.530/" "notes-mode-readme.txt" "nodejs-repl-readme.txt" "muse-readme.txt" "magit-readme.txt" "log4e-20150105.505/" "loc-changes-readme.txt" "lmc-readme.txt" "latex-preview-pane-readme.txt" "js2-mode-readme.txt" "js2-mode-20150909/" "js-comint-readme.txt" "info+-readme.txt" "info+-20150520.1807/" "htmlize-readme.txt" "htmlize-20130207.1202/" "highlight-indentation-20150307.208/" "hexrgb-20150709.136/" "haskell-mode-readme.txt" "haskell-mode-20150814.1058/" "haskell-emacs-readme.txt" "gntp-20141024.1950/" "frame-fns-20150104.2208/" "flymake-jshint-readme.txt" "flymake-jshint-1.0/" "find-file-in-project-20151022.708/" "faces+-20150104.2200/" "exec-path-from-shell-readme.txt" "exec-path-from-shell-20150801.104/" "epresent-readme.txt" "elx-readme.txt" "elpy-readme.txt" "doremi-frm-20150727.2054/" "doremi-cmd-20150104.2152/" "doremi-20150815.1438/" "docbook-readme.txt" "djvu-readme.txt" "djvu-0.5/" "company-readme.txt" "company-20151023.1754/" "coffee-mode-readme.txt" "code-library-readme.txt" "cl-generic-readme.txt" "chess-readme.txt" "cdlatex-4.0/" "boogie-friends-readme.txt" "bbdb-readme.txt" "bbdb-20150523.1239/" "bbdb--readme.txt" "avy-zap-readme.txt" "avy-readme.txt" "avy-20150807.648/" "autobookmarks-readme.txt" "auto-complete-readme.txt" "auto-complete-1.4/" "aurel-readme.txt" "auctex-11.89/" "ascii-art-to-unicode-readme.txt" "archives/" "alert-20150402.1246/" "ahungry-theme-readme.txt" "aggressive-indent-readme.txt" "adaptive-wrap-readme.txt" "ace-window-readme.txt" "ace-window-20150803.837/" "2048-game-readme.txt" "#yasnippet-readme.txt#" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/elpa/auctex-11.89/" (22122 14718 0 0) "toolbar-x.elc" "toolbar-x.el" "texmathp.elc" "texmathp.el" "tex.elc" "tex.el" "tex-wizard.elc" "tex-wizard.el" "tex-style.elc" "tex-style.el" "tex-site.elc" "tex-site.el" "tex-mik.elc" "tex-mik.el" "tex-jp.elc" "tex-jp.el" "tex-info.elc" "tex-info.el" "tex-font.elc" "tex-font.el" "tex-fold.elc" "tex-fold.el" "tex-buf.elc" "tex-buf.el" "tex-bar.elc" "tex-bar.el" "tests/" "style/" "RELEASE" "README.GIT" "README" "prv-xemacs.elc" "prv-xemacs.el" "prv-emacs.elc" "prv-emacs.el" "preview.elc" "preview.el" "preview-latex.info" "plain-tex.elc" "plain-tex.el" "multi-prompt.elc" "multi-prompt.el" "latex.elc" "latex.el" "latex/" "images/" "GNUmakefile" "font-latex.elc" "font-latex.el" "doc/" "dir" "COPYING" "context.elc" "context.el" "context-nl.elc" "context-nl.el" "context-en.elc" "context-en.el" "circ.tex" "ChangeLog.1" "ChangeLog-preview.1" "ChangeLog-preview" "ChangeLog" "build-aux/" "bib-cite.elc" "bib-cite.el" "auctex.info" "auctex.elc" "auctex.el" "auctex-pkg.elc" "auctex-pkg.el" "auctex-autoloads.el~" "auctex-autoloads.el" ".elpaignore" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/MacOS/" (21802 54270 0 0) "libexec-x86_64-10_9/" "libexec-x86_64-10_7/" "libexec-x86_64-10_5/" "libexec-powerpc-10_4/" "libexec-i386-10_5/" "libexec/" "Emacs-x86_64-10_9" "Emacs-x86_64-10_7" "Emacs-x86_64-10_5" "Emacs-powerpc-10_4" "Emacs-i386-10_5" "Emacs" "bin-x86_64-10_9/" "bin-x86_64-10_7/" "bin-x86_64-10_5/" "bin-powerpc-10_4/" "bin-i386-10_5/" "bin/" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/elpa/auto-complete-1.4/dict/" (22014 35869 0 0) "tuareg-mode" "ts-mode" "tcl-mode" "sh-mode" "scheme-mode" "ruby-mode" "python-mode" "php-mode" "lua-mode" "javascript-mode" "java-mode" "erlang-mode" "css-mode" "coq-mode" "clojurescript-mode" "clojure-mode" "caml-mode" "c-mode" "c++-mode" "ada-mode" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/elpa/auto-complete-1.4/" (22014 35872 0 0) "TODO.md" "README.md" "Makefile" "doc/" "dict/" "COPYING.GPLv3" "COPYING.FDL" "auto-complete.elc" "auto-complete.el" "auto-complete-pkg.elc" "auto-complete-pkg.el" "auto-complete-config.elc" "auto-complete-config.el" "auto-complete-autoloads.el~" "auto-complete-autoloads.el" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/elpa/ace-window-20150803.837/" (21969 10774 0 0) "ace-window.elc" "ace-window.el" "ace-window-pkg.elc" "ace-window-pkg.el" "ace-window-autoloads.el~" "ace-window-autoloads.el" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/cedet/doc/" (21895 10172 0 0) "texi/" "OONEWS-semantic" "ONEWS-semantic" "info/" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/Resources/lisp/" (22060 42977 0 0) "xt-mouse.elc" "xt-mouse.el.gz" "xml.elc" "xml.el.gz" "x-dnd.elc" "x-dnd.el.gz" "woman.elc" "woman.el.gz" "winner.elc" "winner.el.gz" "window.elc" "window.el.gz" "windmove.elc" "windmove.el.gz" "widget.elc" "widget.el.gz" "wid-edit.elc" "wid-edit.el.gz" "wid-browse.elc" "wid-browse.el.gz" "whitespace.elc" "whitespace.el.gz" "wdired.elc" "wdired.el.gz" "w32-vars.elc" "w32-vars.el.gz" "w32-fns.elc" "w32-fns.el.gz" "w32-common-fns.elc" "w32-common-fns.el.gz" "vt100-led.elc" "vt100-led.el.gz" "vt-control.elc" "vt-control.el.gz" "view.elc" "view.el.gz" "version.elc" "version.el.gz" "vcursor.elc" "vcursor.el.gz" "vc/" "userlock.elc" "userlock.el.gz" "url/" "uniquify.elc" "uniquify.el.gz" "type-break.elc" "type-break.el.gz" "tutorial.elc" "tutorial.el.gz" "tree-widget.elc" "tree-widget.el.gz" "tooltip.elc" "tooltip.el.gz" "tool-bar.elc" "tool-bar.el.gz" "tmm.elc" "tmm.el.gz" "timezone.elc" "timezone.el.gz" "time.elc" "time.el.gz" "time-stamp.elc" "time-stamp.el.gz" "thumbs.elc" "thumbs.el.gz" "thingatpt.elc" "thingatpt.el.gz" "textmodes/" "term.elc" "term.el.gz" "term/" "tempo.elc" "tempo.el.gz" "tar-mode.elc" "tar-mode.el.gz" "talk.elc" "talk.el.gz" "tabify.elc" "tabify.el.gz" "t-mouse.elc" "t-mouse.el.gz" "subr.elc" "subr.el.gz" "subdirs.el" "strokes.elc" "strokes.el.gz" "startup.elc" "startup.el.gz" "speedbar.elc" "speedbar.el.gz" "soundex.elc" "soundex.el.gz" "sort.elc" "sort.el.gz" "skeleton.elc" "skeleton.el.gz" "simple.elc" "simple.el.gz" "shell.elc" "shell.el.gz" "shadowfile.elc" "shadowfile.el.gz" "ses.elc" "ses.el.gz" "server.elc" "server.el.gz" "select.elc" "select.el.gz" "scroll-lock.elc" "scroll-lock.el.gz" "scroll-bar.elc" "scroll-bar.el.gz" "scroll-all.elc" "scroll-all.el.gz" "sb-image.elc" "sb-image.el.gz" "saveplace.elc" "saveplace.el.gz" "savehist.elc" "savehist.el.gz" "ruler-mode.elc" "ruler-mode.el.gz" "rot13.elc" "rot13.el.gz" "rfn-eshadow.elc" "rfn-eshadow.el.gz" "reveal.elc" "reveal.el.gz" "reposition.elc" "reposition.el.gz" "replace.elc" "replace.el.gz" "repeat.elc" "repeat.el.gz" "register.elc" "register.el.gz" "rect.elc" "rect.el.gz" "recentf.elc" "recentf.el.gz" "README" "ps-samp.elc" "ps-samp.el.gz" "ps-print.elc" "ps-print.el.gz" "ps-mule.elc" "ps-mule.el.gz" "ps-def.elc" "ps-def.el.gz" "ps-bdf.elc" "ps-bdf.el.gz" "progmodes/" "profiler.elc" "profiler.el.gz" "proced.elc" "proced.el.gz" "printing.elc" "printing.el.gz" "play/" "pcomplete.elc" "pcomplete.el.gz" "pcmpl-x.elc" "pcmpl-x.el.gz" "pcmpl-unix.elc" "pcmpl-unix.el.gz" "pcmpl-rpm.elc" "pcmpl-rpm.el.gz" "pcmpl-linux.elc" "pcmpl-linux.el.gz" "pcmpl-gnu.elc" "pcmpl-gnu.el.gz" "pcmpl-cvs.elc" "pcmpl-cvs.el.gz" "password-cache.elc" "password-cache.el.gz" "paren.elc" "paren.el.gz" "outline.elc" "outline.el.gz" "org/" "obsolete/" "nxml/" "novice.elc" "novice.el.gz" "notifications.elc" "notifications.el.gz" "newcomment.elc" "newcomment.el.gz" "net/" "mwheel.elc" "mwheel.el.gz" "msb.elc" "msb.el.gz" "mpc.elc" "mpc.el.gz" "mouse.elc" "mouse.el.gz" "mouse-drag.elc" "mouse-drag.el.gz" "mouse-copy.elc" "mouse-copy.el.gz" "misearch.elc" "misearch.el.gz" "misc.elc" "misc.el.gz" "minibuffer.elc" "minibuffer.el.gz" "minibuf-eldef.elc" "minibuf-eldef.el.gz" "midnight.elc" "midnight.el.gz" "mh-e/" "menu-bar.elc" "menu-bar.el.gz" "md4.elc" "md4.el.gz" "mb-depth.elc" "mb-depth.el.gz" "master.elc" "master.el.gz" "man.elc" "man.el.gz" "makesum.elc" "makesum.el.gz" "mail/" "macros.elc" "macros.el.gz" "ls-lisp.elc" "ls-lisp.el.gz" "lpr.elc" "lpr.el.gz" "locate.elc" "locate.el.gz" "loadup.el" "loadhist.elc" "loadhist.el.gz" "loaddefs.el" "linum.elc" "linum.el.gz" "leim/" "ldefs-boot.el" "language/" "kmacro.elc" "kmacro.el.gz" "kermit.elc" "kermit.el.gz" "json.elc" "json.el.gz" "jka-compr.elc" "jka-compr.el.gz" "jka-cmpr-hook.elc" "jka-cmpr-hook.el.gz" "jit-lock.elc" "jit-lock.el.gz" "isearchb.elc" "isearchb.el.gz" "isearch.elc" "isearch.el.gz" "international/" "informat.elc" "informat.el.gz" "info.elc" "info.el.gz" "info-xref.elc" "info-xref.el.gz" "info-look.elc" "info-look.el.gz" "indent.elc" "indent.el.gz" "imenu.elc" "imenu.el.gz" "image.elc" "image.el.gz" "image-mode.elc" "image-mode.el.gz" "image-file.elc" "image-file.el.gz" "image-dired.elc" "image-dired.el.gz" "iimage.elc" "iimage.el.gz" "ielm.elc" "ielm.el.gz" "ido.elc" "ido.el.gz" "icomplete.elc" "icomplete.el.gz" "ibuffer.elc" "ibuffer.el.gz" "ibuf-macs.elc" "ibuf-macs.el.gz" "ibuf-ext.elc" "ibuf-ext.el.gz" "htmlfontify.elc" "htmlfontify.el.gz" "hl-line.elc" "hl-line.el.gz" "hippie-exp.elc" "hippie-exp.el.gz" "hilit-chg.elc" "hilit-chg.el.gz" "hi-lock.elc" "hi-lock.el.gz" "hfy-cmap.elc" "hfy-cmap.el.gz" "hexl.elc" "hexl.el.gz" "hex-util.elc" "hex-util.el.gz" "help.elc" "help.el.gz" "help-mode.elc" "help-mode.el.gz" "help-macro.elc" "help-macro.el.gz" "help-fns.elc" "help-fns.el.gz" "help-at-pt.elc" "help-at-pt.el.gz" "gs.elc" "gs.el.gz" "gnus/" "generic-x.elc" "generic-x.el.gz" "fringe.elc" "fringe.el.gz" "frameset.elc" "frameset.el.gz" "frame.elc" "frame.el.gz" "forms.elc" "forms.el.gz" "format.elc" "format.el.gz" "format-spec.elc" "format-spec.el.gz" "font-lock.elc" "font-lock.el.gz" "font-core.elc" "font-core.el.gz" "follow.elc" "follow.el.gz" "foldout.elc" "foldout.el.gz" "flow-ctrl.elc" "flow-ctrl.el.gz" "finder.elc" "finder.el.gz" "finder-inf.el" "find-lisp.elc" "find-lisp.el.gz" "find-file.elc" "find-file.el.gz" "find-dired.elc" "find-dired.el.gz" "find-cmd.elc" "find-cmd.el.gz" "filesets.elc" "filesets.el.gz" "files.elc" "files.el.gz" "files-x.elc" "files-x.el.gz" "filenotify.elc" "filenotify.el.gz" "filecache.elc" "filecache.el.gz" "ffap.elc" "ffap.el.gz" "faces.elc" "faces.el.gz" "facemenu.elc" "facemenu.el.gz" "face-remap.elc" "face-remap.el.gz" "ezimage.elc" "ezimage.el.gz" "expand.elc" "expand.el.gz" "eshell/" "erc/" "epg.elc" "epg.el.gz" "epg-config.elc" "epg-config.el.gz" "epa.elc" "epa.el.gz" "epa-mail.elc" "epa-mail.el.gz" "epa-hook.elc" "epa-hook.el.gz" "epa-file.elc" "epa-file.el.gz" "epa-dired.elc" "epa-dired.el.gz" "env.elc" "env.el.gz" "emulation/" "emacs-parallel/" "emacs-lock.elc" "emacs-lock.el.gz" "emacs-lisp/" "elide-head.elc" "elide-head.el.gz" "electric.elc" "electric.el.gz" "elec-pair.elc" "elec-pair.el.gz" "ehelp.elc" "ehelp.el.gz" "edmacro.elc" "edmacro.el.gz" "echistory.elc" "echistory.el.gz" "ebuff-menu.elc" "ebuff-menu.el.gz" "dynamic-setting.elc" "dynamic-setting.el.gz" "double.elc" "double.el.gz" "dos-w32.elc" "dos-w32.el.gz" "dos-vars.elc" "dos-vars.el.gz" "dos-fns.elc" "dos-fns.el.gz" "doc-view.elc" "doc-view.el.gz" "dnd.elc" "dnd.el.gz" "disp-table.elc" "disp-table.el.gz" "dirtrack.elc" "dirtrack.el.gz" "dired.elc" "dired.el.gz" "dired-x.elc" "dired-x.el.gz" "dired-aux.elc" "dired-aux.el.gz" "dframe.elc" "dframe.el.gz" "desktop.elc" "desktop.el.gz" "descr-text.elc" "descr-text.el.gz" "delsel.elc" "delsel.el.gz" "delim-col.elc" "delim-col.el.gz" "dabbrev.elc" "dabbrev.el.gz" "custom.elc" "custom.el.gz" "cus-theme.elc" "cus-theme.el.gz" "cus-start.elc" "cus-start.el.gz" "cus-load.el" "cus-face.elc" "cus-face.el.gz" "cus-edit.elc" "cus-edit.el.gz" "cus-dep.elc" "cus-dep.el.gz" "COPYING" "composite.elc" "composite.el.gz" "completion.elc" "completion.el.gz" "comint.elc" "comint.el.gz" "color.elc" "color.el.gz" "cmuscheme.elc" "cmuscheme.el.gz" "chistory.elc" "chistory.el.gz" "cedet/" "cdl.elc" "cdl.el.gz" "case-table.elc" "case-table.el.gz" "calendar/" "calculator.elc" "calculator.el.gz" "calc/" "button.elc" "button.el.gz" "buff-menu.elc" "buff-menu.el.gz" "bs.elc" "bs.el.gz" "bookmark.elc" "bookmark.el.gz" "bindings.elc" "bindings.el.gz" "battery.elc" "battery.el.gz" "avoid.elc" "avoid.el.gz" "autorevert.elc" "autorevert.el.gz" "autoinsert.elc" "autoinsert.el.gz" "autoarg.elc" "autoarg.el.gz" "array.elc" "array.el.gz" "arc-mode.elc" "arc-mode.el.gz" "apropos.elc" "apropos.el.gz" "ansi-color.elc" "ansi-color.el.gz" "allout.elc" "allout.el.gz" "allout-widgets.elc" "allout-widgets.el.gz" "align.elc" "align.el.gz" "abbrev.elc" "abbrev.el.gz" "../" "./")
+
+ ("/Users/samlaf/bin/" (21831 7805 0 0) "emacs" "../" "./")
+
+ ("/usr/share/" (22037 16523 0 0) "zsh/" "zoneinfo/" "vim/" "uucp/" "ucupdate/" "tokenizer/" "thermald.bundle/" "texinfo/" "terminfo/" "tabset/" "snmp/" "skel/" "screen/" "sandbox/" "ri/" "pmenergy/" "php/" "misc/" "mecabra/" "man/" "locale/" "langid/" "kpep/" "kdrl.bundle/" "java/" "info/" "icu/" "httpd/" "hiutil/" "groff/" "germantok/" "ftpd/" "file/" "examples/" "emacs/" "doc/" "dict/" "current-os.sdk/" "cups/" "CSI/" "cracklib/" "CoreDuetDaemonConfig.bundle/" "calendar/" "apr-1/" "../" "./")
+
+ ("/usr/local/share/info/" (22115 41207 0 0) "wget.info" "tar.info-3" "tar.info-2" "tar.info-1" "tar.info" "stabs.info" "sed.info" "pkcs11-vision.png" "nettle.info" "mu4e.info" "mailutils.info-2" "mailutils.info-1" "mailutils.info" "libtool.info-2" "libtool.info-1" "libtool.info" "libtasn1.info" "indent.info" "gsasl.info" "grep.info" "gnutls.info-5" "gnutls.info-4" "gnutls.info-3" "gnutls.info-2" "gnutls.info-1" "gnutls.info" "gnutls-x509.png" "gnutls-pgp.png" "gnutls-modauth.png" "gnutls-logo.png" "gnutls-layers.png" "gnutls-internals.png" "gnutls-handshake-state.png" "gnutls-handshake-sequence.png" "gnutls-guile.info" "gnutls-client-server-use-case.png" "gmp.info-2" "gmp.info-1" "gmp.info" "gdb.info" "gawkinet.info" "gawk.info" "find.info" "find-maint.info" "dir" "coreutils.info" "bfd.info" "automake.info-2" "automake.info-1" "automake.info" "automake-history.info" "autoconf.info" "aspell.info" "aspell-dev.info" "annotate.info" "../" "./")
+
+ ("/usr/local/share/" (22115 41255 0 0) "xml/" "w3m/" "systemtap/" "man/" "lua/" "locale/" "libtool/" "info/" "ImageMagick-6/" "gtk-doc/" "gnuplot/" "glib-2.0/" "ghostscript/" "gdb/" "gc/" "fontconfig/" "emacs/" "doc/" "cvs/" "bash-completion/" "awk/" "automake-1.15/" "autoconf/" "aclocal-1.15/" "aclocal/" "../" "./")
+
+ ("/Users/samlaf/programming/__pycache__/" (22064 33046 0 0) "tut.cpython-34.pyc" "../" "./")
+
+ ("/Users/samlaf/programming/Haskell/" (22120 64202 0 0) "scratch.hs~" "scratch.hs" "RWH/" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/elpa/auctex-11.89/doc/" (22121 34420 0 0) "wininstall.texi" "todo.texi" "tex-ref.tex" "quickstart.texi" "preview-todo.texi" "preview-readme.texi" "preview-problems.texi" "preview-latex.texi" "preview-faq.texi" "preview-dtxdoc.pl" "macros.texi" "intro.texi" "install.texi" "history.texi" "fdl.texi" "faq.texi" "copying.texi" "changes.texi" "auctex.texi" "../" "./")
+
+ ("/usr/share/info/" (22120 61267 0 0) "woman" "widget" "viper" "vip" "uucp.info-8" "uucp.info-7" "uucp.info-6" "uucp.info-5" "uucp.info-4" "uucp.info-3" "uucp.info-2" "uucp.info-1" "uucp.info" "url" "tramp" "texinfo-3" "texinfo-2" "texinfo-1" "texinfo" "speedbar" "smtpmail" "sieve" "ses" "screen.info-5" "screen.info-4" "screen.info-3" "screen.info-2" "screen.info-1" "screen.info" "sc" "reftex" "rcirc" "pgg" "pcl-cvs" "org-2" "org-1" "org" "newsticker" "mh-e-2" "mh-e-1" "mh-e" "message" "info.info" "info-stnd.info" "info" "idlwave" "groff-3" "groff-2" "groff-1" "groff" "gnus-5" "gnus-4" "gnus-3" "gnus-2" "gnus-1" "gnus" "forms" "flymake" "eudc" "eshell" "erc" "emacs-mime" "emacs-8" "emacs-7" "emacs-6" "emacs-5" "emacs-4" "emacs-3" "emacs-2" "emacs-1" "emacs" "elisp-9" "elisp-8" "elisp-7" "elisp-6" "elisp-5" "elisp-4" "elisp-3" "elisp-2" "elisp-10" "elisp-1" "elisp" "eintr-3" "eintr-2" "eintr-1" "eintr" "efaq" "ediff" "ebrowse" "dired-x" "dir" "diff.info" "dc.info" "cl" "ccmode-1" "ccmode" "calc-6" "calc-5" "calc-4" "calc-3" "calc-2" "calc-1" "calc" "bc.info" "bash.info" "autotype" "ada-mode" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/cedet/doc/info/" (21895 11768 0 0) "wisent.info" "srecode.info" "semantic.info" "semantic-user.info" "semantic-langdev.info" "semantic-appdev.info" "grammar-fw.info" "ede.info" "dir" "cogre.info" "cedet.info" "bovine.info" "../" "./")
+
+ ("/Users/samlaf/website/org/_posts/" (22120 17049 0 0) "learning-characters.org~" "learning-characters.org" "commodity-vs-product.org~" "commodity-vs-product.org" "2015-12-09-RPN-calc-and-functional-programming.org~" "2015-12-09-RPN-calc-and-functional-programming.org" "2015-12-09-RPN-calc-and-functional-programming.html~" "2015-11-29-learning-language-1.org~" "2015-11-29-learning-language-1.org" "2015-10-07-PKU-first-impression.org~" "2015-09-17-mu4e_vs_rmail.org~" "2015-09-17-mu4e_vs_rmail.org" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/_posts/" (22120 17056 0 0) "learning-characters.html" "commodity-vs-product.html~" "commodity-vs-product.html" "2015-12-09-RPN-calc-and-functional-programming.html~" "2015-12-09-RPN-calc-and-functional-programming.html" "2015-11-29-learning-language-1.html~" "2015-11-29-learning-language-1.html" "2015-09-17-mu4e_vs_rmail.html~" "2015-09-17-mu4e_vs_rmail.html" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/elpa/auto-complete-1.4/doc/" (22060 45458 0 0) "style.css" "manual.txt" "manual.ja.txt" "index.txt" "index.ja.txt" "demo.txt" "changes.txt" "changes.ja.txt" "ac.png" "ac-isearch.png" "ac-fuzzy.png" "#manual.txt#" "../" "./")
+
+ ("/Users/samlaf/Desktop/" (22120 13584 0 0) "Peking University School of Foreign Language Education.pdf" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/website/org/images/" (22120 13566 0 0) "RPN-triangle.png" "RPN-basic.png" "../" "./")
+
+ ("/Users/samlaf/website/org/" (22120 13263 0 0) "images/" "_posts/" "../" "./")
+
+ ("/Users/" (22032 56316 0 0) "Shared/" "samlaf/" ".localized" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/" (22119 57895 0 0) "test~" "scss/" "README.md" "js/" "index.html" "img/" "fonts/" "css/" "about.md" "_site/" "_posts/" "_layouts/" "_includes/" "_config.yml~" "_config.yml" ".sass-cache/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Applications/Anki.app/Contents/MacOS/" (22026 1773 0 0) "python" "Anki" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/_site/img/" (22115 48938 0 0) "tiger.jpeg" "sass.png" "sass.jpg" "rubyrails.png" "ruby.png" "rails-app.png" "post-img-1.jpeg" "jekyll.png" "bg.jpeg" "avatar.jpg" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/_site/" (22115 48938 0 0) "scss/" "README.md" "js/" "index.html" "img/" "fonts/" "css/" "about/" "2015/" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/.git/" (22115 49569 0 0) "refs/" "packed-refs" "ORIG_HEAD" "objects/" "logs/" "info/" "index" "hooks/" "HEAD" "FETCH_HEAD" "description" "config" "COMMIT_EDITMSG~" "COMMIT_EDITMSG" "branches/" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/Resources/info/" (21895 11257 0 0) "woman.info.gz" "wisent.info.gz" "widget.info.gz" "viper.info.gz" "vip.info.gz" "url.info.gz" "tramp.info.gz" "todo-mode.info.gz" "srecode.info.gz" "speedbar.info.gz" "smtpmail.info.gz" "sieve.info.gz" "ses.info.gz" "semantic.info.gz" "sc.info.gz" "sasl.info.gz" "remember.info.gz" "reftex.info.gz" "rcirc.info.gz" "pgg.info.gz" "pcl-cvs.info.gz" "org.info.gz" "octave-mode.info.gz" "nxml-mode.info.gz" "newsticker.info.gz" "mh-e.info.gz" "message.info.gz" "mairix-el.info.gz" "info.info.gz" "ido.info.gz" "idlwave.info.gz" "htmlfontify.info.gz" "gnus.info.gz" "forms.info.gz" "flymake.info.gz" "eww.info.gz" "eudc.info.gz" "eshell.info.gz" "ert.info.gz" "erc.info.gz" "epa.info.gz" "emacs.info.gz" "emacs-mime.info.gz" "emacs-gnutls.info.gz" "elisp.info.gz" "eintr.info.gz" "eieio.info.gz" "efaq.info.gz" "edt.info.gz" "ediff.info.gz" "ede.info.gz" "ebrowse.info.gz" "dir~" "dired-x.info.gz" "dir" "dbus.info.gz" "cl.info.gz" "ccmode.info.gz" "calc.info.gz" "bovine.info.gz" "autotype.info.gz" "auth.info.gz" "ada-mode.info.gz" "a.out.dSYM/" "a.out" "../" "./")
+
+ ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/T/" (22110 47454 0 0) "xcrun_db" "TemporaryItems/" "ssh-M9UVoAsYqTQR/" "Skype/" "npm-49603-50d04b91/" "MediaCache/" "icdd501" "emacs501/" "docview501/" "com.getdropbox.dropbox.garcon/" "com.evernote.EvernoteHelper/" "com.evernote.Evernote/" "com.apple.SocialPushAgent/" "com.apple.soagent/" "com.apple.quicklook.ui.helper/" "com.apple.Preview/" "com.apple.photomoments/" "com.apple.photolibraryd/" "com.apple.PhotoIngestService/" "com.apple.notificationcenterui.WeatherSummary/" "com.apple.Notes/" "com.apple.ncplugin.weather/" "com.apple.ncplugin.stocks/" "com.apple.mail/" "com.apple.lateragent/" "com.apple.iWork.Keynote/" "com.apple.InputMethodKit.TextReplacementService/" "com.apple.ICPPhotoStreamLibraryService/" "com.apple.iCal.CalendarNC/" "com.apple.geod/" "com.apple.Dictionary/" "com.apple.DataDetectorsDynamicData/" "com.apple.cloudphotosd/" "com.apple.CloudPhotosConfiguration/" "com.apple.CalendarAgent.CalNCService/" "com.apple.CalendarAgent/" "com.apple.BKAgentService/" "com.apple.appstore.PluginXPCService/" "com.apple.appstore/" "com.apple.AirPlayUIAgent/" "com.apple.AddressBook.InternetAccountsBridge/" "com.apple.AddressBook.FaceTimeService/" "com.apple.AddressBook.ContactsAccountsService/" "com.apple.AddressBook/" "Cleanup At Startup/" "chrome-maoADZ/" "babel-50539G4n/" "anki_temp/" "anki8f0f9d153ede31a072d8daaa9bebb758c2b6b9b9" ".screen/" ".com.google.Chrome.s2PJKI/" ".CalendarLocks/" ".AddressBookLocks/" "../" "./")
+
+ ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/" (21826 65354 0 0) "T/" "Cleanup At Startup/" "C/" "0/" "../" "./")
+
+ ("/var/folders/dn/" (21826 59663 0 0) "gy4jhwt134b99gk3xzkjlktc0000gn/" "../" "./")
+
+ ("/var/folders/" (21826 59663 0 0) "zz/" "dn/" "../" "./")
+
+ ("/var/" (22067 1943 0 0) "yp/" "vm/" "tmp/" "spool/" "rwho/" "run/" "rpc/" "root/" "networkd/" "netboot/" "msgs/" "mail/" "log/" "lib/" "jabberd/" "folders/" "empty/" "db/" "backups/" "audit/" "at/" "agentx/" "../" "./")
+
+ ("/Applications/Anki.app/Contents/" (22026 1772 0 0) "Resources/" "PkgInfo" "MacOS/" "Info.plist" "Frameworks/" "_CodeSignature/" "../" "./")
+
+ ("/Users/samlaf/website/" (22106 61608 0 0) "samlaf.github.io/" "org/" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/_site/2015/11/29/" (22106 61763 0 0) "learning-language-1.html" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/_site/2015/11/" (22106 61763 0 0) "29/" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/_site/2015/" (22106 61763 0 0) "11/" "10/" "09/" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io-backup/scripts/" (22004 19897 0 0) "main.js" ".main.js.swp" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io-backup/images/" (22004 19861 0 0) "fence.jpg" "donald-duck.jpg" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io-backup/" (22004 19897 0 0) "styles/" "scripts/" "index.html" "images/" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/_site/2015/09/17/" (22020 60396 0 0) "mu4e_vs_rmail.html" "../" "./")
+
+ ("/Users/samlaf/website/samlaf.github.io/_site/2015/09/" (22020 60396 0 0) "17/" "../" "./")
+
+ ("/Users/samlaf/org/notes/" (22106 61306 0 0) "beamer.org" "../" "./")
+
+ ("/Users/samlaf/deleteme/" (22101 27337 0 0) "README" "Rakefile" "lib/" ".git/" "../" "./")
+
+ ("/Users/samlaf/PKU/riddles/" (22098 64327 0 0) "riddles.toc" "riddles.tex~" "riddles.tex" "riddles.snm" "riddles.pdf" "riddles.out" "riddles.org~" "riddles.org" "riddles.nav" "riddles.log" "riddles.aux" "auto/" "_minted-riddles/" "../" "./")
+
+ ("/Users/samlaf/Documents/Anki/addons/image_occlusion_2/" (21925 1516 0 0) "svgutils.py" "svg-edit/" "resources.qrc" "resources.py" "notes_from_svg.py" "Imaging/" "image_occlusion.py" "icons/" "etree/" "config.py" "blank-svg.svg" "add_notes.py" "__init__.py" "../" "./")
+
+ ("/Users/samlaf/Documents/Anki/addons/chinese/" (22060 15595 0 0) "upgrade.py" "ui.py" "templates.py" "templates/" "python-2.7-modules/" "models/" "microsofttranslator/" "Logo/" "LICENSE" "icons/" "graph.py" "google_tts.py" "fill_missing.py" "edit_ui.py" "edit_functions.py.backup" "edit_functions.py" "edit_behavior_model.py" "edit_behavior.py.old" "edit_behavior.py" "edit.py" "dictdb.py" "db/" "config.py" "chinese_addon_config.json" "bopomofo.py" "baidu_tts.py" "__init__.py" ".DS_Store" "#edit_functions.py#" "../" "./")
+
+ ("/Users/samlaf/PKU/" (22098 57117 0 0) "riddles/" "prv_guoqingjie.pdf" "prv_guoqingjie.log" "pictures-guoqingjie/" "missfont.log" "guoqingjie.toc" "guoqingjie.tex~" "guoqingjie.tex" "guoqingjie.snm" "guoqingjie.pdf" "guoqingjie.out" "guoqingjie.org~" "guoqingjie.org" "guoqingjie.nav" "guoqingjie.log" "guoqingjie.aux" "auto/" "_region_.xdv" "_region_.toc" "_region_.tex~" "_region_.tex" "_region_.snm" "_region_.prv/" "_region_.out" "_region_.nav" "_region_.log" "_region_.aux" "_minted-guoqingjie/" "_minted-_region_/" ".DS_Store" "#guoqingjie.tex#" "../" "./")
+
+ ("/Users/samlaf/Documents/Anki/addons/chinese/db/" (22032 60793 0 0) "update" "COPYING.txt" "chinese_dict.sqlite" ".DS_Store" "#update#" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/elpa/flymake-jshint-1.0/" (22097 47867 0 0) "jshint-configuration-path.json" "flymake-jshint.elc" "flymake-jshint.el" "flymake-jshint-pkg.elc" "flymake-jshint-pkg.el" "flymake-jshint-autoloads.el~" "flymake-jshint-autoloads.el" "../" "./")
+
+ ("/Users/samlaf/mu/" (22003 53483 0 0) "www/" "toys/" "TODO" "stamp-h1" "README.org" "README" "NEWS.org" "NEWS" "mu4e/" "mu/" "missing" "man/" "Makefile.in" "Makefile.am" "Makefile" "m4/" "ltmain.sh" "libtool" "lib/" "install-sh" "INSTALL" "HACKING" "guile/" "gtest.mk" "depcomp" "COPYING" "contrib/" "configure.ac" "configure" "config.sub" "config.status" "config.log" "config.h.in" "config.h" "config.guess" "compile" "ChangeLog" "c.cfg" "autom4te.cache/" "autogen.sh" "AUTHORS" "aclocal.m4" ".travis.yml" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/samlaf/programming/my_cl_library/onlisp/" (22001 10476 0 0) "utilities.lisp~" "ch6-static-ref-network.lisp~" "ch6-static-ref-network.lisp" "ch6-functions-as-representation.lisp~" "ch6-data-func-network.lisp" "ch6-closures-network.lisp~" "ch6-closures-network.lisp" "ch5-returning-functions.lisp~" "ch5-returning-functions.lisp" "ch4-utility-functions.lisp~" "ch4-utility-functions.lisp" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/site-lisp/js-comint/" (22097 13224 0 0) "README.org" "js-comint.el" ".git/" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/site-lisp/" (22097 13221 0 0) "js-comint/" "epub-mode.el" "dict-mac.el" "../" "./")
+
+ ("/usr/local/Cellar/rhino/1.7.6/libexec/" (22097 11037 0 0) "js.jar" "../" "./")
+
+ ("/usr/local/Cellar/rhino/1.7.6/bin/" (22097 11037 0 0) "rhino" "../" "./")
+
+ ("/usr/local/Cellar/rhino/1.7.6/" (22097 11038 0 0) "LICENSE.txt" "libexec/" "INSTALL_RECEIPT.json" "bin/" "../" "./")
+
+ ("/usr/local/Cellar/rhino/" (22097 11037 0 0) "1.7.6/" "../" "./")
+
+ ("/usr/local/Cellar/" (22097 11037 0 0) "xz/" "xapian/" "wget/" "w3m/" "ssh-copy-id/" "sbcl/" "rhino/" "readline/" "pkg-config/" "pcre/" "openssl/" "offline-imap/" "node/" "nettle/" "nethack/" "mailutils/" "libtool/" "libtiff/" "libtasn1/" "libpng/" "libffi/" "jpeg/" "imagemagick/" "html2text/" "gsasl/" "grep/" "gnutls/" "gnu-tar/" "gnu-sed/" "gnu-indent/" "gnu-getopt/" "gmp/" "gmime/" "glib/" "gettext/" "gdb/" "gawk/" "freetype/" "findutils/" "dos2unix/" "cvs/" "coreutils/" "bdw-gc/" "automake/" "autoconf/" "aspell/" "../" "./")
+
+ ("/Users/samlaf/.emacs.d/snippets/org-mode/" (22037 18703 0 0) "project~" "project" "org-blog-heading~" "org-blog-heading" "../" "./")
+
+ ("/Users/samlaf/Applications/Chrome Apps.localized/Default apdfllckaahabafndbhieahigkjlhalf.app/" (22055 1468 0 0) "Contents/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

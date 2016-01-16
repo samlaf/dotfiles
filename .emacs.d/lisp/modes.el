@@ -1,0 +1,102 @@
+;;; modes.el --- configuration for 100-odd emacs modes
+
+
+;;--------------- python shell---------------;;
+(setenv "LC_CTYPE" "UTF-8")    ;otherwise python-shell uses ASCII by default
+
+
+;;----------------GNUS-----------------;;
+(add-hook 'message-mode-hook
+          '(lambda ()
+             (bbdb-initialize 'message)
+             (bbdb-initialize 'gnus)
+             (local-set-key "<TAB>" 'bbdb-complete-name)))
+
+(add-hook 'gnus-group-mode-hook 'gnus-topic-mode)
+
+;;----------------ORG MODE-------------;;
+(load-library "org-config")
+
+;;----------------HASKELL MODE----------------;;
+
+(add-hook 'haskell-mode-hook 'haskell-indentation-mode)
+(add-hook 'haskell-mode-hook 'haskell-decl-scan-mode)
+
+(eval-after-load "haskell-mode"
+  '(progn
+     (define-key haskell-mode-map (kbd "C-x C-d") nil)
+     (define-key haskell-mode-map (kbd "C-c C-z") 'haskell-interactive-switch)
+     (define-key haskell-mode-map (kbd "C-c C-l") 'haskell-process-load-file)
+     (define-key haskell-mode-map (kbd "C-c C-b") 'haskell-interactive-switch)
+     (define-key haskell-mode-map (kbd "C-c C-t") 'haskell-process-do-type)
+     (define-key haskell-mode-map (kbd "C-c C-i") 'haskell-process-do-info)
+     (define-key haskell-mode-map (kbd "C-c M-.") nil)
+     (define-key haskell-mode-map (kbd "C-c C-d") nil)
+     (define-key haskell-mode-map (kbd "C-,") 'haskell-move-nested-left)
+     (define-key haskell-mode-map (kbd "C-.") 'haskell-move-nested-right)))
+
+;;--------------- SLIME ---------------;;
+;; Replace "sbcl" with the path to your implementation
+;; Never changed "sbcl"... does it work anyhow?!?
+(setq inferior-lisp-program "sbcl")
+
+;;Winner mode (record changes in window configurations)
+(winner-mode)
+
+(electric-pair-mode 1)
+(show-paren-mode 1)
+
+;;-------------------- js-comint --------------------;;
+;; This is a recent version (not the one from packages)
+;; that fixes bugs with node REPL (cloned from github)
+
+(add-to-list 'load-path "~/.emacs.d/site-lisp/js-comint")
+(require 'js-comint)
+(setenv "NODE_NO_READLINE" "1")		;This takes care of the prompt
+					;problem in node
+(add-hook 'js2-mode-hook '(lambda ()
+			    (local-set-key "\C-x\C-e" 'js-send-last-sexp)
+			    (local-set-key "\C-\M-x" 'js-send-last-sexp-and-go)
+			    (local-set-key "\C-cb" 'js-send-buffer)
+			    (local-set-key "\C-c\C-b" 'js-send-buffer-and-go)
+			    (local-set-key "\C-cl" 'js-load-file-and-go)
+			    ))
+
+
+
+
+;;-------------------- js2-mode --------------------;;
+(add-to-list 'auto-mode-alist '("\\.js\\'" . js2-mode))
+(add-to-list 'interpreter-mode-alist '("node" . js2-mode))
+
+
+;;-------------------- jshint --------------------;;
+(setq jshint-configuration-path
+      "~/.emacs.d/elpa/flymake-jshint-1.0/jshint-configuration-path.json")
+(require 'flymake-jshint)
+(add-hook 'js-mode-hook 'flymake-mode)
+
+
+;;-------------------- AUCTEX --------------------;;
+(setq TeX-auto-save t)
+(setq TeX-parse-self t)
+
+;; In Info, they say to add this to 'Info-directory-list, but it
+;; didn't seem to work. Adding to 'Info-additional-directory-list
+;; fixes this.
+(eval-after-load 'info
+  '(add-to-list 'Info-additional-directory-list "/Users/samlaf/.emacs.d/elpa/auctex-11.89/"))
+
+
+;;-------------------- INFO --------------------;;
+
+;; This is just a hack for when packages' dir file (like Auctex)
+;; seem not to work properly. Just copy their .info files to ~/info/
+;; and then put links to these files in ~/info/dir
+;; However I fixed this by using 'Info-additional-directory-list (see
+;; AUCTEX above). So this can be used for additional info files.
+(setq Info-default-directory-list
+      (append Info-default-directory-list
+	      '("~/info")))
+
+;;; modes.el ends here

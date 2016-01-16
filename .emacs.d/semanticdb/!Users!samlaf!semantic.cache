@@ -1,0 +1,46 @@
+;; Object samlaf/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "samlaf/"
+  :tables
+  (list
+    (semanticdb-table ".emacs"
+      :major-mode 'emacs-lisp-mode
+      :tags 
+        '( ("custom-set-variables" code nil nil [48 2604])
+            ("custom-set-faces" code nil nil [2605 2844])
+            ("add-to-list" code nil nil [2901 2955])
+            ("load" code nil nil [2956 2969])
+            ("load" code nil nil [3014 3027])
+            ("add-hook" code nil nil [3028 3214])
+            ("add-hook" code nil nil [3216 3265])
+            ("load" code nil nil [3309 3337])
+            ("setq" code nil nil [3390 3419])
+            ("setq" code nil nil [3420 3451])
+            ("setq" code nil nil [3452 3496])
+            ("add-hook" code nil nil [3499 3540])
+            ("add-hook" code nil nil [3541 3585])
+            ("server-start" code nil nil [3587 3601])
+            ("electric-pair-mode" code nil nil [3603 3625])
+            ("show-paren-mode" code nil nil [3626 3645])
+            ("winner-mode" code nil nil [3703 3716])
+            ("toggle-frame-maximized" code nil nil [3743 3767])
+            ("setq" code nil nil [3793 3838])
+            ("windmove-default-keybindings" code nil nil [3897 3927])
+            ("global-set-key" code nil nil [3945 3997])
+            ("define-minor-mode" code nil nil [4008 4180])
+            ("setq" code nil nil [4182 4325])
+            ("ido" include nil nil [4328 4342])
+            ("ido-mode" code nil nil [4343 4355])
+            ("load-file" code nil nil [4387 4437])
+            ("load" code nil nil [4439 4480])
+            ("dictionary" function (:user-visible-flag t) nil [4601 5217])
+            ("define-key" code nil nil [5218 5267])
+            ("add-hook" code nil nil [5303 5345]))          
+      :file ".emacs"
+      :pointmax 5346
+      :fsize 5359
+      :lastmodtime '(21912 17953 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!samlaf!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

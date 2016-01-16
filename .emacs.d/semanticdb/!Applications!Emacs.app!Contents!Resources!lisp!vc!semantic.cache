@@ -1,0 +1,102 @@
+;; Object vc/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "vc/"
+  :tables
+  (list
+    (semanticdb-table "vc-hg.el.gz"
+      :major-mode 'emacs-lisp-mode
+      :tags 
+        '( ("vc-dir" include nil nil [4706 4723])
+            ("vc" include nil nil [4690 4703])
+            ("cl-lib" include nil nil [4670 4687])
+            ("vc-hg" customgroup (:user-visible-flag t) nil [4753 4835])
+            ("vc-hg-global-switches" variable nil nil [4837 5096])
+            ("vc-hg-diff-switches" variable (:default-value t) nil [5098 5550])
+            ("vc-hg-program" variable (:default-value "hg") nil [5552 5678])
+            ("vc-hg-root-log-format" variable (:default-value (\` ((\, (concat "{rev}:{ifeq(branch, 'default','', '{branch}')}" ":{bookmarks}:{tags}:{author|person}" " {date|shortdate} {desc|firstline}\\n")) (\, (concat "^\\(?:[+@o x|-]*\\)" "\\([0-9]+\\):\\([^:]*\\)" ":\\([^:]*\\):\\([^:]*\\):\\(.*?\\)" "[ 	]+\\([0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}\\)")) ((1 (quote log-view-message-face)) (2 (quote change-log-file)) (3 (quote change-log-list)) (4 (quote change-log-conditionals)) (5 (quote change-log-name)) (6 (quote change-log-date)))))) nil [5680 6685])
+            ("vc-hg-history" variable nil nil [6720 6746])
+            ("vc-hg-revision-granularity" function nil nil [6748 6797])
+            ("vc-hg-checkout-model" function (:arguments ("_files")) nil [6798 6845])
+            ("vc-hg-registered" function (:arguments ("file")) nil [7227 7470])
+            ("vc-hg-state" function (:arguments ("file")) nil [7472 9155])
+            ("vc-hg-working-revision" function (:arguments ("file")) nil [9157 9413])
+            ("vc-hg-log-switches" variable nil nil [9438 9716])
+            ("vc-setup-buffer" function (:prototype-flag t) nil [9718 9761])
+            ("vc-hg-log-graph" variable nil nil [9763 9846])
+            ("vc-hg-print-log" function (:arguments ("files" "buffer" "shortlog" "start-revision" "limit")) nil [9848 10832])
+            ("log-view-message-re" variable nil nil [10834 10862])
+            ("log-view-file-re" variable nil nil [10863 10888])
+            ("log-view-font-lock-keywords" variable nil nil [10889 10925])
+            ("log-view-per-file-logs" variable nil nil [10926 10957])
+            ("log-view-expanded-log-entry-function" variable nil nil [10958 11003])
+            ("define-derived-mode" code nil nil [11005 12384])
+            ("vc-switches" function (:prototype-flag t) nil [12386 12414])
+            ("vc-hg-diff" function (:arguments ("files" "oldvers" "newvers" "buffer")) nil [12416 13060])
+            ("vc-hg-expanded-log-entry" function (:arguments ("revision")) nil [13062 13364])
+            ("vc-hg-revision-table" function (:arguments ("files")) nil [13366 13636])
+            ("vc-hg-revision-completion-table" function (:arguments ("files")) nil [13689 13857])
+            ("vc-hg-annotate-command" function (:arguments ("file" "buffer" "revision")) nil [13859 14167])
+            ("declare-function" code nil nil [14169 14233])
+            ("vc-hg-annotate-re" variable
+               (:constant-flag t
+                :default-value "^[ 	]*\\([0-9]+\\) \\(.\\{30\\}\\)\\(?:\\(: \\)\\|\\(?: +\\([^:
+]+\\(?::\\(?:[^: 
+][^:
+]*\\)?\\)*\\): \\)\\)")
+                nil [14563 14708])
+            ("vc-hg-annotate-time" function nil nil [14710 14892])
+            ("vc-hg-annotate-extract-revision-at-line" function nil nil [14894 15225])
+            ("vc-hg-previous-revision" function (:arguments ("_file" "rev")) nil [15227 15374])
+            ("vc-hg-next-revision" function (:arguments ("_file" "rev")) nil [15376 15897])
+            ("vc-hg-delete-file" function (:arguments ("file")) nil [15950 16160])
+            ("vc-hg-rename-file" function (:arguments ("old" "new")) nil [16213 16332])
+            ("vc-hg-register" function (:arguments ("files" "_rev" "_comment")) nil [16334 16489])
+            ("vc-hg-create-repo" function nil nil [16491 16593])
+            ("defalias" code nil nil [16595 16638])
+            ("vc-hg-could-register" function (:arguments ("file")) nil [16691 17057])
+            ("vc-hg-unregister" function (:arguments ("file")) nil [17059 17157])
+            ("declare-function" code nil nil [17159 17230])
+            ("vc-hg-checkin" function (:arguments ("files" "_rev" "comment")) nil [17232 17561])
+            ("vc-hg-find-revision" function (:arguments ("file" "rev" "buffer")) nil [17563 17801])
+            ("vc-hg-find-ignore-file" function (:arguments ("file")) nil [17803 17954])
+            ("vc-hg-checkout" function (:arguments ("file" "_editable" "rev")) nil [18007 18414])
+            ("vc-hg-resolve-when-done" function nil nil [18416 18808])
+            ("vc-hg-find-file-hook" function nil nil [18810 19782])
+            ("vc-hg-workfile-unchanged-p" function (:arguments ("file")) nil [19836 19915])
+            ("vc-hg-revert" function (:arguments ("file" "contents-done")) nil [19968 20101])
+            ("vc-hg-extra-menu-map" variable (:default-value (let ((map (make-sparse-keymap))) map)) nil [20135 20209])
+            ("vc-hg-extra-menu" function nil nil [20211 20259])
+            ("vc-hg-extra-status-menu" function nil nil [20261 20316])
+            ("log-view-vc-backend" variable nil nil [20318 20346])
+            ("cl-defstruct" code nil nil [20348 20599])
+            ("declare-function" code nil nil [20670 20740])
+            ("vc-hg-dir-printer" function (:arguments ("info")) nil [20742 21336])
+            ("vc-hg-after-dir-status" function (:arguments ("update-function")) nil [21338 23493])
+            ("declare-function" code nil nil [23594 23649])
+            ("declare-function" code nil nil [23676 23747])
+            ("vc-hg-dir-status" function (:arguments ("dir" "update-function")) nil [23749 23918])
+            ("vc-hg-dir-status-files" function (:arguments ("dir" "files" "_default-state" "update-function")) nil [23920 24139])
+            ("vc-hg-dir-extra-header" function (:arguments ("name" "commands")) nil [24141 24492])
+            ("vc-hg-dir-extra-headers" function (:arguments ("dir")) nil [24494 24984])
+            ("vc-hg-log-incoming" function (:arguments ("buffer" "remote-location")) nil [24986 25144])
+            ("vc-hg-log-outgoing" function (:arguments ("buffer" "remote-location")) nil [25146 25304])
+            ("declare-function" code nil nil [25306 25358])
+            ("vc-hg-push" function nil nil [25416 25752])
+            ("vc-hg-error-regexp-alist" variable nil nil [25754 26119])
+            ("vc-do-async-command" function (:prototype-flag t) nil [26121 26168])
+            ("vc-hg-pull" function
+               (:user-visible-flag t
+                :arguments ("prompt"))
+                nil [26170 27838])
+            ("vc-hg-merge-branch" function nil nil [27840 28255])
+            ("vc-hg-command" function (:arguments ("buffer" "okstatus" "file-or-list" "flags")) nil [28281 28776])
+            ("vc-hg-root" function (:arguments ("file")) nil [28778 28831])
+            ("vc-hg" package nil nil [28833 28849]))          
+      :file "vc-hg.el.gz"
+      :pointmax 28874
+      :fsize 8667
+      :lastmodtime '(21788 61018 0 0)
+      :unmatched-syntax '((close-paren 4723 . 4724) (symbol 4650 . 4667) (open-paren 4649 . 4650))))
+  :file "!Applications!Emacs.app!Contents!Resources!lisp!vc!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

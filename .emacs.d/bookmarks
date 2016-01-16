@@ -1,0 +1,41 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("(emacs) Save Keyboard Macro"
+ (front-context-string . "\n17.5 Naming and")
+ (rear-context-string . "Keyboard Macros\n")
+ (position . 402892)
+ (filename . "/Applications/Emacs.app/Contents/Resources/info/emacs")
+ (info-node . "Save Keyboard Macro")
+ (handler . Info-bookmark-jump))
+("onlisp_Paul-Graham.pdf"
+ (filename . "~/Books/onlisp_Paul-Graham.pdf")
+ (front-context-string . "%PDF-1.3%\342\343\317\323\n")
+ (rear-context-string)
+ (position . 1)
+ (page . 74)
+ (handler . doc-view-bookmark-jump))
+("org-capture-last-stored-marker"
+ (filename . "~/org/lists.org")
+ (front-context-string . "** TODO Emotions")
+ (rear-context-string . "-14 Thu 14:51]\n\n")
+ (position . 4917))
+("org-refile-last-stored"
+ (filename . "~/org/lists.org")
+ (front-context-string . "** TODO learn ab")
+ (rear-context-string . "-11 Fri 16:47]\n\n")
+ (position . 5694))
+("org-capture-last-stored"
+ (filename . "~/org/refile.org")
+ (front-context-string . "* TODO Learn abo")
+ (rear-context-string . "1-06 Wed 19:32]\n")
+ (position . 69))
+("(ccmode) Sample Init File"
+ (front-context-string . "\nAppendix A Samp")
+ (rear-context-string . " Ends,  Up: Top\n")
+ (position . 216852)
+ (filename . "/Applications/Emacs.app/Contents/Resources/info/ccmode")
+ (info-node . "Sample Init File")
+ (handler . Info-bookmark-jump))
+)

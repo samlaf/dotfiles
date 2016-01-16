@@ -1,0 +1,55 @@
+;; Object 2015/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "2015/"
+  :tables
+  (list
+    (semanticdb-table "2015-08.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("Calendar" section nil nil [15 799])
+            ("July" section (:members 
+              ( ("July" section (:members 
+                  ( ("July" anchor nil nil [853 856]))                  ) nil [849 899])
+                ("August <A HREF=\"index.html\">2015" section (:members 
+                  ( ("2015" anchor nil nil [910 913])
+                    ("September" section (:members 
+                      ( ("September" anchor nil nil [958 961])
+                        ("1" anchor nil nil [1319 1322])
+                        ("2" anchor nil nil [1366 1369])
+                        ("3" anchor nil nil [1402 1405])
+                        ("4" anchor nil nil [1438 1441])
+                        ("5" anchor nil nil [1474 1477])
+                        ("6" anchor nil nil [1510 1513])
+                        ("7" anchor nil nil [1546 1549])
+                        ("8" anchor nil nil [1582 1585])
+                        ("9" anchor nil nil [1629 1632])
+                        ("10" anchor nil nil [1665 1668])
+                        ("11" anchor nil nil [1702 1705])
+                        ("12" anchor nil nil [1740 1743])
+                        ("13" anchor nil nil [1778 1781])
+                        ("14" anchor nil nil [1816 1819])
+                        ("15" anchor nil nil [1854 1857])
+                        ("16" anchor nil nil [1903 1906])
+                        ("17" anchor nil nil [1941 1944])
+                        ("18" anchor nil nil [1979 1982])
+                        ("19" anchor nil nil [2017 2020])
+                        ("20" anchor nil nil [2055 2058])
+                        ("21" anchor nil nil [2093 2096])
+                        ("22" anchor nil nil [2131 2134])
+                        ("23" anchor nil nil [2180 2183])
+                        ("24" anchor nil nil [2218 2221])
+                        ("25" anchor nil nil [2256 2259])
+                        ("26" anchor nil nil [2294 2297])
+                        ("27" anchor nil nil [2332 2335])
+                        ("28" anchor nil nil [2370 2373])
+                        ("29" anchor nil nil [2408 2411])
+                        ("30" anchor nil nil [2457 2460])
+                        ("31" anchor nil nil [2495 2498]))                      ) nil [954 5585]))                  ) nil [899 5585]))              ) nil [799 5585]))          
+      :file "2015-08.html"
+      :pointmax 5585
+      :fsize 5584
+      :lastmodtime '(21912 16678 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!samlaf!public_html!2015!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,7 @@
+
+;;; Mode settings stored by Calc on Tue Dec 22 14:23:59 2015
+(setq calc-mode-save-mode 'save)
+(setq calc-angle-mode 'rad)
+(setq calc-previous-modulo '(hms 24 0 0))
+;;; End of mode settings
+

@@ -1,0 +1,2 @@
+(fset 'numbered-list-from-one
+   (lambda (&optional arg) "Keyboard macro." (interactive "p") (kmacro-exec-ring-item (quote ([f3 return] 2 "%d")) arg)))

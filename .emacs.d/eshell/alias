@@ -1,0 +1,6 @@
+alias ll ls -alrth
+alias cp cp -i
+alias mv mv -i
+alias rm rm -i
+alias .. cd ..
+alias ... cd ..; cd ..

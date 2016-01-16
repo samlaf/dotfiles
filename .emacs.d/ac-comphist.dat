@@ -1,0 +1,56 @@
+((("exec-path-from-shell-copy-env" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("load-library" .
+   [0 0 0 0 0 0 0 0 0 0 1 0])
+  ("inferior-lisp-program" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [1 0 0 0])
+  ("js-comint" .
+   [0 0 0 0 0 0 1 0 0])
+  ("isearch-backward-regexp" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("isearch-forward-regexp" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("kbd" .
+   [3 0 0])
+  ("deactivate-input-method" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("progn" .
+   [1 0 0 0 0])
+  ("nil" .
+   [0 0 1])
+  ("require" .
+   [2 0 0 0 0 0 0])
+  ("define-key" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("switch-to-named-buffer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("switch-to-scratch" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1])
+  ("fset" .
+   [3 0 0 0])
+  ("global-set-key" .
+   [3 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("display-buffer-other-frame" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("current-buffer" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("display-current-buffer-other-frame" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("defalias" .
+   [2 0 0 0 0 0 2 0])
+  ("defun" .
+   [1 0 0 0 0])
+  ("let" .
+   [1 0 0])
+  ("buf" .
+   [2 0 0])
+  ("&optional" .
+   [1 0 0 0 0 0 0 0 0])
+  ("arg" .
+   [1 0 0])
+  ("interactive" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("Info-directory-list" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])))

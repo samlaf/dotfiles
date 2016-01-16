@@ -1,0 +1,16 @@
+;;; efuncs.el --- My utility functions           
+
+;; NOTE:: based off of 'find-file' 
+(defun my-insert-filename (filename &optional wildcards)
+  "insert string FILENAME at point.
+Interactively, the default if you just type RET is the current directory,
+but the printed file name is available through the minibuffer history."
+  (interactive
+   (find-file-read-args "Find file: "
+			(confirm-nonexistent-file-or-buffer)))
+  (insert filename))
+
+
+
+
+;;; efuncs.el ends here
