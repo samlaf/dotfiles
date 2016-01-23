@@ -210,7 +210,17 @@ command -v rlwrap >/dev/null 2>&1 || { echo >&2 "Install rlwrap to use node: sud
 
 # 2.7) node.js and nvm
 # http://nodejs.org/api/repl.html#repl_repl
-alias node="env NODE_NO_READLINE=1 rlwrap node"
+
+# If ssh'd to ec2-instance through emacs' shell or eshell, then the
+# terminal will be "dumb", and this will make rlwrap crash.
+if [ -x /usr/bin/tput ]; then
+      if [ "x`tput kbs`" != "x" ]; then # Here we test for "dumb" terminal
+	  alias node="env NODE_NO_READLINE=1 rlwrap node"
+      else
+	  alias node="env NODE_NO_READLINE=1 node"
+      fi
+fi
+      
 alias node_repl="node -e \"require('repl').start({ignoreUndefined: true})\""
 export NODE_DISABLE_COLORS=1
 if [ -s ~/.nvm/nvm.sh ]; then
