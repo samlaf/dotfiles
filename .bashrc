@@ -80,8 +80,8 @@ fi
 #  Set various bash parameters based on whether the shell is 'interactive'
 #  or not.  An interactive shell is one you type commands into, a
 #  non-interactive one is the bash environment used in scripts.
-if [ "$PS1" ]; then
-
+if [[ $- == *i* ]]; then
+        
     if [ -x /usr/bin/tput ]; then
       if [ "x`tput kbs`" != "x" ]; then # We can't do this with "dumb" terminal
         stty erase `tput kbs`
