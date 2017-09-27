@@ -1,6 +1,7 @@
 ;; -*- lexical-binding: t; -*-
 ;;; ekeys.el --- My key bindings and some aliases 
 
+(global-set-key (kbd "C-c C-o") 'just-one-space)
 (global-set-key (kbd "C-x t w") 'doremi-window-width+)
 (global-set-key (kbd "<C-M-backspace>") 'backward-kill-sexp)
 (global-set-key (kbd "C-c h") 'hyperspec-lookup)

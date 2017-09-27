@@ -2,11 +2,128 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/samlaf/programming/coursera-PGN/Markov-Networks-for-OCR-Release/" . "inference/")
+ ("/Users/samlaf/programming/coursera-PGN/" . "CRF-Learning-For-OCR-Release/")
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/corpus/" . "0110a00/")
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/CRM Data/" . "URSG/")
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/" . "CRM Data/")
+ ("/Applications/Emacs.app/Contents/MacOS/" . "libexec-x86_64-10_9/")
+ ("/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/" . "sklearn/")
+ ("/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/" . "site-packages/")
+ ("/Users/samlaf/programming/mit-ai-6-034/lab5/lab5/" . "include/")
+ ("/Users/samlaf/programming/mit-ai-6-034/lab5/" . "lab5/")
+ ("/Users/samlaf/programming/kaggle/" . "instacart/")
+ ("/Users/samlaf/programming/python/macropy/docs/examples/first_macro/" . "nop/")
+ ("/Users/samlaf/programming/python/macropy/docs/examples/" . "first_macro/")
+ ("/Users/samlaf/programming/python/macropy/macropy/" . "core/")
+ ("/Users/samlaf/programming/python/" . "macropy/")
+ ("/Users/samlaf/programming/python/macropy/docs/" . "examples/")
+ ("/Users/samlaf/programming/python/macropy/" . "macropy/")
+ ("/Users/samlaf/programming/mit-ai-6-034/" . "lab5/")
+ ("/Users/samlaf/udm/compiler/tp3/typer/_build/" . "src/")
+ ("/Users/samlaf/udm/compiler/tp3/typer/" . "src/")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex6/" . "ex6/")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex5/" . "ex5/")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex4/" . "ex4/")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex3/" . "ex3/")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex2/" . "ex2/")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex1/" . "ex1/")
+ ("/Users/samlaf/programming/ML-coursera/" . "machine-learning-ex6/")
+ ("/Users/samlaf/udm/compiler/tp2/typer/" . "src/")
+ ("/Users/samlaf/udm/compiler/tp2/" . "typer/")
+ ("/Users/samlaf/udm/compiler/" . "tp2/")
+ ("/Users/samlaf/programming/ocaml/" . "tapl-checkers/")
+ ("/Users/samlaf/udm/" . "compiler/")
+ ("/Users/samlaf/Sam/" . "udm-maitrise-documents/")
+ ("/Users/samlaf/programming/sml/tiger/" . "chap5/")
+ ("/Users/samlaf/programming/sml/" . "tiger/")
+ ("/Users/samlaf/programming/Scheme/EoPL/eopl3-book-code/chapter8/" . "simplemodules/")
+ ("/Users/samlaf/programming/Scheme/EoPL/eopl3-book-code/chapter7/" . "inferred/")
+ ("/Users/samlaf/programming/Scheme/EoPL/eopl3-book-code/chapter6/" . "cps-lang/")
+ ("/Users/samlaf/programming/Scheme/EoPL/eopl3-book-code/chapter5/" . "c-letrec-lang/")
+ ("/Users/samlaf/tests/" . "flex-bison-example/")
+ ("/Users/samlaf/programming/bison-3.0.4/" . "www.gnu.org/")
+ ("/Users/samlaf/programming/flex-2.6.0/" . "doc/")
+ ("/Users/samlaf/programming/flex.sourceforge.net/" . "manual/")
+ ("/Users/samlaf/programming/Scheme/EoPL/eopl3-book-code/chapter4/" . "explicit-refs/")
+ ("/Users/samlaf/programming/Scheme/EoPL/eopl3-book-code/chapter3/proc-lang/" . "proc-rep/")
+ ("/Users/samlaf/programming/Scheme/EoPL/eopl3-book-code/chapter3/" . "letrec-lang/")
+ ("/Users/samlaf/programming/Scheme/EoPL/eopl3-book-code/" . "chapter8/")
+ ("/Users/samlaf/programming/Scheme/EoPL/" . "eopl3-book-code/")
+ ("/Users/samlaf/programming/yownu/app/" . "devel/")
+ ("/Users/samlaf/programming/yownu/" . "app/")
+ ("/Users/samlaf/programming/jazz/lib/jazz/src/jazz/dialect/" . "classes/")
+ ("/Users/samlaf/programming/jazz/lib/jazz/src/jazz/" . "dialect/")
+ ("/Users/samlaf/programming/jazz/lib/dialect/src/" . "dialect/")
+ ("/Users/samlaf/programming/jazz/lib/dialect/" . "src/")
+ ("/Users/samlaf/programming/jazz/lib/jam/src/" . "jam/")
+ ("/Users/samlaf/programming/jazz/lib/jam/" . "src/")
+ ("/Users/samlaf/programming/jazz/lib/backend/src/" . "backend/")
+ ("/Users/samlaf/programming/jazz/lib/backend/" . "src/")
+ ("/Users/samlaf/programming/jazz/lib/contrib.fmt/src/fmt/" . "implementation/")
+ ("/Users/samlaf/programming/jazz/lib/contrib.fmt/src/" . "fmt/")
+ ("/Users/samlaf/programming/jazz/lib/contrib.fmt/" . "src/")
+ ("/Users/samlaf/programming/jazz/lib/core/src/core/" . "base/")
+ ("/Users/samlaf/programming/jazz/lib/core/src/" . "core/")
+ ("/Users/samlaf/programming/jazz/lib/core/" . "src/")
+ ("/Users/samlaf/programming/jazz/lib/jazz.test/src/jazz/" . "test/")
+ ("/Users/samlaf/programming/jazz/lib/jazz.test/src/" . "jazz/")
+ ("/Users/samlaf/programming/jazz/lib/jazz.test/" . "src/")
+ ("/Users/samlaf/programming/jazz/lib/jazz/src/" . "jazz/")
+ ("/Users/samlaf/programming/jazz/lib/jazz/" . "src/")
+ ("/Users/samlaf/programming/jazz/lib/jazz.optimize/src/jazz/" . "optimize/")
+ ("/Users/samlaf/programming/jazz/lib/jazz.optimize/src/" . "jazz/")
+ ("/Users/samlaf/programming/jazz/lib/jazz.optimize/" . "src/")
+ ("/Users/samlaf/programming/jazz/lib/" . "jazz/")
+ ("/Users/samlaf/programming/gambit/" . "lib/")
+ ("/Users/samlaf/.jazz/" . "2.5.3/")
+ ("/Users/samlaf/programming/jazz/cache/release/build/" . "kernel/")
+ ("/Users/samlaf/programming/jazz/cache/release/" . "build/")
+ ("/Users/samlaf/programming/jazz/cache/" . "release/")
+ ("/Users/samlaf/programming/jazz/kernel/" . "syntax/")
+ ("/Users/samlaf/programming/jazz/" . "sam-stuff/")
+ ("/usr/local/opt/coreutils/libexec/" . "gnubin/")
+ ("/usr/include/sys/" . "_types/")
+ ("/usr/include/" . "sys/")
+ ("/Users/samlaf/programming/C/" . "KNR/")
+ ("/Users/samlaf/programming/Scheme/SICP/" . "ch4/")
+ ("/Volumes/My Passport/" . "sam/")
+ ("/Volumes/" . "My Passport/")
+ ("/Users/samlaf/programming/Python/starterbot/" . "lib/")
+ ("/Users/samlaf/programming/Python/" . "starterbot/")
+ ("/usr/local/lib/" . "mit-scheme-c/")
+ ("/usr/local/Library/Taps/homebrew/homebrew-core/" . "Formula/")
+ ("/usr/local/Library/Taps/homebrew/" . "homebrew-x11/")
+ ("/usr/local/Library/Taps/" . "homebrew/")
+ ("/usr/local/Library/" . "Homebrew/")
+ ("/Users/samlaf/Dropbox/" . "CV/")
+ ("/Users/samlaf/Library/Python/2.7/lib/python/site-packages/" . "pyflakes/")
+ ("/Users/samlaf/Library/Python/2.7/lib/python/" . "site-packages/")
+ ("/Users/samlaf/Library/Python/2.7/lib/" . "python/")
+ ("/Users/samlaf/Library/Python/2.7/" . "lib/")
+ ("/Users/samlaf/Library/Python/" . "2.7/")
+ ("/Library/Python/2.7/" . "site-packages/")
+ ("/Library/Python/" . "2.7/")
+ ("/Library/Frameworks/Python.framework/Versions/3.4/lib/" . "python3.4/")
+ ("/Library/Frameworks/Python.framework/Versions/3.4/" . "lib/")
+ ("/Library/Frameworks/Python.framework/Versions/" . "3.4/")
+ ("/Library/Frameworks/Python.framework/" . "Versions/")
+ ("/Library/Frameworks/" . "Python.framework/")
+ ("/Users/samlaf/programming/exercism/python/" . "run-length-encoding/")
+ ("/Users/samlaf/programming/exercism/scheme/" . "hello-world/")
+ ("/Users/samlaf/programming/exercism/" . "python/")
+ ("/Users/samlaf/programming/Scheme/" . "Racket/")
+ ("/Users/samlaf/programming/git_local/" . "bitstarter/")
+ ("/ssh:test:" . "bitstarter/")
+ ("/Users/samlaf/.emacs.d/elpa/archives/" . "melpa/")
+ ("/Applications/MIT:GNU Scheme.app/Contents/" . "Resources/")
+ ("/Applications/MIT:GNU Scheme.app/" . "Contents/")
+ ("/Users/samlaf/programming/Bash/dotfiles/" . ".emacs.d/")
  ("/Users/samlaf/programming/bash/dotfiles/" . ".emacs.d/")
  ("/Users/samlaf/programming/bash/" . "dotfiles/")
  ("/ssh:ec2-singapore:" . "bitstarter/")
- ("/usr/share/" . "info/")
- ("/usr/local/share/" . "info/")
+ ("/usr/share/" . "dict/")
+ ("/usr/local/share/" . "bison/")
  ("/Users/samlaf/.emacs.d/elpa/auctex-11.89/" . "doc/")
  ("/Users/samlaf/website/samlaf.github.io/_site/2015/11/" . "29/")
  ("/Users/samlaf/website/samlaf.github.io-backup/" . "scripts/")
@@ -24,10 +141,10 @@
  ("/usr/local/opt/coreutils/" . "libexec/")
  ("/usr/local/opt/gnu-tar/libexec/" . "gnubin/")
  ("/usr/local/opt/gnu-tar/" . "libexec/")
- ("/usr/local/opt/" . "findutils/")
+ ("/usr/local/opt/" . "coreutils/")
  ("/Users/samlaf/anki-master/" . "anki/")
  ("/etc/" . "defaults/")
- ("/opt/local/" . "etc/")
+ ("/opt/local/" . "lib/")
  ("/opt/" . "local/")
  ("/Applications/Anki.app/Contents/Resources/include/" . "python2.7/")
  ("/Applications/Anki.app/Contents/Resources/lib/python2.7/lib-dynload/" . "pysqlite2/")
@@ -45,7 +162,7 @@
  ("/Library/TeX/Distributions/.DefaultTeX/" . "Contents/")
  ("/Library/TeX/Distributions/" . ".DefaultTeX/")
  ("/Library/TeX/" . "texbin/")
- ("/Library/" . "TeX/")
+ ("/Library/" . "Frameworks/")
  ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/T/" . "anki_temp/")
  ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/" . "T/")
  ("/var/folders/dn/" . "gy4jhwt134b99gk3xzkjlktc0000gn/")
@@ -53,12 +170,12 @@
  ("/var/" . "folders/")
  ("/System/Library/" . "Fonts/")
  ("/System/" . "Library/")
- ("/Users/samlaf/Library/" . "Fonts/")
+ ("/Users/samlaf/Library/" . "Python/")
  ("/Users/samlaf/PKU/" . "auto/")
  ("/Users/samlaf/.emacs.d/elpa/yasnippet-20150811.1222/" . "snippets/")
  ("/Users/samlaf/.emacs.d/elpa/auto-complete-1.4/" . "dict/")
  ("/Users/samlaf/Documents/Anki/addons/chinese/" . "db/")
- ("/Users/samlaf/Documents/Anki/addons/" . "chinese/")
+ ("/Users/samlaf/Documents/Anki/addons/" . "image_occlusion_2/")
  ("/Users/samlaf/Documents/Anki/" . "addons/")
  ("/Users/samlaf/Documents/" . "Anki/")
  ("/Users/samlaf/website/myblog/" . "_posts/")
@@ -73,7 +190,7 @@
  ("/Users/samlaf/Maildir/Gmail/" . "INBOX/")
  ("/Users/samlaf/Maildir/" . "Gmail/")
  ("/usr/local/etc/" . "openssl/")
- ("/usr/local/" . "ec2/")
+ ("/usr/local/" . "share/")
  ("/usr/" . "local/")
  ("/Users/samlaf/.emacs.d/bbdb/" . "doc/")
  ("/Users/samlaf/programming/aima/code/agents/" . "agents/")
@@ -82,297 +199,297 @@
  ("/Users/samlaf/programming/aima/" . "screenshots/")
  ("/Users/samlaf/programming/Haskell/" . "RWH/")
  ("/Users/samlaf/programming/my_cl_library/" . "onlisp/")
- ("/Users/samlaf/programming/" . "Javascript/")
+ ("/Users/samlaf/programming/" . "octave/")
  ("/Users/samlaf/.emacs.d/my_cl_library/" . "onlisp/")
  ("/Users/samlaf/Pictures/MP Navigator EX/" . "2015_08_13/")
  ("/Users/samlaf/Pictures/" . "MP Navigator EX/")
- ("/Users/samlaf/.emacs.d/elpa/" . "auctex-11.89/")
+ ("/Users/samlaf/.emacs.d/elpa/" . "scheme-complete-20130220.403/")
  ("/Users/samlaf/.emacs.d/cedet/lisp/" . "speedbar/")
  ("/Users/samlaf/.emacs.d/cedet/" . "lisp/")
  ("/Applications/Emacs.app/Contents/Resources/site-lisp/" . "lisp/")
  ("/Applications/Emacs.app/Contents/" . "MacOS/")
  ("/Applications/Emacs.app/" . "Contents/")
- ("/Applications/" . "Anki.app/")
+ ("/Applications/" . "Emacs.app/")
  ("/Users/samlaf/Downloads/emacs-24.5/" . "src/")
- ("/Users/samlaf/Downloads/" . "AnkiIR/")
- ("/" . "usr/")
+ ("/Users/samlaf/Downloads/" . "lab1/")
+ ("/" . "Library/")
  ("/Applications/Emacs.app/Contents/Resources/lisp/" . "mail/")
- ("/Applications/Emacs.app/Contents/Resources/" . "etc/")
- ("/Users/samlaf/.emacs.d/" . "eshell/")
+ ("/Applications/Emacs.app/Contents/Resources/" . "lisp/")
+ ("/Users/samlaf/.emacs.d/" . "lisp/")
  ("/Users/" . "samlaf/")
- ("/Users/samlaf/org/" . "notes/")
- ("/Users/samlaf/" . ".emacs.d/")
+ ("/Users/samlaf/org/" . "jazz/")
+ ("/Users/samlaf/" . "programming/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/samlaf/.emacs.d/eshell/"
+ "/Users/samlaf/programming/octave/"
+ "/Users/samlaf/.octave.d/"
  "/Users/samlaf/"
- "/Users/samlaf/programming/Bash/setup/"
- "/Users/samlaf/programming/bash/dotfiles/"
- "/Users/samlaf/tests/"
- "/ssh:ec2-singapore:/home/ubuntu/bitstarter/"
- "/ssh:ec2-singapore:"
- "/ssh:ec2-singapore:bitstarter/"
- "/Users/samlaf/.ssh/"
- "/sshx:ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com:"
- "/ssh:ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com:"
- "/ssh:ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com:bitstarter/"
- "/ssh:52.33.247.245:"
- "/Users/samlaf/programming/Javascript/"
- "/Users/samlaf/.emacs.d/lisp/"
- "/Users/samlaf/Documents/Anki/addons/chinese/"
- "/Users/samlaf/Documents/Anki/addons/chinese/templates/"
- "/Users/samlaf/anki-master/anki/"
- "/Users/samlaf/Documents/Anki/addons/chinese/models/"
+ "/Users/samlaf/programming/python/"
  "/Users/samlaf/programming/C/"
- "/Users/samlaf/website/org/_posts/"
- "/Users/samlaf/org/"
- "/Users/samlaf/.emacs.d/cedet/"
- "/Users/samlaf/info/"
- "/Users/samlaf/.emacs.d/elpa/auctex-11.89/"
- "/usr/share/info/"
- "/Users/samlaf/.emacs.d/cedet/doc/info/"
- "/usr/local/share/info/"
- "/Users/samlaf/.emacs.d/elpa/"
- "/Users/samlaf/programming/Haskell/"
- "/Users/samlaf/website/samlaf.github.io/_posts/"
- "/Users/samlaf/website/org/images/"
- "/Users/samlaf/Desktop/"
- "/Users/samlaf/website/samlaf.github.io/"
+ "/Users/samlaf/programming/coursera-PGN/CRF-Learning-For-OCR-Release/"
+ "/Users/samlaf/programming/coursera-PGN/Sampling-Methods-Release/"
+ "/Users/samlaf/programming/coursera-PGN/Mix/"
+ "/Users/samlaf/programming/coursera-PGN/Exact-Inference-Release/"
+ "/Users/samlaf/programming/coursera-PGN/Simple-BN-Knowledge-Engineering-Release (1)/"
+ "/Users/samlaf/programming/coursera-PGN/Decision-Making-Release/"
+ "/Users/samlaf/programming/coursera-PGN/BNs-for-Genetic-Inheritance-Release/"
+ "/Users/samlaf/programming/coursera-PGN/Markov-Networks-for-OCR-Release/"
+ "/Users/samlaf/.emacs.d/lisp/"
+ "/Users/samlaf/Pictures/"
+ "/Users/samlaf/programming/coursera-PGN/PA-BNs-for-Genetic-Inheritance-Release/"
+ "/Users/samlaf/programming/coursera-PGN/_72bd6a1dc11c629792246b715f627ffe_PA-Simple-BN-Knowledge-Engineering-Release (1)/"
+ "/Users/samlaf/programming/prolog/"
+ "/Users/samlaf/programming/crm-2017-Coop-nlp/CRM Data/URSG/"
+ "/Users/samlaf/Downloads/"
+ "/ssh:alfonsda@arcade.iro.umontreal.ca:"
+ "/ssh:arcade.iro.umontreal.ca:"
+ "/Users/samlaf/programming/crm-2017-Coop-nlp/"
+ "/Users/samlaf/programming/crm-2017-Coop-nlp/CRM Data/AM Best/"
+ "/Users/samlaf/programming/pims-2017/"
+ "/Users/samlaf/programming/kaggle/instacart/"
+ "/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/sklearn/"
+ "/Users/samlaf/programming/mit-ai-6-034/lab5/"
+ "/Users/samlaf/programming/kaggle/sberbank/"
+ "/Users/samlaf/programming/kaggle/titanic/"
+ "/Users/samlaf/programming/mit-ai-6-034/lab4/"
  "/Users/samlaf/programming/"
- "/Users/samlaf/website/samlaf.github.io/_site/"
- "/Users/samlaf/website/samlaf.github.io/_site/img/"
- "/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/T/anki_temp/"
- "/Users/samlaf/PKU/riddles/"
- "/Users/samlaf/website/samlaf.github.io/_site/2015/11/29/"
- "/Users/samlaf/website/"
- "/Users/samlaf/org/notes/"
- "/Users/samlaf/PKU/"
- "/Users/samlaf/.emacs.d/elpa/flymake-jshint-1.0/"
- "/Users/samlaf/.emacs.d/site-lisp/js-comint/"
- "/usr/local/Cellar/rhino/1.7.6/bin/"
- "/usr/local/opt/findutils/libexec/"
- "/usr/local/opt/gnu-tar/libexec/gnubin/"
- "/ssh:awshost1:/home/ubuntu/"
- "/ssh:awshost1:/bin/"
+ "/Users/samlaf/programming/mit-ai-6-034/lab3/"
+ "/Users/samlaf/programming/python/macropy/macropy/"
+ "/Users/samlaf/programming/python/macropy/"
+ "/Users/samlaf/programming/python/macropy/macropy/core/"
+ "/Users/samlaf/programming/mit-ai-6-034/lab2/"
+ "/Users/samlaf/Downloads/lab1/"
+ "/Users/samlaf/programming/mit-ai-6-034/lab1/"
+ "/Users/samlaf/programming/mit-ai-6-034/lab0/"
+ "/Users/samlaf/udm/compiler/tp3/typer/"
+ "/Users/samlaf/udm/compiler/tp3/typer/src/"
+ "/Users/samlaf/programming/ML-coursera/machine-learning-ex6/ex6/"
+ "/Users/samlaf/programming/ML-coursera/machine-learning-ex5/ex5/"
+ "/Users/samlaf/programming/ML-coursera/machine-learning-ex4/ex4/"
+ "/Users/samlaf/programming/ML-coursera/machine-learning-ex3/ex3/"
+ "/Users/samlaf/programming/ML-coursera/machine-learning-ex2/ex2/"
+ "/Users/samlaf/programming/ML-coursera/machine-learning-ex1/ex1/"
+ "/Users/samlaf/udm/compiler/tp2/typer/"
+ "/Users/samlaf/udm/compiler/tp2/typer/src/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "alias"
- "history"
- ".emacs"
- ".bash_profile"
- "README.md"
- "setup.sh"
- ".bashrc"
- "test.sh"
- "test"
- ".bbdb"
+ "ode1.m"
+ "scratch.m"
+ "log2.m"
+ "H2.m"
+ "H.m"
+ "octave-workspace"
+ ".octaverc"
+ "scratch.py"
+ "test.c"
+ "StochasticGradientDescent.m"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/samlaf/.emacs.d/eshell/" (22170 326 0 0) "lastdir" "history" "alias~" "alias" "../" "./")
+ ("/Users/samlaf/programming/octave/" (22968 28387 0 0) "test.m~" "scratch.m~" "scratch.m" "ode1.m~" "ode1.m" "octave-workspace" "../" "./")
 
- ("/Users/samlaf/" (22170 126 0 0) "website/" "Treasures/" "tests/" "test" "TAGS" "slafer@mimi.cs.mcgill.ca" "ses/" "scrap/" "Sam/" "RMAIL" "quicklisp/" "public_html/" "Public/" "programming/" "PKU/" "Pictures/" "out2.txt" "org/" "News/" "Music/" "mu/" "Movies/" "mbox" "Maildir/" "Mail/" "log" "Library/" "info/" "fortunes/" "Dropbox/" "Downloads/" "Documents/" "diary~" "diary" "Desktop/" "complete/" "Books/" "bin/" "Applications/" "anki-master/" ".yomichan.json" ".w3m/" ".viminfo" ".vim/" ".Trash/" ".ssh/" ".slime-history.eld" ".slime/" ".sh_history" ".sbclrc" ".python_history" ".org-timestamps/" ".oracle_jre_usage/" ".offlineimaprc~" ".offlineimaprc" ".offlineimap/" ".npm/" ".node_repl_history" ".newsrc~" ".newsrc.eld~" ".newsrc.eld" ".newsrc-dribble~" ".newsrc" ".mu/" ".mplayer/" ".mailrc~" ".mailrc" ".lldb/" ".lesshst" ".gnus~" ".gnus" ".gnuplot_history" ".gnupg/" ".gitconfig~" ".gitconfig" ".git-credential-cache/" ".ghc/" ".gem/" ".emacs~" ".emacs.d/" ".emacs" ".dvdcss/" ".DS_Store" ".dropbox/" ".cvspass" ".cups/" ".config/" ".cisco/" ".CFUserTextEncoding" ".cache/" ".bbdb~" ".bbdb" ".bash_sessions/" ".bash_profile~" ".bash_profile.pysave" ".bash_profile.macports-saved_2015-08-16_at_21:09:20" ".bash_profile.ghc.orig" ".bash_profile" ".bash_history" ".authinfo~" ".authinfo" ".aspell.en.pws" ".aspell.en.prepl" ".anyconnect" "#test.html#" "#%2Amail%2A#4988NDq#" "../" "./")
+ ("/Users/samlaf/" (22968 27271 0 0) "website/" "VirtualBox VMs/" "Untitled.ipynb" "udm/" "Treasures/" "tests/" "test" "TAGS" "slafer@mimi.cs.mcgill.ca" "ses/" "scrap/" "Sam/" "RMAIL" "quicklisp/" "public_html/" "Public/" "programming/" "PKU/" "Pictures/" "org/" "octave-workspace" "octave/" "nltk_data/" "News/" "Music/" "mu/" "Movies/" "mit-scheme" "mbox" "Maildir/" "Mail/" "log" "Library/" "info/" "IdeaProjects/" "fortunes/" "exercism/" "Dropbox/" "Downloads/" "Documents/" "diary~" "diary" "Desktop/" "complete/" "Books/" "bin/" "Applications/" "anki-master/" ".yownu/" ".yomichan.json" ".Xauthority" ".wine/" ".wget-hsts" ".wacom/" ".w3m/" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".test.swp" ".swipl-dir-history/" ".subversion/" ".ssh/" ".slime-history.eld" ".slime/" ".sh_history" ".sbclrc" ".rnd" ".python_history" ".plotly/" ".org-timestamps/" ".oracle_jre_usage/" ".offlineimaprc~" ".offlineimaprc" ".offlineimap/" ".octaverc~" ".octaverc" ".octave_packages" ".octave_hist" ".octave.d/" ".npm/" ".node_repl_history" ".newsrc~" ".newsrc.eld~" ".newsrc.eld" ".newsrc-dribble~" ".newsrc" ".netrc" ".mysql_history" ".mu/" ".mplayer/" ".matplotlib/" ".mailrc~" ".mailrc" ".m2/" ".local/" ".lldb/" ".lesshst" ".jedi/" ".jazz/" ".irssi/" ".ipython/" ".ipynb_checkpoints/" ".ipgw_config" ".heroku/" ".gnus~" ".gnus" ".gnuplot_history" ".gnupg/" ".gnome2/" ".gitconfig~" ".gitconfig" ".git-credential-cache/" ".ghc/" ".gem/" ".gambit_history" ".exercism.json" ".emacs~" ".emacs.d/" ".emacs" ".dvdcss/" ".DS_Store" ".dropbox/" ".docker/" ".distlib/" ".cvspass" ".cups/" ".config/" ".cisco/" ".CFUserTextEncoding" ".cache/" ".bbdb~" ".bbdb" ".bash_sessions/" ".bash_profile~" ".bash_profile.pysave" ".bash_profile.macports-saved_2015-08-16_at_21:09:20" ".bash_profile.ghc.orig" ".bash_profile" ".bash_history" ".authinfo~" ".authinfo" ".aspell.en.pws" ".aspell.en.prepl" ".anyconnect" ".android/" "../" "./")
 
- ("/Users/samlaf/programming/Bash/" (22169 65331 0 0) "setup/" "dotfiles/" "../" "./")
+ ("/Users/samlaf/.octave.d/" (22967 12153 0 0) "log2.m~" "log2.m" "H2.m~" "H2.m" "H.m~" "H.m" "../" "./")
 
- ("/Users/samlaf/programming/Bash/dotfiles/" (22169 65334 0 0) "README.md" ".screenrc" ".git/" ".emacs.d/" ".bashrc_custom" ".bashrc" ".bash_profile" "../" "./")
+ ("/Users/samlaf/programming/" (22966 162 0 0) "web/" "test" "TAGS" "sml/" "Scheme/" "rdf.xml~" "rdf.xml" "python/" "prolog/" "pims-2017/" "octave/" "ocaml/" "MyPlayground.playground/" "MIPS/" "kaggle/" "Javascript/" "java/" "Haskell/" "git_local/" "flex-2.6.0/" "exercism/" "D/" "crm-2017-Coop-nlp/" "coursera-PGN/" "Common_Lisp/" "CLIPS iOS Project/" "chinese-support-addon/" "C/" "bison-3.0.4/" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/programming/Bash/setup/" (22169 65138 0 0) "setup.sh" "README.md" ".git/" ".#setup.sh" "../" "./")
+ ("/Users/samlaf/programming/pims-2017/" (22966 22 0 0) "test.csv" "test-output/" "scratch.py~" "scratch.py" "predicting-hubs.pptx" "predicting-hubs.pdf" "predicting-hubs.key" "OAG_X.csv" "OAG_N_XandY.csv" "oag_igraph.py~" "oag_igraph.py" "oag_graph_nx.py~" "oag_graph_nx.py" "oag_graph.py~" "Lost Receipt Claim_Finance.pdf" "iata_to_oag.py~" "iata_to_oag.py" "IATA_1st_order_month_Y.csv" "IATA_1st_order_month_X.csv" "hub.py~" "hub.py" "en_1000_no_stem/" "centrality_hubs.txt~" "centrality_hubs.txt" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/programming/bash/dotfiles/" (22169 64720 0 0) "README.md" ".screenrc" ".git/" ".bashrc_custom" ".bashrc" ".bash_profile" "../" "./")
+ ("/Users/samlaf/Downloads/" (22966 64967 0 0) "unetbootin-mac-655.dmg" "ubuntu-16.04.3-desktop-amd64.iso" "refind-bin-0.11.0.zip" "refind-bin-0.11.0/" "IMG_20170911_100805.jpg" "IMG_20170911_094012.jpg" "IMG_20170911_090839~2.jpg" "BootableDriveMaker.dmg" "67693.pdf" ".vagrant/" ".localized" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/programming/bash/dotfiles/.emacs.d/" (22101 44196 0 0) "whitespace.el" "smooth-scrolling.el" "node_emacs" "linum.el" "js-config.el" "js-comint.el" "jade-mode/" "init.el" "defuns-config.el" "column-marker.el" "../" "./")
+ ("/Users/samlaf/programming/C/" (22966 973 0 0) "utilities.h" "test.s" "test.c~" "test.c" "Makefile" "knr.c" "KNR/" "foo.s~" "foo.s" "brace_balance.c" "autotools_test/" "a.out" "../" "./")
 
- ("/Users/samlaf/tests/" (22169 63884 0 0) "test.sh~" "test.sh" "setup/" "NC_007779.ptt" "blink/" ".git/" ".#test.sh" "../" "./")
+ ("/Users/samlaf/programming/python/" (22966 971 0 0) "scratch_flymake.py" "scratch.py~" "scratch.py" "scrape.py~" "scrape.py" "sat.py~" "sat.py" "miss-can.py" "macropy/" "http-malware.log" "../" "./")
 
- ("/Users/samlaf/programming/bash/" (22101 44193 0 0) "setup/" "dotfiles/" "../" "./")
+ ("/Users/samlaf/org/" (22957 60586 0 0) "todo.org~" "todo.org_archive~" "todo.org_archive" "todo.org" "texput.log" "taiwan.org~" "summary.org~" "summary.org_archive" "summary.org" "speed-reading.org~" "speed-reading.org" "scratch.org" "refile.org~" "refile.org" "questions.org~" "questions.org" "python.org~" "python.org" "programming.org~" "programming.org_archive~" "programming.org_archive" "problems.org~" "problems.org" "notes.org~" "notes.org" "mental-programming-language-model.org" "memory.org~" "memory.org" "mathematics.org~" "mathematics.org" "ltxpng/" "log.org~" "log.org" "lists.org~" "lists.org_archive~" "lists.org_archive" "lists.org" "linux.org~" "linux.org" "library.org~" "library.org_archive~" "library.org_archive" "library.org" "journal.org" "jazz.org~" "jazz/" "javascript.org~" "javascript.org" "japanese.org~" "japanese.org" "japanese/" "jap.org~" "jap.org_archive~" "jap.org_archive" "jap.org" "internet.org~" "internet.org_archive~" "internet.org_archive" "internet.org" "ideas.org~" "haskell.org~" "haskell.org" "gtd.org~" "feeds.org~" "feeds.org" "emacs.org~" "emacs.org_archive~" "emacs.org_archive" "emacs.org" "elisp.org~" "elisp.org" "diary.org~" "diary.org" "data/" "cv-cover-letter.tex" "cv-cover-letter.org~" "cv-cover-letter.org" "chinese-questions.org~" "chinese-questions.org_archive~" "chinese-questions.org_archive" "chinese-questions.org" "china.org~" "china.org_archive~" "china.org_archive" "china.org" "ChangeLog" "bbdb.org~" "bbdb.org" "back.org~" "back.org" "ayumi.org~" "auto/" "aima-ss.org~" "aima-ss.org" "_minted-cv-cover-letter/" ".gitignore" ".git/" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/programming/bash/setup/" (22101 44115 0 0) "setup.sh" "README.md" ".git/" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/CRF-Learning-For-OCR-Release/" (22959 57372 0 0) "VisualizeCharacters.m" "ValidationAccuracy.mat" "Validation2Y.mat" "Validation2X.mat" "Validation1Y.mat" "Validation1X.mat" "Train2Y.mat" "Train2X.mat" "Train1Y.mat" "Train1X.mat" "token.mat" "Test1Y.mat" "Test1X.mat" "submit.m" "StochasticGradientDescent.m~" "StochasticGradientDescent.m" "sigmoid.m" "SetValueOfAssignment.m" "PruneTree.m" "Part2Test.mat" "Part2Sample.mat" "Part2LogZTest.mat" "Part2FullDataset.mat" "Part1Lambdas.mat" "PA-CRF-Learning-For-OCR.pdf" "octave-workspace" "ObserveEvidence.m" "NumParamsForUnconditionedFeatures.m" "NumParamsForConditionedFeatures.m" "MaxDecoding.m" "LRTrainSGD.m" "LRSearchLambdaSGD.m~" "LRSearchLambdaSGD.m" "LRPredict.m" "LRCostSGD.m" "LRAccuracy.m" "lib/" "InstanceNegLogLikelihood.m~" "InstanceNegLogLikelihood.m" "IndexToAssignment.m" "GetValueOfAssignment.m" "GetNextCliques.m" "GenerateAllFeatures.m" "FactorSum.m" "FactorProduct.m" "FactorMaxMarginalization.m" "FactorMarginalization.m" "EmptyFeatureStruct.m" "EmptyFactorStruct.m" "EliminateVar.m" "CreateCliqueTree.m" "ComputeUnconditionedSingletonFeatures.m" "ComputeUnconditionedPairFeatures.m" "ComputeMarginal.m" "ComputeJointDistribution.m" "ComputeInitialPotentials.m" "ComputeExactMarginalsBP.m" "ComputeConditionedSingletonFeatures.m" "CliqueTreeCalibrate.m~" "CliqueTreeCalibrate.m" "AssignmentToIndex.m" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/programming/Javascript/" (22169 45424 0 0) "test.js~" "test.js" "program.js~" "program.js" "program.html" ".#test.js" "#test.js#" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/" (22956 1655 0 0) "Simple-BN-Knowledge-Engineering-Release (1)/" "Sampling-Methods-Release/" "Markov-Networks-for-OCR-Release/" "Exact-Inference-Release/" "Decision-Making-Release/" "CRF-Learning-For-OCR-Release/" "BNs-for-Genetic-Inheritance-Release/" ".DS_Store" "../" "./")
 
- ("/ssh:ec2-singapore:/home/ubuntu/bitstarter/" (ftp . 403354.4952777778) ".gitignore" "../" "index.js" "public/" "Procfile" "index.html" "#_assh_bec2-singapore_b_ahome_aubuntu_abitstarter_agrader.js#" "package.json" "grader.js~" "./" "app.json" "checks.json~" "README.md" "checks.json" "node_modules/" "grader.js" ".git/")
+ ("/Users/samlaf/programming/coursera-PGN/Sampling-Methods-Release/" (22950 61447 0 0) "VisualizeToyImageMarginals.m" "VisualizeMCMCMarginals.m" "VariableToFactorCorrespondence.m" "token.mat" "TestToy.m~" "TestToy.m" "submit_input.mat" "submit.m" "smooth.m" "SetValueOfAssignment.m" "randsample.m" "randi.m" "rand.m" "PA-Sampling-Methods.pdf" "ObserveEvidence.m" "MHUniformTrans.m~" "MHUniformTrans.m" "MHSWTrans.m~" "MHSWTrans.m" "MHGibbsTrans.m" "MCMCInference.m~" "MCMCInference.m" "LogProbOfJointAssignment.m" "lib/" "IndexToAssignment.m" "GibbsTrans.m~" "GibbsTrans.m" "GetValueOfAssignment.m" "gaimc/" "FactorProduct.m" "FactorMarginalization.m" "ExtractMarginalsFromSamples.m" "exampleIOPA5.mat" "EdgeToFactorCorrespondence.m" "ConstructToyNetwork.m" "ConstructRandNetwork.m" "ComputeInitialPotentials.m" "BlockLogDistribution.m~" "BlockLogDistribution.m" "AssignmentToIndex.m" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/org/" (22156 33287 0 0) "todo.org~" "todo.org_archive~" "todo.org_archive" "todo.org" "taiwan.org~" "summary.org~" "summary.org_archive" "summary.org" "speed-reading.org~" "speed-reading.org" "scratch.org" "refile.org~" "refile.org" "python.org~" "python.org" "programming.org~" "programming.org_archive~" "programming.org_archive" "programming.org" "notes.org~" "notes.org" "mental-programming-language-model.org" "memory.org~" "memory.org" "ltxpng/" "log.org~" "log.org" "lists.org~" "lists.org_archive~" "lists.org_archive" "lists.org" "linux.org~" "linux.org" "journal.org" "jazz.org~" "jazz.org" "japanese.org~" "japanese.org" "japanese/" "jap.org~" "jap.org_archive~" "jap.org_archive" "jap.org" "internet.org~" "internet.org_archive~" "internet.org_archive" "internet.org" "ideas.org~" "ideas.org" "haskell.org~" "haskell.org" "gtd.org~" "feeds.org~" "feeds.org" "emacs.org~" "emacs.org_archive~" "emacs.org_archive" "emacs.org" "elisp.org~" "elisp.org" "diary.org~" "diary.org" "data/" "chinese-questions.org~" "chinese-questions.org_archive~" "chinese-questions.org_archive" "chinese-questions.org" "china.org~" "china.org_archive~" "china.org_archive" "china.org" "ChangeLog" "bbdb.org~" "bbdb.org" "back.org" "ayumi.org~" "ayumi.org" "aima-ss.org~" "aima-ss.org" ".gitignore" ".git/" ".DS_Store" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/Mix/" (22950 59580 0 0) "VisualizeToyImageMarginals.m" "VisualizeMCMCMarginals.m" "VariableToFactorCorrespondence.m" "token.mat" "TestToy.m" "submit_input.mat" "submit.m" "smooth.m" "SetValueOfAssignment.m" "randsample.m" "randi.m" "rand.m" "PruneTree.m" "PA4Test.mat" "PA4Sample.mat" "PA4Description_release.pdf" "PA-Sampling-Methods.pdf" "PA-Exact-Inference.pdf" "octave-workspace" "ObserveEvidence.m" "MHUniformTrans.m~" "MHUniformTrans.m" "MHSWTrans.m~" "MHSWTrans.m" "MHGibbsTrans.m" "MCMCInference.m~" "MCMCInference.m" "MaxDecoding.m~" "MaxDecoding.m" "LogProbOfJointAssignment.m" "lib/" "IndexToAssignment.m" "GibbsTrans.m~" "GibbsTrans.m" "GetValueOfAssignment.m" "GetNextCliques.m~" "GetNextCliques.m" "gaimc/" "FactorSum.m" "FactorProduct.m" "FactorMaxMarginalization.m~" "FactorMaxMarginalization.m" "FactorMarginalization.m" "ExtractMarginalsFromSamples.m" "exampleIOPA5.mat" "EliminateVar.m" "EdgeToFactorCorrespondence.m" "DecodedMarginalsToChars.m" "CreateCliqueTree.m~" "CreateCliqueTree.m" "ConstructToyNetwork.m" "ConstructRandNetwork.m" "ComputeMarginal.m~" "ComputeMarginal.m" "ComputeJointDistribution.m" "ComputeInitialPotentials.m~" "ComputeInitialPotentials.m" "ComputeExactMarginalsBP.m~" "ComputeExactMarginalsBP.m" "CliqueTreeCalibrate.m~" "CliqueTreeCalibrate.m" "BlockLogDistribution.m~" "BlockLogDistribution.m" "AssignmentToIndex.m" "../" "./")
 
- ("/ssh:ec2-singapore:bitstarter/" (ftp . 403347.04305555555) ".gitignore" "../" "index.js" "public/" "Procfile" "index.html" "package.json" "index_flymake.js" "./" "app.json" "README.md" ".git/")
+ ("/Users/samlaf/programming/coursera-PGN/Exact-Inference-Release/" (22948 56586 0 0) "token.mat" "submit.m" "SetValueOfAssignment.m" "PruneTree.m" "PA4Test.mat" "PA4Sample.mat" "PA4Description_release.pdf" "PA-Exact-Inference.pdf" "octave-workspace" "ObserveEvidence.m" "MaxDecoding.m~" "MaxDecoding.m" "lib/" "IndexToAssignment.m" "GetValueOfAssignment.m" "GetNextCliques.m~" "GetNextCliques.m" "FactorSum.m" "FactorProduct.m" "FactorMaxMarginalization.m~" "FactorMaxMarginalization.m" "FactorMarginalization.m" "EliminateVar.m" "DecodedMarginalsToChars.m" "CreateCliqueTree.m~" "CreateCliqueTree.m" "ComputeMarginal.m~" "ComputeMarginal.m" "ComputeJointDistribution.m" "ComputeInitialPotentials.m~" "ComputeInitialPotentials.m" "ComputeExactMarginalsBP.m~" "ComputeExactMarginalsBP.m" "CliqueTreeCalibrate.m~" "CliqueTreeCalibrate.m" "AssignmentToIndex.m" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/.ssh/" (22156 33043 0 0) "samlaf-key-pair-singapore.pem" "known_hosts~" "known_hosts" "id_dsa.pub" "id_dsa" "config~" "config" "cli-key-pair-singapore.pem" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/BNs-for-Genetic-Inheritance-Release/" (22941 29255 0 0) "token.mat" "submit.m" "spinalMuscularAtrophyBayesNet.net" "SetValueOfAssignment.m" "sendToSamiamInfoDecoupled.m" "sendToSamiamInfo.m~" "sendToSamiamInfo.m" "sendToSamiamGeneCopy.m" "sendToSamiam.m" "sampleGeneticNetworks.m~" "sampleGeneticNetworks.m" "sampleFactorListDecoupled.mat" "sampleFactorList.mat" "phenotypeGivenGenotypeMendelianFactor.m~" "phenotypeGivenGenotypeMendelianFactor.m" "phenotypeGivenGenotypeFactor.m~" "phenotypeGivenGenotypeFactor.m" "phenotypeGivenCopiesFactor.m~" "phenotypeGivenCopiesFactor.m" "PA-BNs-for-Genetic-Inheritance.pdf" "PA-BNs-for-Genetic-Inheritance-Appendix.pdf" "octave-workspace" "lib/" "IndexToAssignment.m" "GetValueOfAssignment.m" "genotypeGivenParentsGenotypesFactor.m~" "genotypeGivenParentsGenotypesFactor.m" "genotypeGivenAlleleFreqsFactor.m~" "genotypeGivenAlleleFreqsFactor.m" "generateAlleleGenotypeMappers.m" "cysticFibrosisBayesNetGeneCopy.net" "cysticFibrosisBayesNet.net" "constructSigmoidPhenotypeFactor.m~" "constructSigmoidPhenotypeFactor.m" "constructGeneticNetwork.m~" "constructGeneticNetwork.m" "constructDecoupledGeneticNetwork.m~" "constructDecoupledGeneticNetwork.m" "computeSigmoid.m" "childCopyGivenParentalsFactor.m" "childCopyGivenFreqsFactor.m" "AssignmentToIndex.m" ".DS_Store" "../" "./")
 
- ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/T/anki_temp/" (22154 61097 0 0) "paste-108770046771280.jpg" "paste-107026290049275.jpg" "../" "./")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex4/ex4/" (22764 8223 0 0) "token.mat" "submit.m" "sigmoidGradient.m~" "sigmoidGradient.m" "sigmoid.m" "randInitializeWeights.m~" "randInitializeWeights.m" "predict.m" "nnCostFunction.m~" "nnCostFunction.m" "lib/" "fmincg.m" "ex4weights.mat" "ex4data1.mat" "ex4.m" "displayData.m" "debugInitializeWeights.m" "computeNumericalGradient.m" "checkNNGradients.m" "../" "./")
 
- ("/Users/samlaf/programming/C/" (22152 36512 0 0) "test.c~" "test.c" "Makefile" "knr.c" "brace_balance.c" "a.out" "../" "./")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex5/ex5/" (22765 10242 0 0) "validationCurve.m~" "validationCurve.m" "trainLinearReg.m" "token.mat" "submit.m" "polyFeatures.m~" "polyFeatures.m" "plotFit.m" "linearRegCostFunction.m~" "linearRegCostFunction.m" "lib/" "learningCurve.m~" "learningCurve.m" "fmincg.m" "featureNormalize.m" "ex5data1.mat" "ex5.m~" "ex5.m" "../" "./")
 
- ("/Users/samlaf/programming/" (22152 37168 0 0) "TAGS" "Python/" "MyPlayground.playground/" "Javascript/" "Haskell/" "Common_Lisp/" "chinese-support-addon/" "C/" "Bash/" "Aima-Norvig/" ".DS_Store" "../" "./")
+ ("/Users/samlaf/.emacs.d/lisp/" (22941 48892 0 0) "scratch-lexical.el~" "scratch-lexical.el" "org-config.el~" "org-config.el" "my-functions.el~" "my-functions.elc" "my-config.el~" "my-config.el" "mu4e-config.el" "modes.el~" "modes.el" "macros.el~" "kmacros.el~" "kmacros.el" "ekeys.el~" "ekeys.el" "efuncs.el~" "efuncs.el" ".custom.el~" ".custom.el" "#ekeys.el#" "../" "./")
 
- ("/Users/samlaf/.emacs.d/lisp/" (22155 27592 0 0) "scratch-lexical.el~" "scratch-lexical.el" "org-config.el~" "org-config.el" "my-functions.el~" "my-functions.elc" "my-config.el~" "my-config.el" "mu4e-config.el" "modes.el~" "modes.el" "macros.el~" "kmacros.el~" "kmacros.el" "ekeys.el~" "ekeys.el" "efuncs.el~" "efuncs.el" ".custom.el~" ".custom.el" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/Markov-Networks-for-OCR-Release/" (22941 48884 0 0) "VisualizeWord.m" "token.mat" "submit.m" "SetValueOfAssignment.m" "SerializeFactorsFgGrading.m" "SerializeFactorsFg.m" "ScorePredictions.m" "ScoreModel.m" "RunInference.m" "PA3TestCases.mat" "PA3SampleCases.mat" "PA3Models.mat" "PA3Data.mat" "PA-Markov-Networks-for-OCR.pdf" "octave-workspace" "lib/" "inference/" "inf.log" "IndexToAssignment.m" "ImageSimilarity.m" "GetValueOfAssignment.m" "factors.fg" "ComputeWordPredictions.m" "ComputeTripletFactors.m~" "ComputeTripletFactors.m" "ComputeSingletonFactors.m~" "ComputeSingletonFactors.m" "ComputeSimilarityFactor.m~" "ComputeSimilarityFactor.m" "ComputePairwiseFactors.m~" "ComputePairwiseFactors.m" "ComputeImageFactor.m" "ComputeEqualPairwiseFactors.m~" "ComputeEqualPairwiseFactors.m" "ComputeAllSimilarityFactors.m~" "ComputeAllSimilarityFactors.m" "ChooseTopSimilarityFactors.m~" "ChooseTopSimilarityFactors.m" "BuildOCRNetwork.m~" "BuildOCRNetwork.m" "AssignmentToIndex.m" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/.emacs.d/" (22152 62896 0 0) "w3m-0.5.3/" "url/" "tramp" "timelog~" "timelog" "srecode-map.el" "snippets/" "site-lisp/" "semanticdb/" "scratch.el~" "scratch.el" "recentf" "quickurls" "lisp/" "kkcrc" "image-dired/" "ido.last~" "ido.last" "glibc/" "eshell/" "elpa/" "cedet/" "calc.el~" "calc.el" "bookmarks" "auto-save-list/" "ac-comphist.dat" "abbrev_defs" ".org-id-locations" "%backup%~" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/Decision-Making-Release/" (22945 31281 0 0) "VariableElimination.m" "TestI0.mat" "TestCases.m~" "TestCases.m" "submit.m" "SimpleOptimizeMEU.m" "SimpleCalcExpectedUtility.m~" "SimpleCalcExpectedUtility.m" "SetValueOfAssignment.m" "PrintFactor.m" "PA-Decision-Making.pdf" "OptimizeWithJointUtility.m" "OptimizeMEU.m~" "OptimizeMEU.m" "OptimizeLinearExpectations.m" "octave-workspace" "ObserveEvidence.m" "NormalizeFactorValues.m" "NormalizeCPDFactors.m" "MultipleUtilityI.mat" "lib/" "IndexToAssignment.m" "GetValueOfAssignment.m" "FullI.mat" "FactorProduct.m" "FactorMarginalization.m" "EliminateVar.m" "CPDFromFactor.m~" "CPDFromFactor.m" "CalculateExpectedUtilityFactor.m~" "CalculateExpectedUtilityFactor.m" "AssignmentToIndex.m" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/Documents/Anki/addons/chinese/templates/" (21953 7050 0 0) "ruby.py" "chinese.py" "__init__.py" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/Simple-BN-Knowledge-Engineering-Release (1)/" (22938 13508 0 0) "token.mat" "submit_input.mat" "submit.m" "SetValueOfAssignment.m" "PA-Simple-BN-Knowledge-Engineering.pdf" "octave-workspace" "ObserveEvidence.m~" "ObserveEvidence.m" "lib/" "IndexToAssignment.m" "GetValueOfAssignment.m" "FactorTutorial.m" "FactorProduct.m~" "FactorProduct.m" "FactorMarginalization.m~" "FactorMarginalization.m" "Credit_net.net" "ConvertNetwork.m" "ComputeMarginal.m~" "ComputeMarginal.m" "ComputeJointDistribution.m~" "ComputeJointDistribution.m" "AssignmentToIndex.m" ".DS_Store" "../" "./")
 
- ("/usr/local/opt/gnu-tar/libexec/gnubin/" (22016 19574 0 0) "tar" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/Markov-Networks-for-OCR-Release/inference/" (22940 55773 0 0) "sofiakp@corn.stanford.edu" "inference-src.zip" "doinference.exe" "doinference-mac" "doinference-linux" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/css/" (21714 29946 0 0) "style.css" "normalize.css" "newStyle.css~" "custom.css.map" "custom.css" "custom" "../" "./")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex1/ex1/" (22749 50267 0 0) "warmUpExercise.m~" "warmUpExercise.m" "token.mat" "submit.m" "plotData.m~" "plotData.m" "octave-workspace" "normalEqn.m~" "normalEqn.m" "lib/" "gradientDescentMulti.m~" "gradientDescentMulti.m" "gradientDescent.m~" "gradientDescent.m" "featureNormalize.m~" "featureNormalize.m" "ex1data2.txt" "ex1data1.txt" "ex1_multi.m~" "ex1_multi.m" "ex1.m~" "ex1.m" "computeCostMulti.m~" "computeCostMulti.m" "computeCost.m~" "computeCost.m" "../" "./")
 
- ("/Users/samlaf/anki-master/anki/" (22078 47183 0 0) "utils.py" "upgrade.py" "template/" "tags.py" "sync.py" "storage.py" "stdmodels.py" "statsbg.py" "stats.py" "sound.py" "sched.py" "notes.py" "models.py" "media.py" "latex.py" "lang.py" "js.py" "importing/" "hooks.py" "find.py" "exporting.py" "errors.py" "decks.py" "db.py" "consts.py" "collection.py" "cards.py" "ankiweb.certs" "anki" "__init__.py" "#models.py#" "../" "./")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex2/ex2/" (22753 11132 0 0) "token.mat" "submit.m" "sigmoid.m~" "sigmoid.m" "predict.m~" "predict.m" "plotDecisionBoundary.m" "plotData.m~" "plotData.m" "octave-workspace" "mapFeature.m~" "mapFeature.m" "lib/" "ex2data2.txt" "ex2data1.txt" "ex2_reg.m~" "ex2_reg.m" "ex2.m" "costFunctionReg.m~" "costFunctionReg.m" "costFunction.m~" "costFunction.m" "../" "./")
 
- ("/Users/samlaf/Documents/Anki/addons/" (22078 47324 0 0) "yomi_base/" "test.py~" "test.py" "Syntax Highlighting for Code.py" "Power_Create_lists_ordered_unordered_and_indented.py" "japanese_examples.utf" "japanese_examples.pickle" "image_occlusion_2/" "Image Occlusion 2.py" "Edit_LaTeX_build_process.py" "code_highlight_addon/" "Chinese_support.py~" "Chinese_support.py" "chinese/" ".DS_Store" "../" "./")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex3/ex3/" (22761 28321 0 0) "token.mat" "submit.m" "sigmoid.m" "predictOneVsAll.m~" "predictOneVsAll.m" "predict.m~" "predict.m" "oneVsAll.m~" "oneVsAll.m" "octave-workspace" "lrCostFunction.m~" "lrCostFunction.m" "lib/" "fmincg.m" "ex3weights.mat" "ex3data1.mat" "ex3_nn.m~" "ex3_nn.m" "ex3.m" "displayData.m" "3.ps" "../" "./")
 
- ("/Users/samlaf/Documents/Anki/addons/chinese/models/" (22078 47793 0 0) "ruby_synonyms.py" "ruby.py" "css.py" "compatibility.py" "cloze.py~" "cloze.py" "basic.py" "advanced.py" "__init__.py" "../" "./")
+ ("/Users/samlaf/Pictures/" (22940 54817 0 0) "写真ライブラリ.photoslibrary/" "yasnippet-org_mode-conflict.png" "temp/" "sleeping-sammy.jpg" "SELL-kijiji/" "Samsammi/" "Photo Booth 图库/" "phil_et_maman.JPG" "penguin-sammy.jpg" "oli-martin/" "My-Diagrams/" "MP Navigator EX/" "moi-et-maman-ete-2015.jpg" "Mindmap-guidelines.png" "maman+christian-famille-bahamas.jpg" "love-rabbit.jpg" "funny_face.png" "chains-of-freedom.jpg" "Biáng.png" "ayumi/" "20160512_172410.jpg" "20160512_170326.jpg" ".localized" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/anki-master/" (22068 21027 0 0) "tools/" "thirdparty/" "tests/" "runanki" "README.development" "README" "oldanki/" "Makefile" "LICENSE.logo" "LICENSE" "designer/" "aqt/" "anki.xpm" "anki.xml" "anki.png" "anki.desktop" "anki.bat" "anki.1" "anki/" ".gitignore" ".DS_Store" "../" "./")
+ ("/Users/samlaf/.emacs.d/" (22928 56886 0 0) "w3m-0.5.3/" "url/" "tutorial/" "tramp" "timelog~" "timelog" "srecode-map.el" "snippets/" "site-lisp/" "semanticdb/" "scratch.el~" "scratch.el" "recentf" "quickurls" "lisp/" "kkcrc" "image-dired/" "ido.last~" "ido.last" "glibc/" "eshell/" "elpa/" "cedet/" "calc.el~" "calc.el" "bookmarks" "auto-save-list/" "ac-comphist.dat" "abbrev_defs" ".org-id-locations" ".chicken-scheme-symbols-dump.el" "%backup%~" "../" "./")
 
- ("/Users/samlaf/Documents/" (21887 2406 0 0) "test.tex" "test.synctex.gz" "test.pdf" "test.log" "test.aux" "Anki/" ".localized" ".DS_Store" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/PA-BNs-for-Genetic-Inheritance-Release/" (22940 18915 0 0) "token.mat" "submit.m" "spinalMuscularAtrophyBayesNet.net" "SetValueOfAssignment.m" "sendToSamiamInfoDecoupled.m" "sendToSamiamInfo.m~" "sendToSamiamInfo.m" "sendToSamiamGeneCopy.m" "sendToSamiam.m" "sampleGeneticNetworks.m~" "sampleGeneticNetworks.m" "sampleFactorListDecoupled.mat" "sampleFactorList.mat" "phenotypeGivenGenotypeMendelianFactor.m~" "phenotypeGivenGenotypeMendelianFactor.m" "phenotypeGivenGenotypeFactor.m~" "phenotypeGivenGenotypeFactor.m" "phenotypeGivenCopiesFactor.m~" "phenotypeGivenCopiesFactor.m" "PA-BNs-for-Genetic-Inheritance.pdf" "PA-BNs-for-Genetic-Inheritance-Appendix.pdf" "lib/" "IndexToAssignment.m" "GetValueOfAssignment.m" "genotypeGivenParentsGenotypesFactor.m~" "genotypeGivenParentsGenotypesFactor.m" "genotypeGivenAlleleFreqsFactor.m~" "genotypeGivenAlleleFreqsFactor.m" "generateAlleleGenotypeMappers.m" "cysticFibrosisBayesNetGeneCopy.net" "cysticFibrosisBayesNet.net" "constructSigmoidPhenotypeFactor.m~" "constructSigmoidPhenotypeFactor.m" "constructGeneticNetwork.m~" "constructGeneticNetwork.m" "constructDecoupledGeneticNetwork.m~" "constructDecoupledGeneticNetwork.m" "computeSigmoid.m" "childCopyGivenParentalsFactor.m" "childCopyGivenFreqsFactor.m" "AssignmentToIndex.m" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/Documents/Anki/" (22131 17480 0 0) "ユーザー 1/" "README.txt" "prefs.db" "IPA/" "addons/" ".DS_Store" "../" "./")
+ ("/Users/samlaf/programming/coursera-PGN/_72bd6a1dc11c629792246b715f627ffe_PA-Simple-BN-Knowledge-Engineering-Release (1)/" (22938 11973 0 0) "submit_input.mat" "submit.m" "SetValueOfAssignment.m" "PA-Simple-BN-Knowledge-Engineering.pdf" "ObserveEvidence.m~" "ObserveEvidence.m" "lib/" "IndexToAssignment.m" "GetValueOfAssignment.m" "FactorTutorial.m" "FactorProduct.m~" "FactorProduct.m" "FactorMarginalization.m~" "FactorMarginalization.m" "Credit_net.net" "ConvertNetwork.m" "ComputeMarginal.m~" "ComputeMarginal.m" "ComputeJointDistribution.m~" "ComputeJointDistribution.m" "AssignmentToIndex.m" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/Documents/Anki/ユーザー 1/" (22131 17500 0 0) "deleted.txt" "collection.media.db2" "collection.media/" "collection.log.old" "collection.log" "collection.anki2-wal" "collection.anki2-shm" "collection.anki2" "backups/" ".DS_Store" "../" "./")
+ ("/Users/samlaf/programming/prolog/" (22929 43046 0 0) "facts.pl~" "facts.pl" "cards.pl~" "cards.pl" "../" "./")
 
- ("/usr/local/bin/" (22123 59926 0 0) "xzmore" "xzless" "xzgrep" "xzfgrep" "xzegrep" "xzdiff" "xzdec" "xzcmp" "xzcat" "xz" "xargs" "xapian-tcpsrv" "xapian-replicate-server" "xapian-replicate" "xapian-progsrv" "xapian-metadata" "xapian-inspect" "xapian-config" "xapian-compact" "xapian-chert-update" "xapian-check" "wrjpgcom" "word-list-compress" "wireshark" "wget" "wftopfa" "webpng" "Wand-config" "w3mman" "w3m" "virtualenv-clone" "virtualenv-3.4" "virtualenv" "updatedb" "update_rubygems" "unxz" "unlzma" "unix2mac" "unix2dos" "unix-lpr.sh" "tshark" "tiffsplit" "tiffset" "tiffmedian" "tiffinfo" "tiffdump" "tiffdither" "tiffcrop" "tiffcp" "tiffcmp" "tiff2rgba" "tiff2ps" "tiff2pdf" "tiff2bw" "thumbnail" "text2pcap" "texdistmgr" "texdist" "stream" "ssh-copy-id" "srptool" "simplesearch" "simpleindex" "simpleexpand" "sieve" "sexp-conv" "sed" "scss" "sbcl" "sass-convert" "sass" "safe_yaml" "run-with-aspell" "ruby" "rougify" "ri" "rhino" "rgb2ycbcr" "realpath" "readmsg" "rdoc" "rdjpgcom" "rcs2log" "rawshark" "raw2tiff" "ras2tiff" "randpkt" "rake" "quest" "pyvenv-3.4" "pyvenv" "python3.4m-config" "python3.4m" "python3.4-config" "python3.4-32" "python3.4" "python3-config" "python3-32" "python3" "pygmentize" "pydoc3.4" "pydoc3" "pspell-config" "psktool" "ps2ps2" "ps2ps" "ps2pdfwr" "ps2pdf14" "ps2pdf13" "ps2pdf12" "ps2pdf" "ps2epsi" "ps2ascii" "printafm" "prezip-bin" "prezip" "preunzip" "precat" "ppm2tiff" "pphs" "pngtogd2" "pngtogd" "pngfix" "png-fix-itxt" "pkg-config" "pkcs1-conv" "pip3.4" "pip3" "pip2.7" "pip2" "pip" "pfbtopfa" "pf2afm" "pdf2ps" "pdf2dsc" "pcretest" "pcregrep" "pcre-config" "pbr" "pal2rgb" "openssl-osx-ca" "oldfind" "offlineimap" "ocsptool" "npm" "node" "nettle-lfib-stream" "nettle-hash" "nethack" "mu" "movemail" "montage" "mogrify" "mimeview" "messages" "mergecap" "mailutils-config" "mail" "MagickWand-config" "MagickCore-config" "Magick-config" "Magick++-config" "mac2unix" "lzmore" "lzmainfo" "lzmadec" "lzma" "lzless" "lzgrep" "lzfgrep" "lzegrep" "lzdiff" "lzcmp" "lzcat" "luarocks-admin-5.2" "luarocks-admin" "luarocks-5.2" "luarocks" "luac5.2" "luac-5.2" "luac" "lua5.2" "lua-5.2" "lua" "lprsetup.sh" "locate" "listen" "libpng16-config" "libpng-config" "kramdown" "jshint" "jpegtran" "jekyll" "irb" "import" "igawk" "ifnames" "idle3.4" "idle3" "identify" "html2text" "gyes" "gwhoami" "gwho" "gwc" "gvdir" "gusers" "guptime" "gunlink" "guniq" "gunexpand" "guname" "gtty" "gtsort" "gtruncate" "gtrue" "gtr" "gtouch" "gtimeout" "gtexinfo2man" "gtester-report" "gtester" "gtest" "gtee" "gtar" "gtail" "gtac" "gsync" "gsum" "gstty" "gstdbuf" "gstat" "gsplit" "gsort" "gsnd" "gslp" "gslj" "gsleep" "gshuf" "gshred" "gsha512sum" "gsha384sum" "gsha256sum" "gsha224sum" "gsha1sum" "gsettings" "gseq" "gsdj500" "gsdj" "gsbj" "gsasl" "gs-X11-Yosemite" "gs-X11" "gs-noX11-Yosemite" "gs-noX11" "gs" "gruncon" "grmdir" "grm" "gresource" "grep" "grealpath" "greadlink" "gpwd" "gptx" "gprintf" "gprintenv" "gpr" "gpinky" "gpg" "gpathchk" "gpaste" "god" "gobject-query" "gnutls-serv" "gnutls-cli-debug" "gnutls-cli" "gnutls-certtool" "gnuplot" "gnumfmt" "gnproc" "gnohup" "gnl" "gnice" "gmv" "gmktemp" "gmknod" "gmkfifo" "gmkdir" "gmd5sum" "gls" "glogname" "gln" "glink" "glibtoolize" "glibtool" "glib-mkenums" "glib-gettextize" "glib-genmarshal" "glib-compile-schemas" "glib-compile-resources" "gkill" "gjoin" "gio-querymodules" "ginstall" "gindent" "giftogd2" "gif2tiff" "gid" "ghostid" "ghead" "ggroups" "gfold" "gfmt" "gfalse" "gfactor" "gexpr" "gexpand" "genv" "gem" "gecho" "gdu" "gdtopng" "gdparttopng" "gdlib-config" "gdirname" "gdircolors" "gdir" "gdf" "gdd" "gdcmpgif" "gdbus-codegen" "gdbus" "gdb" "gdate" "gd2topng" "gd2togif" "gd2copypal" "gcut" "gcsplit" "gcp" "gcomm" "gcksum" "gchroot" "gchown" "gchmod" "gchgrp" "gchcon" "gcat" "gbasename" "gbase64" "gawk-4.1.3" "gawk" "gapplication" "g[" "from" "frm" "freetype-config" "font2c" "find" "fgrep" "fc-validate" "fc-scan" "fc-query" "fc-pattern" "fc-match" "fc-list" "fc-cat" "fc-cache" "fax2tiff" "fax2ps" "erb" "eps2eps" "egrep" "editcap" "easy_install-3.4" "dvipdf" "dumpcap" "dotlock" "dos2unix" "djpeg" "display" "dftest" "delve" "cvsbug" "cvs" "copydatabase" "convert" "conjure" "composite" "compare" "cjpeg" "capinfos" "bundler" "bundle" "brew" "bmp2tiff" "bdftogd" "awk" "autoupdate" "autoscan" "autoreconf" "automake-1.15" "automake" "autom4te" "autoheader" "autoconf" "aspell-import" "aspell" "asn1Parser" "asn1Decoding" "asn1Coding" "annotate" "animate" "aclocal-1.15" "aclocal" "2to3-3.4" "2to3" "../" "./")
+ ("/Users/samlaf/udm/compiler/tp2/typer/btl/" (22710 61311 0 0) "pervasive.typer" "builtins.typer" "../" "./")
 
- ("/Users/samlaf/info/" (22122 17483 0 0) "dir~" "dir" "../" "./")
+ ("/Users/samlaf/udm/compiler/tp2/typer/src/" (22738 32453 0 0) "util.ml" "unification.ml" "tweak.ml" "subst.ml" "sexp.ml" "REPL.ml" "prelexer.ml" "pexp.ml" "optimize.ml" "opslexp.ml" "old/" "myers.ml" "lparse.ml" "lexp.ml" "lexer.ml" "inverse_subst.ml" "grammar.ml" "fmt.ml" "eval.ml" "env.ml" "elexp.ml" "debug_util.ml" "debug.ml" "debruijn.ml" "builtin.ml" "../" "./")
 
- ("/Users/samlaf/.emacs.d/cedet/" (22122 18463 0 0) "tests/" "testprojects/" "testdist.sh" "PRERELEASE_CHECKLIST" "obsolete/" "NEWS" "Makefile.wwwinfo" "Makefile" "lisp/" "INSTALL" "GIT_WORKFLOW" "gettodos.sh" "etc/" "doc/" "contrib/" "CEDET_STYLE_GUIDE" "cedet-update-version.el" "cedet-update-changelog.el" "cedet-remove-builtin.el" "cedet-emacs-merge.el" "cedet-ediff.el" "cedet-devel-load.el" "cedet-build.el" ".gitignore" ".git/" ".ede-ignore" ".cvsignore" "../" "./")
+ ("/Users/samlaf/programming/kaggle/instacart/" (22924 62188 0 0) "texput.log" "sample_submission.csv" "prv_<none>.log" "products.csv" "order_products__train.csv" "instacart.py~" "instacart.py" "departments.csv" "aisles.csv" "_region_.tex" "_region_.log" "../" "./")
 
- ("/usr/local/ec2/" (22123 59383 0 0) "ec2-api-tools-1.7.5.1/" "../" "./")
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/CRM Data/AM Best/" (22924 62246 0 0) "text.csv" "NodeDescription.csv" "Node2Node.csv" "NAICSSICCodes.csv" "Html Documents/" "hazard_score.csv" ".DS_Store" "../" "./")
 
- ("/usr/local/" (22123 59926 0 0) "var/" "texlive/" "SUPPORTERS.md" "share/" "sbin/" "README.md" "opt/" "MacGPG2/" "LICENSE.txt" "Library/" "lib/" "include/" "etc/" "ec2/" "CONTRIBUTING.md" "CODEOFCONDUCT.md" "Cellar/" "bin/" ".yardopts" ".travis.yml" ".gitignore" ".git/" "../" "./")
+ ("/Users/samlaf/programming/ocaml/" (22664 63364 0 0) "tapl-checkers/" "scratch.ml~" "scratch.ml" "../" "./")
 
- ("/usr/" (22037 16523 0 0) "X11R6/" "X11/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "adic/" "../" "./")
+ ("/Users/samlaf/tests/" (22665 13465 0 0) "test.l~" "test.l" "scratch.toc" "scratch.tex~" "scratch.tex" "scratch.prv/" "scratch.pdf" "scratch.out" "scratch.log" "scratch.aux" "prv_scratch.pdf" "prv_scratch.log" "lex.yy.c" "funny_face.png" "flex-bison-example/" "auto/" "a.out" "_region_.tex" "_region_.prv/" "_region_.log" ".git/" "../" "./")
 
- ("/Users/samlaf/.emacs.d/elpa/" (22122 14712 0 0) "yasnippet-readme.txt" "yasnippet-20150811.1222/" "swiper-20151030.700/" "spray-readme.txt" "spray-20150625.2345/" "speed-type-readme.txt" "slime-readme.txt" "skeletor-readme.txt" "rpn-calc-readme.txt" "pyvenv-20151029.913/" "python-mode-readme.txt" "python-docstring-readme.txt" "pydoc-readme.txt" "pydoc-info-readme.txt" "pydoc-info-20110301.34/" "popup-20150626.711/" "org2jekyll-readme.txt" "org-present-readme.txt" "org-pomodoro-readme.txt" "org-pomodoro-20150803.530/" "notes-mode-readme.txt" "nodejs-repl-readme.txt" "muse-readme.txt" "magit-readme.txt" "log4e-20150105.505/" "loc-changes-readme.txt" "lmc-readme.txt" "latex-preview-pane-readme.txt" "js2-mode-readme.txt" "js2-mode-20150909/" "js-comint-readme.txt" "info+-readme.txt" "info+-20150520.1807/" "htmlize-readme.txt" "htmlize-20130207.1202/" "highlight-indentation-20150307.208/" "hexrgb-20150709.136/" "haskell-mode-readme.txt" "haskell-mode-20150814.1058/" "haskell-emacs-readme.txt" "gntp-20141024.1950/" "frame-fns-20150104.2208/" "flymake-jshint-readme.txt" "flymake-jshint-1.0/" "find-file-in-project-20151022.708/" "faces+-20150104.2200/" "exec-path-from-shell-readme.txt" "exec-path-from-shell-20150801.104/" "epresent-readme.txt" "elx-readme.txt" "elpy-readme.txt" "doremi-frm-20150727.2054/" "doremi-cmd-20150104.2152/" "doremi-20150815.1438/" "docbook-readme.txt" "djvu-readme.txt" "djvu-0.5/" "company-readme.txt" "company-20151023.1754/" "coffee-mode-readme.txt" "code-library-readme.txt" "cl-generic-readme.txt" "chess-readme.txt" "cdlatex-4.0/" "boogie-friends-readme.txt" "bbdb-readme.txt" "bbdb-20150523.1239/" "bbdb--readme.txt" "avy-zap-readme.txt" "avy-readme.txt" "avy-20150807.648/" "autobookmarks-readme.txt" "auto-complete-readme.txt" "auto-complete-1.4/" "aurel-readme.txt" "auctex-11.89/" "ascii-art-to-unicode-readme.txt" "archives/" "alert-20150402.1246/" "ahungry-theme-readme.txt" "aggressive-indent-readme.txt" "adaptive-wrap-readme.txt" "ace-window-readme.txt" "ace-window-20150803.837/" "2048-game-readme.txt" "#yasnippet-readme.txt#" "../" "./")
+ ("/Users/samlaf/udm/toc/" (22666 19852 0 0) "notes.tex~" "notes.tex" "notes.pdf" "notes.out" "notes.org~" "notes.org" "notes.log" "notes.aux" "devoir1_page001.svg" "devoir1.html" "dev1prob2.png" "dev1prob1.png" "auto/" "../" "./")
 
- ("/Users/samlaf/.emacs.d/elpa/auctex-11.89/" (22122 14718 0 0) "toolbar-x.elc" "toolbar-x.el" "texmathp.elc" "texmathp.el" "tex.elc" "tex.el" "tex-wizard.elc" "tex-wizard.el" "tex-style.elc" "tex-style.el" "tex-site.elc" "tex-site.el" "tex-mik.elc" "tex-mik.el" "tex-jp.elc" "tex-jp.el" "tex-info.elc" "tex-info.el" "tex-font.elc" "tex-font.el" "tex-fold.elc" "tex-fold.el" "tex-buf.elc" "tex-buf.el" "tex-bar.elc" "tex-bar.el" "tests/" "style/" "RELEASE" "README.GIT" "README" "prv-xemacs.elc" "prv-xemacs.el" "prv-emacs.elc" "prv-emacs.el" "preview.elc" "preview.el" "preview-latex.info" "plain-tex.elc" "plain-tex.el" "multi-prompt.elc" "multi-prompt.el" "latex.elc" "latex.el" "latex/" "images/" "GNUmakefile" "font-latex.elc" "font-latex.el" "doc/" "dir" "COPYING" "context.elc" "context.el" "context-nl.elc" "context-nl.el" "context-en.elc" "context-en.el" "circ.tex" "ChangeLog.1" "ChangeLog-preview.1" "ChangeLog-preview" "ChangeLog" "build-aux/" "bib-cite.elc" "bib-cite.el" "auctex.info" "auctex.elc" "auctex.el" "auctex-pkg.elc" "auctex-pkg.el" "auctex-autoloads.el~" "auctex-autoloads.el" ".elpaignore" "../" "./")
+ ("/Users/samlaf/programming/sml/tiger/chap4/" (22669 5323 0 0) "tiger.lex.sml" "tiger.grm~" "tiger.grm.sml" "tiger.grm.sig" "tiger.grm.desc" "tiger.grm" "test.tig~" "test.tig" "table.sml" "table.sig" "symbol.sml" "sources.cm~" "sources.cm" "semant.sml" "prabsyn.sml" "parse.sml" "errormsg.sml" "absyn.sml" ".cm/" "../" "./")
+
+ ("/Users/samlaf/udm/compiler/tp1/" (22668 5383 0 0) "tp1.tar" "tp1.pdf" "tp1.ml~" "tp1.ml" "tp1.cmo" "tp1.cmi" "tp1" "test2.fjs~" "test2.fjs" "test1.fjs~" "test1.fjs" "test.fjs~" "rapport.tex~" "rapport.tex" "rapport.pdf" "rapport.log" "rapport.aux" "parser.mly~" "parser.mly" "parser.mli" "parser.ml" "parser.cmo" "parser.cmi" "lexer.mll~" "lexer.mll" "lexer.ml" "lexer.cmo" "lexer.cmi" "GNUmakefile" "exp.ml~" "exp.ml" "exp.cmo" "exp.cmi" "error.fjs" "calc.ml~" "calc.ml" "calc.cmo" "calc.cmi" "calc" "auto/" "../" "./")
+
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/CRM Data/URSG/" (22922 25431 0 0) "user.pl~" "URSG IBC mappings.csv~" "URSG IBC mappings.csv" "URSG IBC mappings 2.csv" "family.pl~" "family.pl" "../" "./")
+
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/" (22923 34141 0 0) "~$CRM v2017-08-04.pptx" "System Volume Information/" "icb.py~" "icb.py" "CRM v2017-08-04.pptx" "CRM v2017-08-04.pdf" "CRM Data/" "corpus.py~" "corpus.py" "corpus/" "ChooseInsurance.gif" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/corpus/0110a00/" (22922 14576 0 0) "www.thefreedictionary.com-386.txt" "www.thefreedictionary.com-386.html" "www.sciencedirect.com-950.txt" "www.sciencedirect.com-950.html" "www.omafra.gov.on.ca-469.txt" "www.omafra.gov.on.ca-469.html" "www.merriam-webster.com-844.txt" "www.merriam-webster.com-844.html" "www.journals.elsevier.com-569.txt" "www.journals.elsevier.com-569.html" "www.field-crops.org-585.txt" "www.field-crops.org-585.html" "www.dictionary.com-409.txt" "www.dictionary.com-409.html" "linkmap.tsv" "inspection.gc.ca-3.txt" "inspection.gc.ca-3.html" "fieldcrops.cals.cornell.edu-384.txt" "fieldcrops.cals.cornell.edu-384.html" "fieldcropnews.com-856.txt" "fieldcropnews.com-856.html" "../" "./")
+
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/corpus/" (22923 9594 0 0) "8950a00/" "8949a00/" "8948a00/" "8947z00/" "8947a00/" "8946a00/" "8945a00/" "8944a00/" "8943a00/" "8942a00/" "8941a00/" "8940z00/" "8918c00/" "8918b00/" "8918a00/" "8917b00/" "8917a00/" "8916x00/" "8916a00/" "8915a00/" "8914a00/" "8913b00/" "8913a00/" "8912x10/" "8912x00/" "8912b00/" "8912a00/" "8911a00/" "8910z00/" "8910x00/" "8910b00/" "8910a00/" "8673a00/" "8672a00/" "8671a00/" "8661a00/" "8660a00/" "8650a00/" "8644a00/" "8643a00/" "8642a00/" "8641a00/" "8630a00/" "8620a00/" "8324a00/" "8323z00/" "8322b00/" "8322a00/" "8310a00/" "8304b00/" "8304a00/" "8303a00/" "8302a00/" "8301b00/" "8301a00/" "8293a00/" "8292b00/" "8292a20/" "8291a00/" "8112a00/" "8111c00/" "8111b00/" "8111a00/" "8085z00/" "8085x00/" "8085b20/" "8085a10/" "8085a00/" "8084c00/" "8084b00/" "8084a00/" "8083a00/" "8082b00/" "8082a00/" "8081a00/" "8080z00/" "8080h00/" "8080g00/" "8080f00/" "8080e00/" "8080d00/" "8080c00/" "8080b10/" "8080a00/" "8076b00/" "8076a00/" "8075a00/" "8074a00/" "8073a00/" "8072a00/" "8066a00/" "8065a00/" "8064a00/" "8063a00/" "8062z00/" "8062e00/" "8062d00/" "8062c00/" "8062b00/" "8062a00/" "8061a00/" "8029a00/" "8028a00/" "8027c00/" "8027b00/" "8027a00/" "8026b00/" "8026a00/" "8025a00/" "8024a00/" "8023a00/" "8022a00/" "8021a00/" "8019a00/" "8018a00/" "8017a00/" "8016a00/" "8015a00/" "8014a00/" "8013a00/" "8012b00/" "8012a00/" "8011a00/" "8010a00/" "7999z00/" "7999c00/" "7999b00/" "7999a00/" "7998a00/" "7997a00/" "7996a00/" "7995a00/" "7994a00/" "7993a00/" "7992a00/" "7991a00/" "7989a00/" "7988a00/" "7987a00/" "7986a00/" "7985a00/" "7984a00/" "7983z00/" "7983b00/" "7982z00/" "7982a00/" "7981b00/" "7981a00/" "7980a00/" "7970a00/" "7960a00/" "7942a00/" "7941a00/" "7939a00/" "7938z00/" "7937a10/" "7937a00/" "7936a00/" "7935a00/" "7934a00/" "7933a00/" "7932a00/" "7931a00/" "7929z00/" "7928a00/" "7927a00/" "7926b00/" "7926a00/" "7925a00/" "7924b00/" "7924a00/" "7923b00/" "7923a00/" "7922a00/" "7921b00/" "7921a00/" "7920a00/" "7915a00/" "7914a00/" "7913a00/" "7912a00/" "7911a00/" "7840a00/" "7832a00/" "7831a00/" "7812a00/" "7811a00/" "7694a00/" "7693c00/" "7693b00/" "7693a00/" "7692a00/" "7691a00/" "7544a00/" "7543b00/" "7543a00/" "7542a00/" "7541b00/" "7541a00/" "7418a00/" "7417a00/" "7416c00/" "7416a00/" "7415z00/" "7415x00/" "7415a00/" "7414z00/" "7414a00/" "7413a00/" "7412x00/" "7412a00/" "7411x00/" "7411a00/" "7410a00/" "7409a00/" "7408s00/" "7408r00/" "7408q00/" "7408p00/" "7408n00/" "7408m00/" "7408l00/" "7408k00/" "7408j00/" "7408i00/" "7408h00/" "7408g00/" "7408f00/" "7408e00/" "7408d20/" "7408d10/" "7408c90/" "7408c50/" "7408c40/" "7408c30/" "7408c20/" "7408c10/" "7408b90/" "7408b20/" "7408b10/" "7408a20/" "7408a10/" "7407b00/" "7407a00/" "7406a00/" "7405b00/" "7405a00/" "7404a00/" "7403d00/" "7403c00/" "7403b00/" "7403a10/" "7403a00/" "7402a00/" "7401a00/" "7400a00/" "7396a00/" "7395a00/" "7394a00/" "7393a00/" "7392a00/" "7391a00/" "7321a00/" "7320a00/" "7313b00/" "7313a00/" "7312c00/" "7312b00/" "7312a00/" "7311a00/" "7301b00/" "7301a00/" "7299a00/" "7298b00/" "7298a00/" "7297d00/" "7297c00/" "7297b00/" "7297a10/" "7297a00/" "7296a00/" "7295c00/" "7295b00/" "7295a00/" "7294a00/" "7293z00/" "7292b00/" "7292a00/" "7291a00/" "7263a00/" "7262a00/" "7261a00/" "7222a00/" "7221a00/" "7220b00/" "7220a00/" "7210a00/" "7063a00/" "7062a00/" "7061a00/" "7054a00/" "7053a00/" "7052a00/" "7051a00/" "7044a00/" "7043a00/" "7042a00/" "7041b00/" "7041a00/" "7032a00/" "7031b00/" "7031a00/" "7022a00/" "7021a00/" "7012a00/" "7011a00/" "6670c00/" "6670b00/" "6670a10/" "6670a00/" "6660a10/" "6660a00/" "6650a10/" "6650a00/" "6633a00/" "6632a00/" "6631d00/" "6631c00/" "6631b00/" "6631a00/" "6610z00/" "6580a00/" "6550b00/" "6550a00/" "6542a00/" "6541a00/" "6532a00/" "6531a00/" "6520a00/" "6501a00/" "6415a00/" "6414a00/" "6413a00/" "6412b00/" "6412a00/" "6411b00/" "6411a00/" "6390a00/" "6380a00/" "6310a00/" "6250b00/" "6250a00/" "6240a00/" "6230b10/" "6230a00/" "6210a00/" "6150a00/" "6140a00/" "6120a00/" "6023a00/" "6022a00/" "6021a00/" "5999a00/" "5998a00/" "5997a00/" "5996h00/" "5996c00/" "5996b00/" "5996a00/" "5995a00/" "5994a00/" "5993c00/" "5993b99/" "5993b00/" "5993a00/" "5992a00/" "5991b00/" "5991a00/" "5990l00/" "5990a00/" "5984z00/" "5984a00/" "5983a00/" "5982a00/" "5981a00/" "5970a00/" "5960c00/" "5960b00/" "5960a00/" "5940a00/" "5934a00/" "5933z00/" "5933a00/" "5932a99/" "5932a00/" "5931b00/" "5931a00/" "5920a00/" "5912a00/" "5911a00/" "5823b00/" "5823a00/" "5822a00/" "5821a00/" "5814a00/" "5813c00/" "5813b20/" "5813b10/" "5813b00/" "5813a00/" "5812d00/" "5812c00/" "5812b00/" "5812a20/" "5812a10/" "5811d00/" "5811c00/" "5811b00/" "5811a20/" "5811a10/" "5718a00/" "5717c00/" "5717b00/" "5717a00/" "5716a00/" "5715b00/" "5715a00/" "5714a00/" "5713d00/" "5713c00/" "5713b00/" "5713a00/" "5712b00/" "5712a00/" "5711c00/" "5711b00/" "5711a00/" "5695a00/" "5694a00/" "5693a00/" "5692a00/" "5691a00/" "5680a00/" "5592a00/" "5591a00/" "5532a00/" "5531a00/" "5527a00/" "5526a00/" "5525a00/" "5524b00/" "5524a00/" "5523a00/" "5522a00/" "5521a00/" "5516a00/" "5515a00/" "5514b00/" "5514a00/" "5513c00/" "5513b00/" "5513a00/" "5512a00/" "5511a00/" "5433h10/" "5433h00/" "5433g00/" "5433e00/" "5433d00/" "5433c00/" "5433b00/" "5433a00/" "5432a00/" "5431a00/" "5422a00/" "5421b00/" "5421a00/" "5342a00/" "5341a00/" "5332a00/" "5331a00/" "5322a00/" "5321a00/" "5314z00/" "5313a00/" "5312a00/" "5311a00/" "5302a00/" "5301a00/" "5292a10/" "5292a00/" "5291b00/" "5291a00/" "5259b00/" "5259a00/" "5258b00/" "5258a00/" "5257a00/" "5256a00/" "5255c00/" "5255b00/" "5255a00/" "5254a00/" "5252a00/" "5251b00/" "5251a00/" "5240a00/" "5232b00/" "5232a00/" "5231a00/" "5224a00/" "5223a00/" "5222z00/" "5221b00/" "5221a00/" "5212a00/" "5211a00/" "5196b00/" "5196a00/" "5195a00/" "5194a00/" "5193z00/" "5192a00/" "5191c00/" "5191b00/" "5191a00/" "5190z00/" "5180a00/" "5172c00/" "5172b00/" "5172a00/" "5171a00/" "5163a00/" "5162a00/" "5161a00/" "5155a00/" "5154a00/" "5153a00/" "5152a00/" "5151a00/" "5140a00/" "5130a00/" "5126a00/" "5124a00/" "5123a00/" "5122a00/" "5121b00/" "5121a00/" "5114a00/" "5113a00/" "5112a00/" "5111a00/" "5108a00/" "5107a00/" "5106z00/" "5105a00/" "5104a00/" "5103a00/" "5102z00/" "5101a00/" "5094a00/" "5093a00/" "5092a00/" "5091a00/" "5081a00/" "5080a00/" "5064a00/" "5063a00/" "5062a00/" "5061a00/" "5060z00/" "5060a00/" "5058z00/" "5057a00/" "5056a00/" "5055a00/" "5054a00/" "5053a00/" "5052a00/" "5051a00/" "5047z00/" "5046a00/" "5045a00/" "5044a00/" "5043a00/" "5042a00/" "5041b00/" "5041a00/" "5034a00/" "5033b00/" "5033a00/" "5032a00/" "5022z00/" "5021a00/" "5016a00/" "5015a00/" "5014a00/" "5013a00/" "5012a00/" "5011a00/" "4959a00/" "4958c00/" "4958b00/" "4958a00/" "4957a00/" "4956a00/" "4955a00/" "4954a00/" "4953a00/" "4952a00/" "4951a00/" "4950z00/" "4950b00/" "4950a00/" "4922a00/" "4921a00/" "4910b00/" "4910a00/" "4892a00/" "4891a00/" "4871a00/" "4820a00/" "4812a00/" "4811a00/" "4780a00/" "4580a00/" "4479a00/" "4478a00/" "4477a00/" "4476a00/" "4475a00/" "4474a00/" "4473a00/" "4472a00/" "4471a00/" "4470z00/" "4462a00/" "4461a00/" "4290a00/" "4281a00/" "4277a00/" "4276z00/" "4276a00/" "4275a00/" "4274a00/" "4273a00/" "4263a00/" "4262a00/" "4261a00/" "4251b00/" "4251a00/" "4241a00/" "4231a00/" "4221a00/" "4220a00/" "4210a00/" "4120c00/" "4120b00/" "4120a00/" "4119a00/" "4118b00/" "4118a00/" "4117z00/" "4117d70/" "4117d60/" "4117d50/" "4117d40/" "4117d30/" "4117d20/" "4117d10/" "4117c10/" "4117c00/" "4117b00/" "4117a00/" "4116a00/" "4115c00/" "4115b00/" "4115a00/" "4114a00/" "4113a00/" "4112a00/" "4111a00/" "4000a00/" "3992a10/" "3992a00/" "3991a00/" "3984a00/" "3983a00/" "3982a00/" "3981a00/" "3980z00/" "3970a00/" "3960a00/" "3873a00/" "3872a00/" "3871a00/" "3829a00/" "3828a00/" "3827a00/" "3826z00/" "3825a00/" "3824a00/" "3822a00/" "3821a00/" "3820z00/" "3799a00/" "3798a00/" "3797a00/" "3796a00/" "3795z00/" "3794a00/" "3793a00/" "3792a00/" "3791a00/" "3790z00/" "3730a00/" "3695z00/" "3694a00/" "3693a00/" "3691b00/" "3691a00/" "3690z00/" "3690a00/" "3597x00/" "3597a00/" "3596a00/" "3595a00/" "3594a00/" "3593x00/" "3593a00/" "3592b00/" "3592a00/" "3591a00/" "3590z00/" "3590x00/" "3590m00/" "3590l00/" "3590k00/" "3590j00/" "3590i00/" "3590h00/" "3590g00/" "3590f00/" "3590e00/" "3590d00/" "3590c00/" "3590b00/" "3590a00/" "3576a00/" "3575a00/" "3574a00/" "3573a00/" "3572a00/" "3571a00/" "3570z00/" "3570c00/" "3570b00/" "3570a00/" "3496a00/" "3495a00/" "3494z00/" "3493a00/" "3492a00/" "3491a00/" "3360d00/" "3360c00/" "3360b00/" "3360a00/" "3320b00/" "3320a00/" "3298a00/" "3297a00/" "3296a00/" "3295a00/" "3294a00/" "3293a00/" "3292a00/" "3291b00/" "3291a00/" "3282d00/" "3282c00/" "3282b00/" "3282a00/" "3281b00/" "3281a00/" "3193a00/" "3192a00/" "3191a00/" "3073z00/" "3073d00/" "3073c00/" "3073b00/" "3073a00/" "3072b00/" "3072a00/" "3071b00/" "3071a00/" "3066a00/" "3065a00/" "3064b00/" "3064a00/" "3063a00/" "3062a00/" "2990a00/" "2982a00/" "2981b00/" "2981a00/" "2950a00/" "2877z00/" "2876z00/" "2875z00/" "2873a00/" "2872a00/" "2860a00/" "2850c00/" "2850b00/" "2850a00/" "2840a00/" "2833b00/" "2833a00/" "2832b00/" "2832a00/" "2820z00/" "2820d00/" "2820c00/" "2820b00/" "2820a00/" "2817a00/" "2816a00/" "2815b00/" "2815a00/" "2814a00/" "2813a00/" "2812b00/" "2812a00/" "2811z00/" "2811b00/" "2811a00/" "2750g00/" "2750f00/" "2750e00/" "2750d00/" "2750c00/" "2750b00/" "2750a00/" "2710b00/" "2710a00/" "2633a00/" "2632b00/" "2632a00/" "2631a00/" "2620a00/" "2592b00/" "2592a00/" "2591b00/" "2591a00/" "2495a00/" "2494a00/" "2493b00/" "2493a00/" "2492c00/" "2492b00/" "2492a00/" "2491a00/" "2490z00/" "2490b00/" "2490a00/" "2420b00/" "2420a00/" "2352z00/" "2352f00/" "2352e00/" "2352d00/" "2352c00/" "2352a00/" "2351a00/" "2332a00/" "2331a00/" "2330z00/" "2330a00/" "2311a00/" "2310b00/" "2310a00/" "2300a00/" "2291a00/" "2110b00/" "2110a00/" "2100a00/" "2090a00/" "2082c00/" "2082b00/" "2082a00/" "2081c00/" "2081b00/" "2081a00/" "2070a00/" "2060a00/" "2052z00/" "2052c00/" "2052b00/" "2052a00/" "2051b00/" "2051a00/" "2044z00/" "2044c00/" "2044b00/" "2044a00/" "2043b00/" "2043a00/" "2042a00/" "2041b00/" "2041a00/" "2030e00/" "2030d00/" "2030c00/" "2030b00/" "2030a00/" "2022a00/" "2021b00/" "2021a00/" "2011c00/" "2011b00/" "2011a00/" "2003c00/" "2003b00/" "2003a00/" "2002b00/" "2002a00/" "2001d00/" "2001c00/" "2001b00/" "2001a00/" "1842a00/" "1841a20/" "1841a10/" "1841a00/" "1831b00/" "1831a00/" "1830d00/" "1830c00/" "1830b00/" "1830a00/" "1814a00/" "1813a00/" "1812a00/" "1811a00/" "1783x20/" "1783x10/" "1783x00/" "1783b00/" "1783a20/" "1783a10/" "1783a00/" "1782x00/" "1782f00/" "1782e00/" "1782d00/" "1782c00/" "1782b00/" "1782a00/" "1781a00/" "1780a00/" "1779z00/" "1779x10/" "1779x00/" "1779b00/" "1779a00/" "1778a00/" "1777a00/" "1776b00/" "1776a00/" "1775a00/" "1774x00/" "1774a00/" "1773a00/" "1772a00/" "1771a00/" "1770b00/" "1770a00/" "1766a00/" "1765z00/" "1764a00/" "1763a00/" "1762a00/" "1761a00/" "1757a00/" "1756a00/" "1755a00/" "1754a00/" "1753a00/" "1752a00/" "1751a00/" "1745a00/" "1744a00/" "1743a00/" "1742a00/" "1741z00/" "1741x00/" "1736b20/" "1736b10/" "1736a00/" "1735a00/" "1734a00/" "1733a00/" "1732a00/" "1731x00/" "1731b00/" "1731a00/" "1720a00/" "1719a00/" "1718a00/" "1717a00/" "1716b00/" "1716a00/" "1715x10/" "1715x00/" "1715b00/" "1715a00/" "1714a00/" "1713x20/" "1713x00/" "1713b00/" "1713a00/" "1712x00/" "1712a00/" "1711a00/" "1638a00/" "1637a00/" "1636a00/" "1635a00/" "1634a00/" "1633x00/" "1633a00/" "1632a00/" "1631x00/" "1631b00/" "1631a00/" "1625a00/" "1624a00/" "1623a00/" "1622a00/" "1621a00/" "1537a00/" "1536x00/" "1536b00/" "1536a00/" "1535a00/" "1534a00/" "1533x10/" "1533x00/" "1533b00/" "1533a10/" "1533a00/" "1532a00/" "1531a00/" "1528a00/" "1527a00/" "1526a00/" "1525x00/" "1525b00/" "1525a00/" "1524a00/" "1523a00/" "1522a00/" "1521a00/" "1515a00/" "1514a00/" "1513a00/" "1512z00/" "1511b00/" "1511a00/" "1404a00/" "1403z00/" "1403a00/" "1402a00/" "1401a00/" "1398c00/" "1398b00/" "1398a00/" "1397b10/" "1397a10/" "1397a00/" "1396b00/" "1396a00/" "1395c10/" "1395c00/" "1395b60/" "1395b50/" "1395b40/" "1395b30/" "1395b20/" "1395b10/" "1395b00/" "1395a10/" "1395a00/" "1394z00/" "1394k10/" "1394k00/" "1394j00/" "1394i40/" "1394i30/" "1394i20/" "1394i10/" "1394i00/" "1394h30/" "1394h20/" "1394h10/" "1394h00/" "1394g10/" "1394g00/" "1394f20/" "1394f10/" "1394e20/" "1394e10/" "1394e00/" "1394d00/" "1394c00/" "1394b20/" "1394b10/" "1394b00/" "1394a90/" "1394a70/" "1394a60/" "1394a50/" "1394a40/" "1394a30/" "1394a20/" "1394a00/" "1393z00/" "1393c00/" "1393b00/" "1393a20/" "1393a10/" "1392a00/" "1391a00/" "1102a00/" "1101a00/" "1002a00/" "1001a00/" "0982b00/" "0982a00/" "0981a00/" "0791a00/" "0742a00/" "0741a00/" "0738b00/" "0738a00/" "0737a00/" "0736a00/" "0735x00/" "0735b00/" "0735a00/" "0734a00/" "0733a00/" "0731a50/" "0731a40/" "0731a30/" "0731a20/" "0731a10/" "0730z00/" "0730c00/" "0730b00/" "0730a00/" "0630a00/" "0210a00/" "0200a00/" "0190z90/" "0190z10/" "0190z00/" "0190g10/" "0190g00/" "0190f30/" "0190f20/" "0190f10/" "0190f00/" "0190e50/" "0190e40/" "0190e30/" "0190e20/" "0190e10/" "0190e00/" "0190d00/" "0190c00/" "0190b00/" "0190a00/" "0170a00/" "0160a00/" "0150z00/" "0150a20/" "0150a10/" "0142a00/" "0141a10/" "0141a00/" "0140a00/" "0130a00/" "0123a00/" "0122a00/" "0121d00/" "0121c90/" "0121c00/" "0121b00/" "0121a00/" "0110a00/" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/en_1000_no_stem/" (22903 23277 0 0) "en.model.syn1.npy" "en.model.syn0.npy" "en.model" "../" "./")
+
+ ("/Users/samlaf/programming/crm-2017-Coop-nlp/CRM Data/" (22920 53558 0 0) "URSG/" "Other/" "Links/" "AM Best/" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/programming/sml/tiger/chap3/" (22656 14779 0 0) "tiger.lex.sml" "tiger.grm~" "tiger.grm.sml" "tiger.grm.sig" "tiger.grm.desc" "tiger.grm" "sources.cm~" "sources.cm" "parsetest.sml" "errormsg.sml" ".cm/" "../" "./")
+
+ ("/Users/samlaf/programming/sml/tiger/chap5/" (12745 28776 0 0) "types.sml" "../" "./")
+
+ ("/Users/samlaf/programming/Scheme/EoPL/eopl3-book-code/" (22538 32203 0 0) "utilities.scm" "test-all.rkt" "README.md" "LICENSE.md" "errata.txt" "errata.html" "chapter9/" "chapter8/" "chapter7/" "chapter6/" "chapter5/" "chapter4/" "chapter3/" "chapter2/" "chapter1/" ".gitignore" ".gitattributes" ".git/" "../" "./")
+
+ ("/Users/samlaf/programming/Scheme/" (22628 19695 0 0) "utilities.scm~" "utilities.scm" "test.scm~" "test.scm" "test.bin" "SICP/" "Racket/" "EoPL/" "../" "./")
+
+ ("/Users/samlaf/programming/sml/" (22649 22683 0 0) "tiger/" "test.sml~" "test.sml" ".DS_Store" "../" "./")
+
+ ("/Users/samlaf/programming/sml/tiger/chap1/" (22649 22683 0 0) "slp.sml" "../" "./")
+
+ ("/Users/samlaf/programming/sml/tiger/testcases/" (13332 5463 0 0) "test9.tig" "test8.tig" "test7.tig" "test6.tig" "test5.tig" "test49.tig" "test48.tig" "test47.tig" "test46.tig" "test45.tig" "test44.tig" "test43.tig" "test42.tig" "test41.tig" "test40.tig" "test4.tig" "test39.tig" "test38.tig" "test37.tig" "test36.tig" "test35.tig" "test34.tig" "test33.tig" "test32.tig" "test31.tig" "test30.tig" "test3.tig" "test29.tig" "test28.tig" "test27.tig" "test26.tig" "test25.tig" "test24.tig" "test23.tig" "test22.tig" "test21.tig" "test20.tig" "test2.tig" "test19.tig" "test18.tig" "test17.tig" "test16.tig" "test15.tig" "test14.tig" "test13.tig" "test12.tig" "test11.tig" "test10.tig" "test1.tig" "queens.tig" "merge.tig" "../" "./")
+
+ ("/Users/samlaf/programming/sml/tiger/chap2/" (22650 24704 0 0) "tokens.sml" "tokens.sig" "tiger.lex~" "tiger.lex.sml" "tiger.lex" "test.tig~" "test.tig" "sources.cm~" "sources.cm" "errormsg.sml" "driver.sml" ".cm/" "../" "./")
+
+ ("/Users/samlaf/programming/mit-ai-6-034/lab4/" (22842 46261 0 0) "time_traveler_csp.py" "tests.pyc" "tests.py" "tester.pyc" "tester.py" "ta_scheduling_csp.py" "sudoku_csp.py~" "sudoku_csp.py" "states.dat" "S110desc.csv" "S110.ord" "S109desc.csv" "S109.ord" "S004.ord" "party3.dat" "moose_csp.pyc" "moose_csp.py" "mat_vec_ops.pyc" "mat_vec_ops.py" "map_coloring_csp.pyc" "map_coloring_csp.py" "lab4.py~" "lab4.pyc" "lab4.py" "H110desc.csv" "H110.ord" "H109desc.csv" "H109.ord" "H004.ord" "data_reader.py~" "data_reader.pyc" "data_reader.py" "csp.py~" "csp.pyc" "csp.py" "classify.pyc" "classify.py" "8queens_csp.py~" "8queens_csp.py" "4" "../" "./")
+
+ ("/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/sklearn/" (22859 698 0 0) "utils/" "tree/" "tests/" "svm/" "setup.py" "semi_supervised/" "random_projection.py" "qda.py" "preprocessing/" "pipeline.py" "neural_network/" "neighbors/" "naive_bayes.py" "multioutput.py" "multiclass.py" "model_selection/" "mixture/" "metrics/" "manifold/" "linear_model/" "learning_curve.py" "lda.py" "kernel_ridge.py" "kernel_approximation.py" "isotonic.py" "grid_search.py" "gaussian_process/" "feature_selection/" "feature_extraction/" "externals/" "exceptions.py" "ensemble/" "dummy.py" "discriminant_analysis.py" "decomposition/" "datasets/" "cross_validation.py" "cross_decomposition/" "covariance/" "cluster/" "calibration.py" "base.py" "_isotonic.so" "_build_utils/" "__pycache__/" "__init__.py" "__check_build/" "../" "./")
+
+ ("/Library/Frameworks/Python.framework/Versions/3.4/bin/" (22859 1097 0 0) "virtualenv" "runxlrd.py" "rstpep2html.py" "rst2xml.py" "rst2xetex.py" "rst2s5.py" "rst2pseudoxml.py" "rst2odt_prepstyles.py" "rst2odt.py" "rst2man.py" "rst2latex.py" "rst2html5.py" "rst2html.py" "pyvenv-3.4" "pyvenv" "python3.4m-config" "python3.4m" "python3.4-config" "python3.4-32" "python3.4" "python3-config" "python3-32" "python3" "pygmentize" "pyflakes" "pydoc3.4" "pydoc3" "pip3.4" "pip3" "pip" "orange-canvas" "keyring" "jupyter-trust" "jupyter-troubleshoot" "jupyter-serverextension" "jupyter-run" "jupyter-qtconsole" "jupyter-notebook" "jupyter-nbextension" "jupyter-nbconvert" "jupyter-migrate" "jupyter-kernelspec" "jupyter-console" "jupyter-bundlerextension" "jupyter" "jsonschema" "isympy" "ipython3" "ipython" "iptest3" "iptest" "idle3.4" "idle3" "get_objgraph.py" "f2py" "easy_install-3.4" "easy_install" "dill_unpickle.py" "chardetect" "__pycache__/" "2to3-3.4" "2to3" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/MacOS/libexec-x86_64-10_9/" (21802 54282 0 0) "update-game-score" "rcs2log" "profile" "movemail" "hexl" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/MacOS/bin-x86_64-10_9/" (21802 54265 0 0) "grep-changelog" "etags" "emacsclient" "ebrowse" "ctags" "../" "./")
 
  ("/Applications/Emacs.app/Contents/MacOS/" (21802 54270 0 0) "libexec-x86_64-10_9/" "libexec-x86_64-10_7/" "libexec-x86_64-10_5/" "libexec-powerpc-10_4/" "libexec-i386-10_5/" "libexec/" "Emacs-x86_64-10_9" "Emacs-x86_64-10_7" "Emacs-x86_64-10_5" "Emacs-powerpc-10_4" "Emacs-i386-10_5" "Emacs" "bin-x86_64-10_9/" "bin-x86_64-10_7/" "bin-x86_64-10_5/" "bin-powerpc-10_4/" "bin-i386-10_5/" "bin/" "../" "./")
 
- ("/Users/samlaf/.emacs.d/elpa/auto-complete-1.4/dict/" (22014 35869 0 0) "tuareg-mode" "ts-mode" "tcl-mode" "sh-mode" "scheme-mode" "ruby-mode" "python-mode" "php-mode" "lua-mode" "javascript-mode" "java-mode" "erlang-mode" "css-mode" "coq-mode" "clojurescript-mode" "clojure-mode" "caml-mode" "c-mode" "c++-mode" "ada-mode" "../" "./")
+ ("/Applications/Emacs.app/Contents/" (21853 58768 0 0) "Resources/" "PkgInfo" "MacOS/" "Info.plist" "_CodeSignature/" "../" "./")
 
- ("/Users/samlaf/.emacs.d/elpa/auto-complete-1.4/" (22014 35872 0 0) "TODO.md" "README.md" "Makefile" "doc/" "dict/" "COPYING.GPLv3" "COPYING.FDL" "auto-complete.elc" "auto-complete.el" "auto-complete-pkg.elc" "auto-complete-pkg.el" "auto-complete-config.elc" "auto-complete-config.el" "auto-complete-autoloads.el~" "auto-complete-autoloads.el" "../" "./")
+ ("/Applications/Emacs.app/" (21800 6412 0 0) "Contents/" "../" "./")
 
- ("/Users/samlaf/.emacs.d/elpa/ace-window-20150803.837/" (21969 10774 0 0) "ace-window.elc" "ace-window.el" "ace-window-pkg.elc" "ace-window-pkg.el" "ace-window-autoloads.el~" "ace-window-autoloads.el" "../" "./")
+ ("/Applications/" (22852 32319 0 0) "Xcode.app/" "Write.app/" "Wireshark.app/" "Wacom Tablet.localized/" "VLC.app/" "VirtualBox.app/" "uTorrent.app/" "Utilities/" "UPEdit.app/" "Time Machine.app/" "The Unarchiver.app/" "TextEdit.app/" "TeX/" "System Preferences.app/" "Stickies.app/" "Spectacle.app/" "Sony Ericsson Bridge for Mac.app/" "Skype.app/" "Siri.app/" "Safari.app/" "SABnzbd.app/" "Reminders.app/" "Racket v6.6/" "QuickTime Player.app/" "QtSpim.app/" "Python 3.4/" "Preview.app/" "PopcornTime.app/" "Photos.app/" "Photo Booth.app/" "Paintbrush.app/" "Pages.app/" "Orange.app/" "OmniGraffle.app/" "Octave.app/" "Numbers.app/" "Notes.app/" "mit-scheme.app/" "Mission Control.app/" "Messenger.app/" "Messages.app/" "MATLAB_R2016b.app/" "Maps.app/" "Manual.djvu" "Mail.app/" "MacDjView.app/" "Launchpad.app/" "Language Switcher.app/" "Keynote.app/" "iTunes.app/" "iTerm.app/" "IntelliJ IDEA CE.app/" "Inkscape.app/" "Inklet.app/" "iMovie.app/" "Image Capture.app/" "iBooks.app/" "GPG Keychain.app/" "Google Chrome.app/" "ghc-7.10.2.app/" "GarageBand.app/" "Font Book.app/" "Foldit.app/" "Flux.app/" "Firefox.app/" "FaceTime.app/" "Evernote.app/" "Emacs.app/" "DVD Player.app/" "Dropbox.app/" "Docker.app/" "DjView.app/" "Dictionary.app/" "Dashboard.app/" "Dash.app/" "Cryptocat.app/" "Contacts.app/" "Chess.app/" "CheatSheet.app/" "Canon Utilities/" "Calendar.app/" "Calculator.app/" "Automator.app/" "App Store.app/" "Anki.app/" "Android File Transfer.app/" "Alfred.app/" ".localized" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/.emacs.d/cedet/doc/" (21895 10172 0 0) "texi/" "OONEWS-semantic" "ONEWS-semantic" "info/" "../" "./")
+ ("/Users/samlaf/programming/kaggle/" (22858 46576 0 0) "titanic/" "sberbank/" "instacart/" ".DS_Store" "../" "./")
 
- ("/Applications/Emacs.app/Contents/Resources/lisp/" (22060 42977 0 0) "xt-mouse.elc" "xt-mouse.el.gz" "xml.elc" "xml.el.gz" "x-dnd.elc" "x-dnd.el.gz" "woman.elc" "woman.el.gz" "winner.elc" "winner.el.gz" "window.elc" "window.el.gz" "windmove.elc" "windmove.el.gz" "widget.elc" "widget.el.gz" "wid-edit.elc" "wid-edit.el.gz" "wid-browse.elc" "wid-browse.el.gz" "whitespace.elc" "whitespace.el.gz" "wdired.elc" "wdired.el.gz" "w32-vars.elc" "w32-vars.el.gz" "w32-fns.elc" "w32-fns.el.gz" "w32-common-fns.elc" "w32-common-fns.el.gz" "vt100-led.elc" "vt100-led.el.gz" "vt-control.elc" "vt-control.el.gz" "view.elc" "view.el.gz" "version.elc" "version.el.gz" "vcursor.elc" "vcursor.el.gz" "vc/" "userlock.elc" "userlock.el.gz" "url/" "uniquify.elc" "uniquify.el.gz" "type-break.elc" "type-break.el.gz" "tutorial.elc" "tutorial.el.gz" "tree-widget.elc" "tree-widget.el.gz" "tooltip.elc" "tooltip.el.gz" "tool-bar.elc" "tool-bar.el.gz" "tmm.elc" "tmm.el.gz" "timezone.elc" "timezone.el.gz" "time.elc" "time.el.gz" "time-stamp.elc" "time-stamp.el.gz" "thumbs.elc" "thumbs.el.gz" "thingatpt.elc" "thingatpt.el.gz" "textmodes/" "term.elc" "term.el.gz" "term/" "tempo.elc" "tempo.el.gz" "tar-mode.elc" "tar-mode.el.gz" "talk.elc" "talk.el.gz" "tabify.elc" "tabify.el.gz" "t-mouse.elc" "t-mouse.el.gz" "subr.elc" "subr.el.gz" "subdirs.el" "strokes.elc" "strokes.el.gz" "startup.elc" "startup.el.gz" "speedbar.elc" "speedbar.el.gz" "soundex.elc" "soundex.el.gz" "sort.elc" "sort.el.gz" "skeleton.elc" "skeleton.el.gz" "simple.elc" "simple.el.gz" "shell.elc" "shell.el.gz" "shadowfile.elc" "shadowfile.el.gz" "ses.elc" "ses.el.gz" "server.elc" "server.el.gz" "select.elc" "select.el.gz" "scroll-lock.elc" "scroll-lock.el.gz" "scroll-bar.elc" "scroll-bar.el.gz" "scroll-all.elc" "scroll-all.el.gz" "sb-image.elc" "sb-image.el.gz" "saveplace.elc" "saveplace.el.gz" "savehist.elc" "savehist.el.gz" "ruler-mode.elc" "ruler-mode.el.gz" "rot13.elc" "rot13.el.gz" "rfn-eshadow.elc" "rfn-eshadow.el.gz" "reveal.elc" "reveal.el.gz" "reposition.elc" "reposition.el.gz" "replace.elc" "replace.el.gz" "repeat.elc" "repeat.el.gz" "register.elc" "register.el.gz" "rect.elc" "rect.el.gz" "recentf.elc" "recentf.el.gz" "README" "ps-samp.elc" "ps-samp.el.gz" "ps-print.elc" "ps-print.el.gz" "ps-mule.elc" "ps-mule.el.gz" "ps-def.elc" "ps-def.el.gz" "ps-bdf.elc" "ps-bdf.el.gz" "progmodes/" "profiler.elc" "profiler.el.gz" "proced.elc" "proced.el.gz" "printing.elc" "printing.el.gz" "play/" "pcomplete.elc" "pcomplete.el.gz" "pcmpl-x.elc" "pcmpl-x.el.gz" "pcmpl-unix.elc" "pcmpl-unix.el.gz" "pcmpl-rpm.elc" "pcmpl-rpm.el.gz" "pcmpl-linux.elc" "pcmpl-linux.el.gz" "pcmpl-gnu.elc" "pcmpl-gnu.el.gz" "pcmpl-cvs.elc" "pcmpl-cvs.el.gz" "password-cache.elc" "password-cache.el.gz" "paren.elc" "paren.el.gz" "outline.elc" "outline.el.gz" "org/" "obsolete/" "nxml/" "novice.elc" "novice.el.gz" "notifications.elc" "notifications.el.gz" "newcomment.elc" "newcomment.el.gz" "net/" "mwheel.elc" "mwheel.el.gz" "msb.elc" "msb.el.gz" "mpc.elc" "mpc.el.gz" "mouse.elc" "mouse.el.gz" "mouse-drag.elc" "mouse-drag.el.gz" "mouse-copy.elc" "mouse-copy.el.gz" "misearch.elc" "misearch.el.gz" "misc.elc" "misc.el.gz" "minibuffer.elc" "minibuffer.el.gz" "minibuf-eldef.elc" "minibuf-eldef.el.gz" "midnight.elc" "midnight.el.gz" "mh-e/" "menu-bar.elc" "menu-bar.el.gz" "md4.elc" "md4.el.gz" "mb-depth.elc" "mb-depth.el.gz" "master.elc" "master.el.gz" "man.elc" "man.el.gz" "makesum.elc" "makesum.el.gz" "mail/" "macros.elc" "macros.el.gz" "ls-lisp.elc" "ls-lisp.el.gz" "lpr.elc" "lpr.el.gz" "locate.elc" "locate.el.gz" "loadup.el" "loadhist.elc" "loadhist.el.gz" "loaddefs.el" "linum.elc" "linum.el.gz" "leim/" "ldefs-boot.el" "language/" "kmacro.elc" "kmacro.el.gz" "kermit.elc" "kermit.el.gz" "json.elc" "json.el.gz" "jka-compr.elc" "jka-compr.el.gz" "jka-cmpr-hook.elc" "jka-cmpr-hook.el.gz" "jit-lock.elc" "jit-lock.el.gz" "isearchb.elc" "isearchb.el.gz" "isearch.elc" "isearch.el.gz" "international/" "informat.elc" "informat.el.gz" "info.elc" "info.el.gz" "info-xref.elc" "info-xref.el.gz" "info-look.elc" "info-look.el.gz" "indent.elc" "indent.el.gz" "imenu.elc" "imenu.el.gz" "image.elc" "image.el.gz" "image-mode.elc" "image-mode.el.gz" "image-file.elc" "image-file.el.gz" "image-dired.elc" "image-dired.el.gz" "iimage.elc" "iimage.el.gz" "ielm.elc" "ielm.el.gz" "ido.elc" "ido.el.gz" "icomplete.elc" "icomplete.el.gz" "ibuffer.elc" "ibuffer.el.gz" "ibuf-macs.elc" "ibuf-macs.el.gz" "ibuf-ext.elc" "ibuf-ext.el.gz" "htmlfontify.elc" "htmlfontify.el.gz" "hl-line.elc" "hl-line.el.gz" "hippie-exp.elc" "hippie-exp.el.gz" "hilit-chg.elc" "hilit-chg.el.gz" "hi-lock.elc" "hi-lock.el.gz" "hfy-cmap.elc" "hfy-cmap.el.gz" "hexl.elc" "hexl.el.gz" "hex-util.elc" "hex-util.el.gz" "help.elc" "help.el.gz" "help-mode.elc" "help-mode.el.gz" "help-macro.elc" "help-macro.el.gz" "help-fns.elc" "help-fns.el.gz" "help-at-pt.elc" "help-at-pt.el.gz" "gs.elc" "gs.el.gz" "gnus/" "generic-x.elc" "generic-x.el.gz" "fringe.elc" "fringe.el.gz" "frameset.elc" "frameset.el.gz" "frame.elc" "frame.el.gz" "forms.elc" "forms.el.gz" "format.elc" "format.el.gz" "format-spec.elc" "format-spec.el.gz" "font-lock.elc" "font-lock.el.gz" "font-core.elc" "font-core.el.gz" "follow.elc" "follow.el.gz" "foldout.elc" "foldout.el.gz" "flow-ctrl.elc" "flow-ctrl.el.gz" "finder.elc" "finder.el.gz" "finder-inf.el" "find-lisp.elc" "find-lisp.el.gz" "find-file.elc" "find-file.el.gz" "find-dired.elc" "find-dired.el.gz" "find-cmd.elc" "find-cmd.el.gz" "filesets.elc" "filesets.el.gz" "files.elc" "files.el.gz" "files-x.elc" "files-x.el.gz" "filenotify.elc" "filenotify.el.gz" "filecache.elc" "filecache.el.gz" "ffap.elc" "ffap.el.gz" "faces.elc" "faces.el.gz" "facemenu.elc" "facemenu.el.gz" "face-remap.elc" "face-remap.el.gz" "ezimage.elc" "ezimage.el.gz" "expand.elc" "expand.el.gz" "eshell/" "erc/" "epg.elc" "epg.el.gz" "epg-config.elc" "epg-config.el.gz" "epa.elc" "epa.el.gz" "epa-mail.elc" "epa-mail.el.gz" "epa-hook.elc" "epa-hook.el.gz" "epa-file.elc" "epa-file.el.gz" "epa-dired.elc" "epa-dired.el.gz" "env.elc" "env.el.gz" "emulation/" "emacs-parallel/" "emacs-lock.elc" "emacs-lock.el.gz" "emacs-lisp/" "elide-head.elc" "elide-head.el.gz" "electric.elc" "electric.el.gz" "elec-pair.elc" "elec-pair.el.gz" "ehelp.elc" "ehelp.el.gz" "edmacro.elc" "edmacro.el.gz" "echistory.elc" "echistory.el.gz" "ebuff-menu.elc" "ebuff-menu.el.gz" "dynamic-setting.elc" "dynamic-setting.el.gz" "double.elc" "double.el.gz" "dos-w32.elc" "dos-w32.el.gz" "dos-vars.elc" "dos-vars.el.gz" "dos-fns.elc" "dos-fns.el.gz" "doc-view.elc" "doc-view.el.gz" "dnd.elc" "dnd.el.gz" "disp-table.elc" "disp-table.el.gz" "dirtrack.elc" "dirtrack.el.gz" "dired.elc" "dired.el.gz" "dired-x.elc" "dired-x.el.gz" "dired-aux.elc" "dired-aux.el.gz" "dframe.elc" "dframe.el.gz" "desktop.elc" "desktop.el.gz" "descr-text.elc" "descr-text.el.gz" "delsel.elc" "delsel.el.gz" "delim-col.elc" "delim-col.el.gz" "dabbrev.elc" "dabbrev.el.gz" "custom.elc" "custom.el.gz" "cus-theme.elc" "cus-theme.el.gz" "cus-start.elc" "cus-start.el.gz" "cus-load.el" "cus-face.elc" "cus-face.el.gz" "cus-edit.elc" "cus-edit.el.gz" "cus-dep.elc" "cus-dep.el.gz" "COPYING" "composite.elc" "composite.el.gz" "completion.elc" "completion.el.gz" "comint.elc" "comint.el.gz" "color.elc" "color.el.gz" "cmuscheme.elc" "cmuscheme.el.gz" "chistory.elc" "chistory.el.gz" "cedet/" "cdl.elc" "cdl.el.gz" "case-table.elc" "case-table.el.gz" "calendar/" "calculator.elc" "calculator.el.gz" "calc/" "button.elc" "button.el.gz" "buff-menu.elc" "buff-menu.el.gz" "bs.elc" "bs.el.gz" "bookmark.elc" "bookmark.el.gz" "bindings.elc" "bindings.el.gz" "battery.elc" "battery.el.gz" "avoid.elc" "avoid.el.gz" "autorevert.elc" "autorevert.el.gz" "autoinsert.elc" "autoinsert.el.gz" "autoarg.elc" "autoarg.el.gz" "array.elc" "array.el.gz" "arc-mode.elc" "arc-mode.el.gz" "apropos.elc" "apropos.el.gz" "ansi-color.elc" "ansi-color.el.gz" "allout.elc" "allout.el.gz" "allout-widgets.elc" "allout-widgets.el.gz" "align.elc" "align.el.gz" "abbrev.elc" "abbrev.el.gz" "../" "./")
+ ("/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/site-packages/" (22849 30152 0 0) "zmq/" "xlrd-1.0.0.dist-info/" "xlrd/" "widgetsnbextension-2.0.0.dist-info/" "widgetsnbextension/" "webencodings-0.5.1.dist-info/" "webencodings/" "wcwidth-0.1.7.dist-info/" "wcwidth/" "virtualenv_support/" "virtualenv.py" "virtualenv-15.1.0.dist-info/" "typing.py" "typing-3.6.1-py3.4.egg-info/" "traitlets-4.3.2.dist-info/" "traitlets/" "tornado-4.5.1-py3.4.egg-info/" "tornado/" "testpath-0.3.dist-info/" "testpath/" "terminado-0.6-py3.4.egg-info/" "terminado/" "sympy-1.0-py3.4.egg-info/" "sympy/" "sklearn-0.0-py3.4.egg-info/" "sklearn/" "six.py" "six-1.10.0.dist-info/" "simplegeneric.py" "simplegeneric-0.8.1-py3.4.egg-info/" "setuptools-36.0.1.dist-info/" "setuptools/" "setupfiles-0.0.50-py3.4.egg-info/" "setupfiles/" "scipy-0.19.0.dist-info/" "scipy/" "scikit_learn-0.18.1.dist-info/" "requests-2.10.0.dist-info/" "requests/" "request.py" "request-0.0.13-py3.4.egg-info/" "README" "query_string.py" "query_string-0.0.12-py3.4.egg-info/" "qtconsole-4.3.0.dist-info/" "qtconsole/" "pyzmq-16.0.2.dist-info/" "pytz-2017.2.dist-info/" "pytz/" "python_dateutil-2.6.0.dist-info/" "pyqtgraph-0.10.0-py3.4.egg-info/" "pyqtgraph/" "pyparsing.py" "pyparsing-2.2.0.dist-info/" "pylab.py" "Pygments-2.1.3.dist-info/" "pygments/" "public.py" "public-0.0.38-py3.4.egg-info/" "ptyprocess-0.5.1.dist-info/" "ptyprocess/" "prompt_toolkit-1.0.14.dist-info/" "prompt_toolkit/" "post.py" "post-0.0.13-py3.4.egg-info/" "pkg_resources/" "pip-9.0.1.dist-info/" "pip/" "pickleshare.py" "pickleshare-0.7.4.dist-info/" "pexpect-4.2.1.dist-info/" "pexpect/" "pandocfilters.py" "pandocfilters-1.4.1-py3.4.egg-info/" "pandas-0.20.1.dist-info/" "pandas/" "panda-0.3.1-py3.4.egg-info/" "panda/" "packaging-16.8.dist-info/" "packaging/" "Orange3-3.4.3.dist-info/" "Orange/" "numpy-1.12.1.dist-info/" "numpy/" "notebook-5.0.0.dist-info/" "notebook/" "nltk-3.2.3-py3.4.egg-info/" "nltk/" "nbformat-4.3.0.dist-info/" "nbformat/" "nbconvert-5.1.1.dist-info/" "nbconvert/" "mpmath-0.19-py3.4.egg-info/" "mpmath/" "mpl_toolkits/" "mistune.py" "mistune-0.7.4.dist-info/" "mistune/" "matplotlib-2.0.2.dist-info/" "matplotlib-2.0.2-py3.4-nspkg.pth" "matplotlib/" "MarkupSafe-1.0-py3.4.egg-info/" "markupsafe/" "keyrings.alt-2.2.dist-info/" "keyrings.alt-2.2-py3.6-nspkg.pth" "keyrings/" "keyring-10.3.3.dist-info/" "keyring/" "jupyter_core-4.3.0.dist-info/" "jupyter_core/" "jupyter_console-5.1.0.dist-info/" "jupyter_console/" "jupyter_client-5.0.1.dist-info/" "jupyter_client/" "jupyter.py" "jupyter-1.0.0.dist-info/" "jsonschema-2.6.0.dist-info/" "jsonschema/" "joblib-0.11.dist-info/" "joblib/" "Jinja2-2.9.6.dist-info/" "jinja2/" "jedi-0.10.2.dist-info/" "jedi/" "ipywidgets-6.0.0.dist-info/" "ipywidgets/" "ipython_genutils-0.2.0.dist-info/" "ipython_genutils/" "ipython-6.0.0.dist-info/" "IPython/" "ipykernel_launcher.py" "ipykernel-4.6.1.dist-info/" "ipykernel/" "html5lib-0.999999999.dist-info/" "html5lib/" "get.py" "get-0.0.21-py3.4.egg-info/" "entrypoints.py" "entrypoints-0.2.2.dist-info/" "easy_install.py" "docutils-0.13.1.dist-info/" "docutils/" "dill-0.2.6-py3.4.egg-info/" "dill/" "decorator.py" "decorator-4.0.11.dist-info/" "dateutil/" "cycler.py" "cycler-0.10.0.dist-info/" "chardet-3.0.4.dist-info/" "chardet/" "bs4/" "Bottleneck-1.2.1-py3.4.egg-info/" "bottleneck/" "bleach-2.0.0.dist-info/" "bleach/" "beautifulsoup4-4.6.0.dist-info/" "backports_abc.py" "backports_abc-0.5.dist-info/" "appnope-0.1.0.dist-info/" "appnope/" "appdirs.py" "appdirs-1.4.3.dist-info/" "AnyQt-0.0.8.dist-info/" "AnyQt/" "_markerlib/" "__pycache__/" "../" "./")
 
- ("/Users/samlaf/bin/" (21831 7805 0 0) "emacs" "../" "./")
+ ("/Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/" (21739 1757 0 0) "zipfile.py" "xmlrpc/" "xml/" "xdrlib.py" "wsgiref/" "webbrowser.py" "weakref.py" "wave.py" "warnings.py" "venv/" "uuid.py" "uu.py" "urllib/" "unittest/" "types.py" "turtledemo/" "turtle.py" "tty.py" "tracemalloc.py" "traceback.py" "trace.py" "tokenize.py" "token.py" "tkinter/" "timeit.py" "threading.py" "this.py" "textwrap.py" "test/" "tempfile.py" "telnetlib.py" "tarfile.py" "tabnanny.py" "sysconfig.py" "symtable.py" "symbol.py" "sunau.py" "subprocess.py" "struct.py" "stringprep.py" "string.py" "statistics.py" "stat.py" "ssl.py" "sre_parse.py" "sre_constants.py" "sre_compile.py" "sqlite3/" "socketserver.py" "socket.py" "sndhdr.py" "smtplib.py" "smtpd.py" "site.py" "site-packages/" "shutil.py" "shlex.py" "shelve.py" "selectors.py" "sched.py" "runpy.py" "rlcompleter.py" "reprlib.py" "re.py" "random.py" "quopri.py" "queue.py" "pydoc_data/" "pydoc.py" "pyclbr.py" "py_compile.py" "pty.py" "pstats.py" "profile.py" "pprint.py" "posixpath.py" "poplib.py" "plistlib.py" "platform.py" "plat-darwin/" "pkgutil.py" "pipes.py" "pickletools.py" "pickle.py" "pdb.py" "pathlib.py" "os.py" "optparse.py" "operator.py" "opcode.py" "numbers.py" "nturl2path.py" "ntpath.py" "nntplib.py" "netrc.py" "multiprocessing/" "modulefinder.py" "mimetypes.py" "mailcap.py" "mailbox.py" "macurl2path.py" "macpath.py" "lzma.py" "logging/" "locale.py" "linecache.py" "LICENSE.txt" "lib2to3/" "lib-dynload/" "keyword.py" "json/" "ipaddress.py" "io.py" "inspect.py" "importlib/" "imp.py" "imghdr.py" "imaplib.py" "idlelib/" "http/" "html/" "hmac.py" "heapq.py" "hashlib.py" "gzip.py" "glob.py" "gettext.py" "getpass.py" "getopt.py" "genericpath.py" "functools.py" "ftplib.py" "fractions.py" "formatter.py" "fnmatch.py" "fileinput.py" "filecmp.py" "enum.py" "ensurepip/" "encodings/" "email/" "dummy_threading.py" "doctest.py" "distutils/" "dis.py" "difflib.py" "decimal.py" "dbm/" "datetime.py" "curses/" "ctypes/" "csv.py" "crypt.py" "cProfile.py" "copyreg.py" "copy.py" "contextlib.py" "configparser.py" "config-3.4m/" "concurrent/" "compileall.py" "colorsys.py" "collections/" "codeop.py" "codecs.py" "code.py" "cmd.py" "chunk.py" "cgitb.py" "cgi.py" "calendar.py" "bz2.py" "bisect.py" "binhex.py" "bdb.py" "base64.py" "asyncore.py" "asyncio/" "asynchat.py" "ast.py" "argparse.py" "antigravity.py" "aifc.py" "abc.py" "_weakrefset.py" "_threading_local.py" "_sysconfigdata.py" "_strptime.py" "_sitebuiltins.py" "_pyio.py" "_osx_support.py" "_markupbase.py" "_dummy_thread.py" "_compat_pickle.py" "_collections_abc.py" "_bootlocale.py" "__pycache__/" "__phello__.foo.py" "__future__.py" "../" "./")
 
- ("/usr/share/" (22037 16523 0 0) "zsh/" "zoneinfo/" "vim/" "uucp/" "ucupdate/" "tokenizer/" "thermald.bundle/" "texinfo/" "terminfo/" "tabset/" "snmp/" "skel/" "screen/" "sandbox/" "ri/" "pmenergy/" "php/" "misc/" "mecabra/" "man/" "locale/" "langid/" "kpep/" "kdrl.bundle/" "java/" "info/" "icu/" "httpd/" "hiutil/" "groff/" "germantok/" "ftpd/" "file/" "examples/" "emacs/" "doc/" "dict/" "current-os.sdk/" "cups/" "CSI/" "cracklib/" "CoreDuetDaemonConfig.bundle/" "calendar/" "apr-1/" "../" "./")
+ ("/Library/Frameworks/Python.framework/Versions/3.4/lib/" (21855 33731 0 0) "python3.4/" "pkgconfig/" "libpython3.4m.dylib" "libpython3.4.dylib" "libpanelw.dylib" "libpanelw.5.dylib" "libncursesw.dylib" "libncursesw.5.dylib" "libmenuw.dylib" "libmenuw.5.dylib" "libformw.dylib" "libformw.5.dylib" "../" "./")
 
- ("/usr/local/share/info/" (22115 41207 0 0) "wget.info" "tar.info-3" "tar.info-2" "tar.info-1" "tar.info" "stabs.info" "sed.info" "pkcs11-vision.png" "nettle.info" "mu4e.info" "mailutils.info-2" "mailutils.info-1" "mailutils.info" "libtool.info-2" "libtool.info-1" "libtool.info" "libtasn1.info" "indent.info" "gsasl.info" "grep.info" "gnutls.info-5" "gnutls.info-4" "gnutls.info-3" "gnutls.info-2" "gnutls.info-1" "gnutls.info" "gnutls-x509.png" "gnutls-pgp.png" "gnutls-modauth.png" "gnutls-logo.png" "gnutls-layers.png" "gnutls-internals.png" "gnutls-handshake-state.png" "gnutls-handshake-sequence.png" "gnutls-guile.info" "gnutls-client-server-use-case.png" "gmp.info-2" "gmp.info-1" "gmp.info" "gdb.info" "gawkinet.info" "gawk.info" "find.info" "find-maint.info" "dir" "coreutils.info" "bfd.info" "automake.info-2" "automake.info-1" "automake.info" "automake-history.info" "autoconf.info" "aspell.info" "aspell-dev.info" "annotate.info" "../" "./")
+ ("/Library/Frameworks/Python.framework/Versions/3.4/" (21855 33731 0 0) "share/" "Resources/" "Python" "lib/" "include/" "Headers/" "bin/" "../" "./")
 
- ("/usr/local/share/" (22115 41255 0 0) "xml/" "w3m/" "systemtap/" "man/" "lua/" "locale/" "libtool/" "info/" "ImageMagick-6/" "gtk-doc/" "gnuplot/" "glib-2.0/" "ghostscript/" "gdb/" "gc/" "fontconfig/" "emacs/" "doc/" "cvs/" "bash-completion/" "awk/" "automake-1.15/" "autoconf/" "aclocal-1.15/" "aclocal/" "../" "./")
+ ("/Library/Frameworks/Python.framework/Versions/" (21739 1770 0 0) "3.4/" "../" "./")
 
- ("/Users/samlaf/programming/__pycache__/" (22064 33046 0 0) "tut.cpython-34.pyc" "../" "./")
+ ("/Library/Frameworks/Python.framework/" (21855 33731 0 0) "Versions/" "Resources" "Python" "Headers" "../" "./")
 
- ("/Users/samlaf/programming/Haskell/" (22120 64202 0 0) "scratch.hs~" "scratch.hs" "RWH/" "../" "./")
+ ("/Library/Frameworks/" (22624 20575 0 0) "WacomMultiTouch.framework/" "Python.framework/" "PluginManager.framework/" "NyxAudioAnalysis.framework/" "Libmacgpg.framework/" "iTunesLibrary.framework/" "AudioMixEngine.framework" "AERegistration.framework" "AEProfiling.framework" "../" "./")
 
- ("/Users/samlaf/.emacs.d/elpa/auctex-11.89/doc/" (22121 34420 0 0) "wininstall.texi" "todo.texi" "tex-ref.tex" "quickstart.texi" "preview-todo.texi" "preview-readme.texi" "preview-problems.texi" "preview-latex.texi" "preview-faq.texi" "preview-dtxdoc.pl" "macros.texi" "intro.texi" "install.texi" "history.texi" "fdl.texi" "faq.texi" "copying.texi" "changes.texi" "auctex.texi" "../" "./")
+ ("/Library/" (22624 20575 0 0) "Widgets/" "WebServer/" "Video/" "User Pictures/" "Updates/" "TeX/" "SystemProfiler/" "SystemMigration/" "StartupItems/" "Spotlight/" "Speech/" "Services/" "Security/" "Scripts/" "ScriptingAdditions/" "Screen Savers/" "Sandbox/" "Ruby/" "Receipts/" "Raft/" "QuickTime/" "QuickLook/" "Python/" "PrivilegedHelperTools/" "Printers/" "Preferences/" "PreferencePanes/" "Perl/" "PDF Services/" "OpenDirectory/" "Modem Scripts/" "Messages/" "Managed Preferences/" "Mail/" "Logs/" "LaunchDaemons/" "LaunchAgents/" "Keychains/" "Keyboard Layouts/" "Java/" "Internet Plug-Ins/" "Input Methods/" "Image Capture/" "Graphics/" "Google/" "Frameworks/" "Fonts/" "Filesystems/" "Extensions/" "DropboxHelperTools/" "Documentation/" "DirectoryServices/" "Developer/" "Desktop Pictures/" "CoreMediaIO/" "Contextual Menu Items/" "Compositions/" "Components/" "ColorSync/" "ColorPickers/" "Caches/" "Audio/" "Application Support/" ".localized" "../" "./")
 
- ("/usr/share/info/" (22120 61267 0 0) "woman" "widget" "viper" "vip" "uucp.info-8" "uucp.info-7" "uucp.info-6" "uucp.info-5" "uucp.info-4" "uucp.info-3" "uucp.info-2" "uucp.info-1" "uucp.info" "url" "tramp" "texinfo-3" "texinfo-2" "texinfo-1" "texinfo" "speedbar" "smtpmail" "sieve" "ses" "screen.info-5" "screen.info-4" "screen.info-3" "screen.info-2" "screen.info-1" "screen.info" "sc" "reftex" "rcirc" "pgg" "pcl-cvs" "org-2" "org-1" "org" "newsticker" "mh-e-2" "mh-e-1" "mh-e" "message" "info.info" "info-stnd.info" "info" "idlwave" "groff-3" "groff-2" "groff-1" "groff" "gnus-5" "gnus-4" "gnus-3" "gnus-2" "gnus-1" "gnus" "forms" "flymake" "eudc" "eshell" "erc" "emacs-mime" "emacs-8" "emacs-7" "emacs-6" "emacs-5" "emacs-4" "emacs-3" "emacs-2" "emacs-1" "emacs" "elisp-9" "elisp-8" "elisp-7" "elisp-6" "elisp-5" "elisp-4" "elisp-3" "elisp-2" "elisp-10" "elisp-1" "elisp" "eintr-3" "eintr-2" "eintr-1" "eintr" "efaq" "ediff" "ebrowse" "dired-x" "dir" "diff.info" "dc.info" "cl" "ccmode-1" "ccmode" "calc-6" "calc-5" "calc-4" "calc-3" "calc-2" "calc-1" "calc" "bc.info" "bash.info" "autotype" "ada-mode" "../" "./")
+ ("/Users/samlaf/programming/mit-ai-6-034/lab5/" (22853 38712 0 0) "vampires.tab" "train_neural_net.py" "titanic.tab" "tests.py" "tester.py" "states.dat" "S110desc.csv" "S110.tab" "S110.ord" "S109desc.csv" "S109.tab" "S109.ord" "S004.ord" "reindent.py" "party3.dat" "orange_for_6034.py~" "orange_for_6034.pyc" "orange_for_6034.py" "neural_net_tester.py" "neural_net_data.pyc" "neural_net_data.py" "neural_net.py~" "neural_net.pyc" "neural_net.py" "lab5.py~" "lab5.py" "lab5.out.2010" "lab5.out" "lab5/" "H110desc.csv" "H110.tab" "H110.ord" "H109desc.csv" "H109.tab" "H109.ord" "H004desc.csv" "H004.tab" "H004.ord" "data_reader.pyc" "data_reader.py" "breast-cancer.tab" "bpnn.py" "boost.py~" "boost.pyc" "boost.py" "adult.tab" "../" "./")
 
- ("/Users/samlaf/.emacs.d/cedet/doc/info/" (21895 11768 0 0) "wisent.info" "srecode.info" "semantic.info" "semantic-user.info" "semantic-langdev.info" "semantic-appdev.info" "grammar-fw.info" "ede.info" "dir" "cogre.info" "cedet.info" "bovine.info" "../" "./")
+ ("/Users/samlaf/programming/mit-ai-6-034/lab5/lab5/include/" (22847 11467 0 0) "python3.4m/" "python2.7/" "../" "./")
 
- ("/Users/samlaf/website/org/_posts/" (22120 17049 0 0) "learning-characters.org~" "learning-characters.org" "commodity-vs-product.org~" "commodity-vs-product.org" "2015-12-09-RPN-calc-and-functional-programming.org~" "2015-12-09-RPN-calc-and-functional-programming.org" "2015-12-09-RPN-calc-and-functional-programming.html~" "2015-11-29-learning-language-1.org~" "2015-11-29-learning-language-1.org" "2015-10-07-PKU-first-impression.org~" "2015-09-17-mu4e_vs_rmail.org~" "2015-09-17-mu4e_vs_rmail.org" "../" "./")
+ ("/Users/samlaf/programming/mit-ai-6-034/lab5/lab5/lib/" (22847 11467 0 0) "python3.4/" "python2.7/" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/_posts/" (22120 17056 0 0) "learning-characters.html" "commodity-vs-product.html~" "commodity-vs-product.html" "2015-12-09-RPN-calc-and-functional-programming.html~" "2015-12-09-RPN-calc-and-functional-programming.html" "2015-11-29-learning-language-1.html~" "2015-11-29-learning-language-1.html" "2015-09-17-mu4e_vs_rmail.html~" "2015-09-17-mu4e_vs_rmail.html" "../" "./")
+ ("/Users/samlaf/programming/mit-ai-6-034/lab5/lab5/" (22847 11467 0 0) "pip-selfcheck.json" "lib/" "include/" "bin/" ".Python" "../" "./")
 
- ("/Users/samlaf/.emacs.d/elpa/auto-complete-1.4/doc/" (22060 45458 0 0) "style.css" "manual.txt" "manual.ja.txt" "index.txt" "index.ja.txt" "demo.txt" "changes.txt" "changes.ja.txt" "ac.png" "ac-isearch.png" "ac-fuzzy.png" "#manual.txt#" "../" "./")
+ ("/Users/samlaf/programming/kaggle/sberbank/" (22850 60670 0 0) "train.csv" "test.csv" "submission.csv" "sberbank.py~" "sberbank.py" "sample_submission.csv" "macro.csv" "features.txt" "../" "./")
 
- ("/Users/samlaf/Desktop/" (22120 13584 0 0) "Peking University School of Foreign Language Education.pdf" ".localized" ".DS_Store" "../" "./")
+ ("/Users/samlaf/programming/mit-ai-6-034/" (22847 4918 0 0) "lab5/" "lab4/" "lab3/" "lab2/" "lab1/" "lab0/" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/website/org/images/" (22120 13566 0 0) "RPN-triangle.png" "RPN-basic.png" "../" "./")
+ ("/Users/samlaf/programming/kaggle/titanic/" (22849 39788 0 0) "train.csv" "titanic.py~" "titanic.py" "test.txt" "test.csv" "survived.csv~" "survived.csv" "gender_submission.csv" "../" "./")
 
- ("/Users/samlaf/website/org/" (22120 13263 0 0) "images/" "_posts/" "../" "./")
+ ("/Users/samlaf/programming/python/macropy/" (22832 32747 0 0) "setup.py" "scratch.py~" "scratch.pyc" "scratch.py" "run_tests.py" "run.pyc" "run.py" "readme.md" "my_macro_module.py~" "my_macro_module.pyc" "my_macro_module.py" "macropy/" "docs/" "changes.md" ".gitignore" ".git/" "../" "./")
 
- ("/Users/" (22032 56316 0 0) "Shared/" "samlaf/" ".localized" "../" "./")
+ ("/Users/samlaf/programming/python/macropy/macropy/" (22832 31942 0 0) "tracing.py" "test/" "string_interp.py" "quick_lambda.py" "peg.py" "experimental/" "core/" "console.pyc" "console.py" "case_classes.pyc" "case_classes.py" "activate.pyc" "activate.py" "__init__.pyc" "__init__.py" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/" (22119 57895 0 0) "test~" "scss/" "README.md" "js/" "index.html" "img/" "fonts/" "css/" "about.md" "_site/" "_posts/" "_layouts/" "_includes/" "_config.yml~" "_config.yml" ".sass-cache/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+ ("/Users/samlaf/programming/mit-ai-6-034/lab3/" (22836 39364 0 0) "util.pyc" "util.py" "tree_searcher.pyc" "tree_searcher.py" "tests.pyc" "tests.py" "tester.pyc" "tester.py" "lab3.py~" "lab3.pyc" "lab3.py" "connectfour.pyc" "connectfour.py" "basicplayer.pyc" "basicplayer.py" "../" "./")
 
- ("/Applications/Anki.app/Contents/MacOS/" (22026 1773 0 0) "python" "Anki" "../" "./")
+ ("/Users/samlaf/programming/bison-3.0.4/my-tutorial/" (22512 16077 0 0) "rpcalc.y~" "rpcalc.y" "rpcalc.l~" "rpcalc.l" "Makefile~" "Makefile" "infixcalc.y~" "infixcalc.y" "infixcalc.l" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/_site/img/" (22115 48938 0 0) "tiger.jpeg" "sass.png" "sass.jpg" "rubyrails.png" "ruby.png" "rails-app.png" "post-img-1.jpeg" "jekyll.png" "bg.jpeg" "avatar.jpg" "../" "./")
+ ("/Users/samlaf/programming/python/macropy/macropy/core/" (22832 25415 0 0) "walkers.pyc" "walkers.py" "util.pyc" "util.py" "test/" "quotes.pyc" "quotes.py" "macros.pyc" "macros.py" "import_hooks.pyc" "import_hooks.py" "hquotes.pyc" "hquotes.py" "gen_sym.pyc" "gen_sym.py" "failure.pyc" "failure.py" "exporters.pyc" "exporters.py" "exact_src.pyc" "exact_src.py" "console.pyc" "console.py" "cleanup.pyc" "cleanup.py" "analysis.pyc" "analysis.py" "__init__.pyc" "__init__.py" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/_site/" (22115 48938 0 0) "scss/" "README.md" "js/" "index.html" "img/" "fonts/" "css/" "about/" "2015/" "../" "./")
+ ("/Users/samlaf/programming/python/macropy/docs/examples/first_macro/nop/" (22832 26464 0 0) "target.pyc" "target.py" "run.py" "macro_module.py" "__init__.py" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/.git/" (22115 49569 0 0) "refs/" "packed-refs" "ORIG_HEAD" "objects/" "logs/" "info/" "index" "hooks/" "HEAD" "FETCH_HEAD" "description" "config" "COMMIT_EDITMSG~" "COMMIT_EDITMSG" "branches/" "../" "./")
+ ("/Users/samlaf/programming/python/macropy/docs/examples/first_macro/" (22832 23123 0 0) "quasiquote/" "nop/" "full/" "__init__.py" "../" "./")
 
- ("/Applications/Emacs.app/Contents/Resources/info/" (21895 11257 0 0) "woman.info.gz" "wisent.info.gz" "widget.info.gz" "viper.info.gz" "vip.info.gz" "url.info.gz" "tramp.info.gz" "todo-mode.info.gz" "srecode.info.gz" "speedbar.info.gz" "smtpmail.info.gz" "sieve.info.gz" "ses.info.gz" "semantic.info.gz" "sc.info.gz" "sasl.info.gz" "remember.info.gz" "reftex.info.gz" "rcirc.info.gz" "pgg.info.gz" "pcl-cvs.info.gz" "org.info.gz" "octave-mode.info.gz" "nxml-mode.info.gz" "newsticker.info.gz" "mh-e.info.gz" "message.info.gz" "mairix-el.info.gz" "info.info.gz" "ido.info.gz" "idlwave.info.gz" "htmlfontify.info.gz" "gnus.info.gz" "forms.info.gz" "flymake.info.gz" "eww.info.gz" "eudc.info.gz" "eshell.info.gz" "ert.info.gz" "erc.info.gz" "epa.info.gz" "emacs.info.gz" "emacs-mime.info.gz" "emacs-gnutls.info.gz" "elisp.info.gz" "eintr.info.gz" "eieio.info.gz" "efaq.info.gz" "edt.info.gz" "ediff.info.gz" "ede.info.gz" "ebrowse.info.gz" "dir~" "dired-x.info.gz" "dir" "dbus.info.gz" "cl.info.gz" "ccmode.info.gz" "calc.info.gz" "bovine.info.gz" "autotype.info.gz" "auth.info.gz" "ada-mode.info.gz" "a.out.dSYM/" "a.out" "../" "./")
+ ("/usr/local/share/bison/" (22512 8978 0 0) "yacc.c" "xslt/" "variant.hh" "stack.hh" "README" "m4sugar/" "location.cc" "lalr1.java" "lalr1.cc" "java.m4" "java-skel.m4" "glr.cc" "glr.c" "c.m4" "c-skel.m4" "c-like.m4" "c++.m4" "c++-skel.m4" "bison.m4" "../" "./")
 
- ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/T/" (22110 47454 0 0) "xcrun_db" "TemporaryItems/" "ssh-M9UVoAsYqTQR/" "Skype/" "npm-49603-50d04b91/" "MediaCache/" "icdd501" "emacs501/" "docview501/" "com.getdropbox.dropbox.garcon/" "com.evernote.EvernoteHelper/" "com.evernote.Evernote/" "com.apple.SocialPushAgent/" "com.apple.soagent/" "com.apple.quicklook.ui.helper/" "com.apple.Preview/" "com.apple.photomoments/" "com.apple.photolibraryd/" "com.apple.PhotoIngestService/" "com.apple.notificationcenterui.WeatherSummary/" "com.apple.Notes/" "com.apple.ncplugin.weather/" "com.apple.ncplugin.stocks/" "com.apple.mail/" "com.apple.lateragent/" "com.apple.iWork.Keynote/" "com.apple.InputMethodKit.TextReplacementService/" "com.apple.ICPPhotoStreamLibraryService/" "com.apple.iCal.CalendarNC/" "com.apple.geod/" "com.apple.Dictionary/" "com.apple.DataDetectorsDynamicData/" "com.apple.cloudphotosd/" "com.apple.CloudPhotosConfiguration/" "com.apple.CalendarAgent.CalNCService/" "com.apple.CalendarAgent/" "com.apple.BKAgentService/" "com.apple.appstore.PluginXPCService/" "com.apple.appstore/" "com.apple.AirPlayUIAgent/" "com.apple.AddressBook.InternetAccountsBridge/" "com.apple.AddressBook.FaceTimeService/" "com.apple.AddressBook.ContactsAccountsService/" "com.apple.AddressBook/" "Cleanup At Startup/" "chrome-maoADZ/" "babel-50539G4n/" "anki_temp/" "anki8f0f9d153ede31a072d8daaa9bebb758c2b6b9b9" ".screen/" ".com.google.Chrome.s2PJKI/" ".CalendarLocks/" ".AddressBookLocks/" "../" "./")
+ ("/Users/samlaf/programming/python/macropy/docs/examples/" (22832 23123 0 0) "using_macros/" "hygiene/" "first_macro/" "__init__.py" "../" "./")
 
- ("/var/folders/dn/gy4jhwt134b99gk3xzkjlktc0000gn/" (21826 65354 0 0) "T/" "Cleanup At Startup/" "C/" "0/" "../" "./")
+ ("/Users/samlaf/programming/python/macropy/docs/" (22832 23123 0 0) "media/" "examples/" "../" "./")
 
- ("/var/folders/dn/" (21826 59663 0 0) "gy4jhwt134b99gk3xzkjlktc0000gn/" "../" "./")
+ ("/Users/samlaf/programming/mit-ai-6-034/lab2/" (22831 13562 0 0) "tests.pyc" "tests.py" "tester.pyc" "tester.py" "search.py~" "search.pyc" "search.py" "lab2.py~" "lab2.pyc" "lab2.py" "graphs.pyc" "graphs.py" "../" "./")
 
- ("/var/folders/" (21826 59663 0 0) "zz/" "dn/" "../" "./")
+ ("/Users/samlaf/programming/bison-3.0.4/" (22512 8937 0 0) "TODO" "THANKS" "tests/" "src/" "runtime-po/" "README-release" "README-alpha" "README" "po/" "PACKAGING" "NEWS" "my-tutorial/" "Makefile.in" "Makefile.am" "Makefile" "maint.mk" "m4/" "lib/" "javaexec.sh" "javacomp.sh" "INSTALL" "GNUmakefile" "examples/" "etc/" "doc/" "djgpp/" "data/" "COPYING" "configure.ac" "configure" "config.status" "config.log" "ChangeLog-2012" "ChangeLog-1998" "ChangeLog" "cfg.mk" "build-aux/" "AUTHORS" "aclocal.m4" "ABOUT-NLS" ".version" ".tarball-version" ".prev-version" "../" "./")
 
- ("/var/" (22067 1943 0 0) "yp/" "vm/" "tmp/" "spool/" "rwho/" "run/" "rpc/" "root/" "networkd/" "netboot/" "msgs/" "mail/" "log/" "lib/" "jabberd/" "folders/" "empty/" "db/" "backups/" "audit/" "at/" "agentx/" "../" "./")
+ ("/Users/samlaf/tests/flex-bison-example/" (22511 63987 0 0) "README" "Makefile" "LICENSE" "lex.yy.c" "calc.y" "calc.tab.h" "calc.tab.c" "calc.l" "calc" ".gitignore" ".git/" "../" "./")
 
- ("/Applications/Anki.app/Contents/" (22026 1772 0 0) "Resources/" "PkgInfo" "MacOS/" "Info.plist" "Frameworks/" "_CodeSignature/" "../" "./")
+ ("/Users/samlaf/programming/mit-ai-6-034/lab1/" (22830 500 0 0) "zookeeper.pyc" "zookeeper.py" "utils.pyc" "utils.py" "tests.pyc" "tests.py" "tester.pyc" "tester.py" "scratch.py~" "scratch.py" "production.py~" "production.pyc" "production.py" "lab1.py~" "lab1.pyc" "lab1.py" "backchain.py~" "backchain.pyc" "backchain.py" "../" "./")
 
- ("/Users/samlaf/website/" (22106 61608 0 0) "samlaf.github.io/" "org/" ".DS_Store" "../" "./")
+ ("/Users/samlaf/Downloads/lab1/" (22829 64232 0 0) "zookeeper.py" "utils.py" "tests.py" "tester.py" "production.py" "lab1.py" "backchain.py" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/_site/2015/11/29/" (22106 61763 0 0) "learning-language-1.html" "../" "./")
+ ("/Users/samlaf/programming/flex-2.6.0/doc/" (22091 21416 0 0) "version.texi" "stamp-vti" "Makefile.in" "Makefile.am" "flex.texi" "flex.pdf" "flex.info-2" "flex.info-1" "flex.info" "flex.1" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/_site/2015/11/" (22106 61763 0 0) "29/" "../" "./")
+ ("/Users/samlaf/udm/compiler/" (22782 40933 0 0) "tp3/" "tp2/" "tp1/" "ppl-presentation.pdf" "ppl-presentation.key" ".DS_Store" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/_site/2015/" (22106 61763 0 0) "11/" "10/" "09/" "../" "./")
+ ("/Users/samlaf/programming/Haskell/" (22790 7624 0 0) "scratch.hs~" "scratch.hs" "RWH/" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io-backup/scripts/" (22004 19897 0 0) "main.js" ".main.js.swp" "../" "./")
+ ("/Users/samlaf/udm/compiler/tp2/typer/" (22795 34599 0 0) "tests/" "testlog.txt~" "testlog.txt" "test.typer" "src/" "samples/" "README.md" "rapport.tex~" "rapport.tex" "rapport.pdf" "rapport.out" "rapport.log" "rapport.aux" "opt3log.txt~" "opt3log.txt" "opt3.typer" "opt2.typer~" "opt2.typer" "opt1.typer~" "opt1.typer" "opam" "GNUmakefile" "emacs/" "COPYING" "btl/" "auto/" "_region_.tex" "_build/" ".travis.yml" ".gitignore" ".git/" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io-backup/images/" (22004 19861 0 0) "fence.jpg" "donald-duck.jpg" "../" "./")
+ ("/Users/samlaf/programming/ML-coursera/machine-learning-ex6/ex6/" (22775 64240 0 0) "vocab.txt" "visualizeBoundaryLinear.m" "visualizeBoundary.m" "token.mat" "svmTrain.m" "svmPredict.m" "submit.m" "spamTrain.mat" "spamTest.mat" "spamSample2.txt" "spamSample1.txt~" "spamSample1.txt" "readFile.m" "processEmail.m~" "processEmail.m" "porterStemmer.m" "plotData.m" "localhost" "linearKernel.m" "lib/" "getVocabList.m" "gaussianKernel.m~" "gaussianKernel.m" "ex6data3.mat" "ex6data2.mat" "ex6data1.mat" "ex6_spam.m" "ex6.m~" "ex6.m" "emailSample2.txt" "emailSample1.txt" "emailFeatures.m~" "emailFeatures.m" "dataset3Params.m~" "dataset3Params.m" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io-backup/" (22004 19897 0 0) "styles/" "scripts/" "index.html" "images/" "../" "./")
+ ("/Users/samlaf/udm/compiler/tp3/typer/src/" (22782 27306 0 0) "util.ml" "unification.ml" "tweak.ml" "subst.ml" "sexp.ml" "REPL.ml" "prelexer.ml" "pexp.ml" "optimize.ml" "opslexp.ml" "old/" "myers.ml" "lparse.ml" "lexp.ml" "lexer.ml" "inverse_subst.ml" "grammar.ml" "fmt.ml" "eval.ml" "env.ml" "elexp.ml" "debug_util.ml" "debug.ml" "debruijn.ml" "cexp.ml" "builtin.ml" "../" "./")
 
- ("/Users/samlaf/website/samlaf.github.io/_site/2015/09/17/" (22020 60396 0 0) "mu4e_vs_rmail.html" "../" "./")
-
- ("/Users/samlaf/website/samlaf.github.io/_site/2015/09/" (22020 60396 0 0) "17/" "../" "./")
-
- ("/Users/samlaf/org/notes/" (22106 61306 0 0) "beamer.org" "../" "./")
-
- ("/Users/samlaf/deleteme/" (22101 27337 0 0) "README" "Rakefile" "lib/" ".git/" "../" "./")
-
- ("/Users/samlaf/PKU/riddles/" (22098 64327 0 0) "riddles.toc" "riddles.tex~" "riddles.tex" "riddles.snm" "riddles.pdf" "riddles.out" "riddles.org~" "riddles.org" "riddles.nav" "riddles.log" "riddles.aux" "auto/" "_minted-riddles/" "../" "./")
-
- ("/Users/samlaf/Documents/Anki/addons/image_occlusion_2/" (21925 1516 0 0) "svgutils.py" "svg-edit/" "resources.qrc" "resources.py" "notes_from_svg.py" "Imaging/" "image_occlusion.py" "icons/" "etree/" "config.py" "blank-svg.svg" "add_notes.py" "__init__.py" "../" "./")
-
- ("/Users/samlaf/Documents/Anki/addons/chinese/" (22060 15595 0 0) "upgrade.py" "ui.py" "templates.py" "templates/" "python-2.7-modules/" "models/" "microsofttranslator/" "Logo/" "LICENSE" "icons/" "graph.py" "google_tts.py" "fill_missing.py" "edit_ui.py" "edit_functions.py.backup" "edit_functions.py" "edit_behavior_model.py" "edit_behavior.py.old" "edit_behavior.py" "edit.py" "dictdb.py" "db/" "config.py" "chinese_addon_config.json" "bopomofo.py" "baidu_tts.py" "__init__.py" ".DS_Store" "#edit_functions.py#" "../" "./")
-
- ("/Users/samlaf/PKU/" (22098 57117 0 0) "riddles/" "prv_guoqingjie.pdf" "prv_guoqingjie.log" "pictures-guoqingjie/" "missfont.log" "guoqingjie.toc" "guoqingjie.tex~" "guoqingjie.tex" "guoqingjie.snm" "guoqingjie.pdf" "guoqingjie.out" "guoqingjie.org~" "guoqingjie.org" "guoqingjie.nav" "guoqingjie.log" "guoqingjie.aux" "auto/" "_region_.xdv" "_region_.toc" "_region_.tex~" "_region_.tex" "_region_.snm" "_region_.prv/" "_region_.out" "_region_.nav" "_region_.log" "_region_.aux" "_minted-guoqingjie/" "_minted-_region_/" ".DS_Store" "#guoqingjie.tex#" "../" "./")
-
- ("/Users/samlaf/Documents/Anki/addons/chinese/db/" (22032 60793 0 0) "update" "COPYING.txt" "chinese_dict.sqlite" ".DS_Store" "#update#" "../" "./")
-
- ("/Users/samlaf/.emacs.d/elpa/flymake-jshint-1.0/" (22097 47867 0 0) "jshint-configuration-path.json" "flymake-jshint.elc" "flymake-jshint.el" "flymake-jshint-pkg.elc" "flymake-jshint-pkg.el" "flymake-jshint-autoloads.el~" "flymake-jshint-autoloads.el" "../" "./")
-
- ("/Users/samlaf/mu/" (22003 53483 0 0) "www/" "toys/" "TODO" "stamp-h1" "README.org" "README" "NEWS.org" "NEWS" "mu4e/" "mu/" "missing" "man/" "Makefile.in" "Makefile.am" "Makefile" "m4/" "ltmain.sh" "libtool" "lib/" "install-sh" "INSTALL" "HACKING" "guile/" "gtest.mk" "depcomp" "COPYING" "contrib/" "configure.ac" "configure" "config.sub" "config.status" "config.log" "config.h.in" "config.h" "config.guess" "compile" "ChangeLog" "c.cfg" "autom4te.cache/" "autogen.sh" "AUTHORS" "aclocal.m4" ".travis.yml" ".gitignore" ".git/" "../" "./")
-
- ("/Users/samlaf/programming/my_cl_library/onlisp/" (22001 10476 0 0) "utilities.lisp~" "ch6-static-ref-network.lisp~" "ch6-static-ref-network.lisp" "ch6-functions-as-representation.lisp~" "ch6-data-func-network.lisp" "ch6-closures-network.lisp~" "ch6-closures-network.lisp" "ch5-returning-functions.lisp~" "ch5-returning-functions.lisp" "ch4-utility-functions.lisp~" "ch4-utility-functions.lisp" "../" "./")
-
- ("/Users/samlaf/.emacs.d/site-lisp/js-comint/" (22097 13224 0 0) "README.org" "js-comint.el" ".git/" "../" "./")
-
- ("/Users/samlaf/.emacs.d/site-lisp/" (22097 13221 0 0) "js-comint/" "epub-mode.el" "dict-mac.el" "../" "./")
-
- ("/usr/local/Cellar/rhino/1.7.6/libexec/" (22097 11037 0 0) "js.jar" "../" "./")
-
- ("/usr/local/Cellar/rhino/1.7.6/bin/" (22097 11037 0 0) "rhino" "../" "./")
-
- ("/usr/local/Cellar/rhino/1.7.6/" (22097 11038 0 0) "LICENSE.txt" "libexec/" "INSTALL_RECEIPT.json" "bin/" "../" "./")
-
- ("/usr/local/Cellar/rhino/" (22097 11037 0 0) "1.7.6/" "../" "./")
-
- ("/usr/local/Cellar/" (22097 11037 0 0) "xz/" "xapian/" "wget/" "w3m/" "ssh-copy-id/" "sbcl/" "rhino/" "readline/" "pkg-config/" "pcre/" "openssl/" "offline-imap/" "node/" "nettle/" "nethack/" "mailutils/" "libtool/" "libtiff/" "libtasn1/" "libpng/" "libffi/" "jpeg/" "imagemagick/" "html2text/" "gsasl/" "grep/" "gnutls/" "gnu-tar/" "gnu-sed/" "gnu-indent/" "gnu-getopt/" "gmp/" "gmime/" "glib/" "gettext/" "gdb/" "gawk/" "freetype/" "findutils/" "dos2unix/" "cvs/" "coreutils/" "bdw-gc/" "automake/" "autoconf/" "aspell/" "../" "./")
-
- ("/Users/samlaf/.emacs.d/snippets/org-mode/" (22037 18703 0 0) "project~" "project" "org-blog-heading~" "org-blog-heading" "../" "./")
-
- ("/Users/samlaf/Applications/Chrome Apps.localized/Default apdfllckaahabafndbhieahigkjlhalf.app/" (22055 1468 0 0) "Contents/" "../" "./")
+ ("/Users/samlaf/udm/compiler/tp3/typer/" (22782 44363 0 0) "tests/" "test.typer" "src/" "samples/" "README.md" "opam" "GNUmakefile" "foo.typer~" "foo.typer" "emacs/" "COPYING" "btl/" "_build/" ".travis.yml" ".gitignore" ".git/" ".DS_Store" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

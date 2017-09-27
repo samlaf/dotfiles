@@ -8,7 +8,7 @@
  '(TeX-view-program-list
    (quote
     (("Emacs" "emacsclient %o")
-     ("DocView" "(find-file %o)"))))
+     ("DocView" "(find-file \"%o\")"))))
  '(TeX-view-program-selection
    (quote
     ((output-dvi "open")
@@ -18,6 +18,7 @@
  '(browse-url-browser-function (quote eww-browse-url))
  '(canlock-password "3067eb78b721ba3e67dcfe8446e8efc920eaa66e")
  '(current-language-environment "UTF-8")
+ '(elpy-rpc-python-command "python")
  '(fortune-dir "~/fortunes/")
  '(fortune-file "~/fortunes/spooks")
  '(icomplete-mode t)
@@ -30,7 +31,8 @@ SADF San Diego Jiang Zemin SLIP Ortega Phishing")
    (quote
     (("n" "Agenda and all TODO's"
       ((agenda "" nil)
-       (tags-todo "-CATEGORY=\"Habits\"-HOLD-FUTURE" nil))
+       (tags-todo "-CATEGORY=\"Habits\"-CATEGORY=\"Projects\"-HOLD-FUTURE" nil)
+       (tags-todo "CATEGORY=\"Projects\"" nil))
       nil)
      ("x" "next" todo "NEXT" nil)
      ("l" "List of Suggestions"
@@ -101,6 +103,13 @@ SCHEDULED: %<<%Y-%m-%d %a .+1d/3d>>
  '(org-modules
    (quote
     (org-bbdb org-bibtex org-docview org-gnus org-habit org-info org-irc org-mhe org-rmail org-w3m)))
+ '(python-shell-buffer-name "Python")
+ '(python-shell-interpreter "python3")
+ '(quack-default-program "mit-scheme")
+ '(quack-programs
+   (quote
+    ("mzscheme" "bigloo" "csi" "csi -hygienic" "gosh" "gracket" "gsi" "gsi ~~/syntax-case.scm -" "guile" "kawa" "mit-scheme" "racket" "racket -il typed/racket" "rs" "scheme" "scheme48" "scsh" "sisc" "stklos" "sxi")))
+ '(scheme-program-name " /usr/local/bin/mit-scheme")
  '(send-mail-function (quote smtpmail-send-it))
  '(smtpmail-smtp-server "smtp.gmail.com")
  '(smtpmail-smtp-service 587)

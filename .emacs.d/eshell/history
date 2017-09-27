@@ -1,128 +1,128 @@
-ssh -i "cli-key-pair-singapore.pem" ec2-user@ec2-54-169-228-178.ap-southeast-1.compute.amazonaws.com
+ssh test 
+ssh test 
+ssh ec2-singapore
+ls
+cd ~/programming/Bash/setup/
+ls
+git status
+git push origin master
+cd ../dotfiles/
+ls
 cd .ssh/
-ssh -i "cli-key-pair-singapore.pem" ec2-user@ec2-54-169-228-178.ap-southeast-1.compute.amazonaws.com
 ls
-ec2-describe-instances
-ssh -i "samlaf-key-pair-singapore.pem" ubuntu@ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com
-cd /ssh:ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com:
-cd /ssh:ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com:
-sudo cd /ssh:ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com:
-cd /ssh:mcgill:
-cd /ssh:mcgill:
-cd /ssh:mcgill
-cd /ssh:mimi.cs.mcgill.ca:
-cd /ssh:slafer@mimi.cs.mcgill.ca
-cd /ssh:mimi.cs.mcgill.ca@slafer
-cd /ssh:mimi.cs.mcgill.ca:slafer
-ssh -i "samlaf-key-pair-singapore.pem" ubuntu@ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com
-ssh -i "samlaf-key-pair-singapore.pem" ubuntu@ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com
+ssh test 
+ssh test 
 ls
-rm coursera-cs184-sam.pem 
+cd ~/programming/Bash/
 ls
-ssh ec2-singapore
-ssh ec2-singapore
-ssh ec2-singapore
-ssh ec2-singapore 
-ssh ec2-singapore 
-ssh ec2-singapore 
-ssh ec2-singapore
-ssh ec2-singapore
-ssh ec2-singapore
-source --help
-if
-cd
-cd tests
-ls
-./test.sh
+cd setup
+git status
+git push origin master
+git status
+cd ~/.ssh/
+ssh test 
+ssh test 
+ssh test
 ls
 cd ~/programming/
 ls
-cd Bash/
+mv Bash git_local
+mv Bash/ git_local/
 ls
-git clone https://github.com/samlaf/setup.git
+mv Bash/* git_local/*
+cp Bash/ git_local/
+mkdir git_local
+mv Bash/* git_local/*
 ls
-cd setup
+rm git_local/
+ls
+ls
+cd git_local/
+ls
+cd ..
+ls
+cd git_local/
+ls
+cd dotfiles/
 ls
 ls
 git status
-git add README.md setup.sh 
-ls
-git status
-git commit
-git commit "Changed github repo names to my own forked ones."
-git commit -a "Changed github repo names to my own forked ones."
-git commit -m "Changed github repo names to my own forked ones."
 git push origin master
-cd ..
-git clone https://github.com/samlaf/dotfiles.git
+cd ../setup/
+ls
+ls
+git status
+git add setup.sh 
+git commit -amend
+git commit --amend
+git commit --amend -m "Updated version of node downloaded."
+git status
+git push origin master
+git pull
+ls
+git status
+ls
+git status
+git add setup.sh 
+ls
+git commit -m "Screwed up with previous local amend."
+git status
+git push origin master
+ls
+cd ~/.ssh/
+ls
+ssh test 
+ssh test 
+ubuntu@ip-172-
+ls
+ls
+ssh test 
+ssh test 
+ssh test 
+ssh test 
+ssh test 
+ls
+ssh test 
+ssh test
+tput
+tput kbs
+"x`tput kbs`"
+stty -help
+stty --help
+echo $0
+echo $TERM
+ssh test 
+ls
+cd ~
+cd programming/git_local/
+ls
 cd dotfiles/
 ls
 ll
-cd ..
 ls
-ll
-ll *
-ll do*
-ll dotfiles
-ls dotfiles
-cd dotfiles
-ls -a
-ll
-alias
-source ~/.bash_profile
-alias ll='ls -alrth'
-ll
-alias cp='cp -i'
-alias mv='mv -i'
-alias rm='rm -i'
-alias ..='cd ..'
-alias ...='cd ..; cd ..'
+tcp .bashrc /ssh:test:.bashrc
+which tcp
+scp .bashrc /ssh:test:.bashrc
 ls
-cd programming/
-cd Bash/
-lll
-ll
-cd dotfiles/
-ll
-alias
-ls -a
-alias
-alias okok= echo "okok"
-alias
-alias
-alias
-alias ...='cd ..; cd ..'
-alias
-alias ll='ls -alrth'
-ll
-alias
-ll
-alias okok = echo "okok"
-ll
-alias
-load alias
-load ~/.emacs.d/eshell/alias 
-load ~/.emacs.d/eshell/alias
-load "~/.emacs.d/eshell/alias"
+env
+echo $BASH_ENV
+$PS1$
+$PS1
+"$PS1"
 ls
-alias
-ll
-ll
-alias
-ll
-alias ll = ls -al
-ll
-alias
-alias
-ll
+cd programming/git_local/
 ls
-ls -al
-ll
-alias
-ls -al
-cd programming/
-cd Bash/
+cd bitstarter/
 ls
-ll
-alias ll ls -al
-ll
+node index.js
+npm install express
+ls
+ls
+node index.js
+which jslint
+ls
+cd programming/Javascript/
+ls
+cd Pratt-parser/
+ls
+jshint lexer.js 

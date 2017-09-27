@@ -2,7 +2,21 @@
 ;;; This format is meant to be slightly human-readable;
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
-(("(emacs) Save Keyboard Macro"
+(("(emacs) Deletion"
+ (front-context-string . "File: emacs.info")
+ (rear-context-string)
+ (position . 195825)
+ (filename . "/Applications/Emacs.app/Contents/Resources/info/emacs")
+ (info-node . "Deletion")
+ (handler . Info-bookmark-jump))
+("eldoc-echo-area-display"
+ (front-context-string . "   Eldoc is a bu")
+ (rear-context-string . "e Name Help::.\n\n")
+ (position . 839527)
+ (filename . "/Applications/Emacs.app/Contents/Resources/info/emacs")
+ (info-node . "Lisp Doc")
+ (handler . Info-bookmark-jump))
+("(emacs) Save Keyboard Macro"
  (front-context-string . "\n17.5 Naming and")
  (rear-context-string . "Keyboard Macros\n")
  (position . 402892)
@@ -17,20 +31,20 @@
  (page . 74)
  (handler . doc-view-bookmark-jump))
 ("org-capture-last-stored-marker"
- (filename . "~/org/lists.org")
- (front-context-string . "** TODO Emotions")
- (rear-context-string . "-14 Thu 14:51]\n\n")
- (position . 4917))
+ (filename . "~/org/library.org")
+ (front-context-string . "*** Foundations ")
+ (rear-context-string . "-31 Wed 19:33]\n\n")
+ (position . 18490))
 ("org-refile-last-stored"
- (filename . "~/org/lists.org")
- (front-context-string . "** TODO learn ab")
- (rear-context-string . "-11 Fri 16:47]\n\n")
- (position . 5694))
+ (filename . "~/org/library.org")
+ (front-context-string . "*** Foundations ")
+ (rear-context-string . "-31 Wed 19:33]\n\n")
+ (position . 18490))
 ("org-capture-last-stored"
  (filename . "~/org/refile.org")
- (front-context-string . "* TODO Learn abo")
- (rear-context-string . "1-06 Wed 19:32]\n")
- (position . 69))
+ (front-context-string)
+ (rear-context-string . "4-14 Fri 09:46]\n")
+ (position . 662))
 ("(ccmode) Sample Init File"
  (front-context-string . "\nAppendix A Samp")
  (rear-context-string . " Ends,  Up: Top\n")

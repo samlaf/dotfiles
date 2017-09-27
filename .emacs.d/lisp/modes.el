@@ -1,6 +1,15 @@
 ;;; modes.el --- configuration for 100-odd emacs modes
 
 
+
+;;-------------------- D MODE --------------------;;
+(autoload 'dtrace-script-mode "dtrace-script-mode" () t)
+(add-to-list 'auto-mode-alist '("\\.d\\'" . dtrace-script-mode))
+
+;;-------------------- C mode --------------------;;
+(add-hook 'c-mode-hook (lambda () (c-toggle-hungry-state 1)))
+(add-hook 'c-mode-hook 'c-turn-on-eldoc-mode)
+
 ;;--------------- python shell---------------;;
 (setenv "LC_CTYPE" "UTF-8")    ;otherwise python-shell uses ASCII by default
 
@@ -23,17 +32,17 @@
 (add-hook 'haskell-mode-hook 'haskell-decl-scan-mode)
 
 (eval-after-load "haskell-mode"
-  '(progn
-     (define-key haskell-mode-map (kbd "C-x C-d") nil)
-     (define-key haskell-mode-map (kbd "C-c C-z") 'haskell-interactive-switch)
-     (define-key haskell-mode-map (kbd "C-c C-l") 'haskell-process-load-file)
-     (define-key haskell-mode-map (kbd "C-c C-b") 'haskell-interactive-switch)
-     (define-key haskell-mode-map (kbd "C-c C-t") 'haskell-process-do-type)
-     (define-key haskell-mode-map (kbd "C-c C-i") 'haskell-process-do-info)
-     (define-key haskell-mode-map (kbd "C-c M-.") nil)
-     (define-key haskell-mode-map (kbd "C-c C-d") nil)
-     (define-key haskell-mode-map (kbd "C-,") 'haskell-move-nested-left)
-     (define-key haskell-mode-map (kbd "C-.") 'haskell-move-nested-right)))
+		 '(progn
+		   (define-key haskell-mode-map (kbd "C-x C-d") nil)
+		   (define-key haskell-mode-map (kbd "C-c C-z") 'haskell-interactive-switch)
+		   (define-key haskell-mode-map (kbd "C-c C-l") 'haskell-process-load-file)
+		   (define-key haskell-mode-map (kbd "C-c C-b") 'haskell-interactive-switch)
+		   (define-key haskell-mode-map (kbd "C-c C-t") 'haskell-process-do-type)
+		   (define-key haskell-mode-map (kbd "C-c C-i") 'haskell-process-do-info)
+		   (define-key haskell-mode-map (kbd "C-c M-.") nil)
+		   (define-key haskell-mode-map (kbd "C-c C-d") nil)
+		   (define-key haskell-mode-map (kbd "C-,") 'haskell-move-nested-left)
+		   (define-key haskell-mode-map (kbd "C-.") 'haskell-move-nested-right)))
 
 ;;--------------- SLIME ---------------;;
 ;; Replace "sbcl" with the path to your implementation
@@ -66,15 +75,11 @@
 
 
 ;;-------------------- js2-mode --------------------;;
+(require 'js2-mode)
 (add-to-list 'auto-mode-alist '("\\.js\\'" . js2-mode))
 (add-to-list 'interpreter-mode-alist '("node" . js2-mode))
 
 
-;;-------------------- jshint --------------------;;
-(setq jshint-configuration-path
-      "~/.emacs.d/elpa/flymake-jshint-1.0/jshint-configuration-path.json")
-(require 'flymake-jshint)
-(add-hook 'js-mode-hook 'flymake-mode)
 
 
 ;;-------------------- AUCTEX --------------------;;
@@ -85,7 +90,7 @@
 ;; didn't seem to work. Adding to 'Info-additional-directory-list
 ;; fixes this.
 (eval-after-load 'info
-  '(add-to-list 'Info-additional-directory-list "/Users/samlaf/.emacs.d/elpa/auctex-11.89/"))
+		 '(add-to-list 'Info-additional-directory-list "/Users/samlaf/.emacs.d/elpa/auctex-11.89/"))
 
 
 ;;-------------------- INFO --------------------;;
@@ -99,4 +104,61 @@
       (append Info-default-directory-list
 	      '("~/info")))
 
+
+;;-------------------- SCHEME --------------------;;
+(setenv "MITSCHEME_LIBRARY_PATH"
+	"/Applications/mit-scheme.app/Contents/Resources")
+
+;; scheme-complete package
+;; [[file:~/.emacs.d/elpa/scheme-complete-readme.txt]]
+
+(autoload 'scheme-smart-complete "scheme-complete" nil t)
+(eval-after-load 'scheme
+		 '(define-key scheme-mode-map "\t" 'scheme-complete-or-indent))
+
+(autoload 'scheme-get-current-symbol-info "scheme-complete" nil t)
+(add-hook 'scheme-mode-hook
+	  (lambda ()
+	    (make-local-variable 'eldoc-documentation-function)
+	    (setq eldoc-documentation-function 'scheme-get-current-symbol-info)
+	    (eldoc-mode)
+	    (yas-minor-mode -1)))	;otherwise yas' keymap takes
+					;precedence over scheme's so
+					;we can't rebind <TAB>
+
+;;-------------------- GAMBIT / JAZZ --------------------;;
+(add-to-list 'auto-mode-alist '("\\.jazz\\'" . scheme-mode))
+
+;;-------------------- quack --------------------;;
+;; mode for scheme
+(require 'quack)
+
+;;-------------------- TERM --------------------;;
+;; yas behaves badly with term and makes tab-completion unavailable.
+(add-hook 'term-mode-hook
+	  (lambda () (yas-minor-mode -1)))
+
+;;-------------------- ELPY (python) --------------------;;
+(elpy-enable)
+
+;;-------------------- doc-view-mode --------------------;;
+;; Taken from
+;; https://tex.stackexchange.com/questions/177014/compile-with-emacs-and-update-the-view-in-docview
+;; This way DocView will auto-update viewer when pdf file changes
+;; (used for previewing latex in a different window)
+(add-hook 'doc-view-mode-hook 'auto-revert-mode)
+
+;;-------------------- typer (ift-6232) --------------------;;
+(add-to-list 'auto-mode-alist '("\\.typer\\'" . typer-mode))
+(autoload 'typer-mode "/Users/samlaf/udm/compiler/tp2/typer/emacs/typer-mode.el")
+
+;;-------------------- MATLAB/OCTAVE --------------------;;
+(add-to-list 'auto-mode-alist '("\\.m\\'" . octave-mode))
+(add-to-list 'auto-mode-alist '("\\.mat\\'" . octave-mode))
+
+;;-------------------- PROLOG --------------------;;
+(require 'ediprolog)
+(global-set-key [f10] 'ediprolog-dwim)
+
 ;;; modes.el ends here
+

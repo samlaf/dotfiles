@@ -56,9 +56,15 @@
 ;; Switch to scratch buffer.
 (defalias 'switch-to-scratch (switch-to-named-buffer "*scratch*"))
 (global-set-key (kbd "C-c o t") 'switch-to-scratch)
+;; Switch to eshell
+(defalias 'switch-to-eshell (switch-to-named-buffer "*eshell*"))
+(global-set-key (kbd "C-c o e") 'switch-to-eshell)
 ;; Switch to shell
-(defalias 'switch-to-shell (switch-to-named-buffer "*eshell*"))
+(defalias 'switch-to-shell (switch-to-named-buffer "*shell*"))
 (global-set-key (kbd "C-c o s") 'switch-to-shell)
+;; Switch to ansi-term
+(defalias 'switch-to-ansi-term (switch-to-named-buffer "*ansi-term*"))
+(global-set-key (kbd "C-c o a") 'switch-to-ansi-term)
 ;; Quit other window
 ;; We use this to close *Help* buffers opened in the neighboring window
 (defun quit-other-window (&optional arg)

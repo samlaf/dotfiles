@@ -1,7 +1,11 @@
 
-;;; Mode settings stored by Calc on Tue Dec 22 14:23:59 2015
+;;; Mode settings stored by Calc on Thu Jul 13 14:17:22 2017
 (setq calc-mode-save-mode 'save)
+(setq calc-symbolic-mode t)
 (setq calc-angle-mode 'rad)
 (setq calc-previous-modulo '(hms 24 0 0))
+(setq calc-language 'fortran)
+(setq calc-vector-brackets "//")
+(setq calc-prefer-frac t)
 ;;; End of mode settings
 

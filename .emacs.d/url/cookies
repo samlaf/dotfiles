@@ -4,22 +4,16 @@
 (setq url-cookie-storage
  '((".coursera.org"
   [url-cookie "__204u" "6035038894-1440532452688" "Wed, 24 Aug 2016 19:54:12 UTC" "/" ".coursera.org" nil])
- ("en.wikipedia.org"
-  [url-cookie "HttpOnly" nil "Mon, 15 Feb 2016 00:00:00 GMT" "/" "en.wikipedia.org" nil]
-  [url-cookie "WMF-Last-Access" "14-Jan-2016" "Mon, 15 Feb 2016 00:00:00 GMT" "/" "en.wikipedia.org" nil])
+ (".digitalocean.com"
+  [url-cookie "HttpOnly" nil "25 Jan 17 00:22:39 [GMT]" "/" ".digitalocean.com" nil]
+  [url-cookie "__cfduid" "db8943bfb762933c33f760591e99e8ed71453767759" "25 Jan 17 00:22:39 [GMT]" "/" ".digitalocean.com" nil])
  ("www.blackhatworld.com"
   [url-cookie "bhw_lastactivity" "0" "09-Dec-2016 12:14:21.00 GMT" "/" "www.blackhatworld.com" nil]
   [url-cookie "bhw_lastvisit" "1442755218" "09-Dec-2016 12:14:21.00 GMT" "/" "www.blackhatworld.com" nil])
- (".youtube.com"
-  [url-cookie "PREF" "f1=40000000" "20-Mar-2016 14:33:57.00 GMT" "/" ".youtube.com" nil]
-  [url-cookie "httponly" nil "20-Mar-2016 14:33:57.00 GMT" "/" ".youtube.com" nil]
-  [url-cookie "VISITOR_INFO1_LIVE" "--24aF1Qifc" "20-Mar-2016 14:33:57.00 GMT" "/" ".youtube.com" nil])
  (".moz.com"
   [url-cookie "visid_incap_133232" "peqXDDW0SZ6OdlyTgDia9fu1rVUAAAAAQUIPAAAAAADYOZAKQQqfRiENc/Bc6NTJ" "Wed, 19 Jul 2017 12:23:12 GMT" "/" ".moz.com" nil])
  (".google.ca"
-  [url-cookie "PREF" "ID=1111111111111111:FF=0:TM=1437610371:LM=1437610371:V=1:S=XQWopRD1FjszMLwf" "22-Jul-2017 00:12:51.00 GMT" "/" ".google.ca" nil]
-  [url-cookie "NID" "69=BEWCQUwIXPK5F54Rd8LjEwjIb14r-NR_AwCskLR01b79r3_mx1HedWrP6gk9o6zagNnXZhCCZaPb2GId7qKrkPFjAGKytFrLPIIT2TDf7qx9qtha3kayYCExbLXdgtKP" "29-Feb-2016 14:03:55.00 GMT" "/" ".google.ca" nil]
-  [url-cookie "HttpOnly" nil "29-Feb-2016 14:03:55.00 GMT" "/" ".google.ca" nil])
+  [url-cookie "PREF" "ID=1111111111111111:FF=0:TM=1437610371:LM=1437610371:V=1:S=XQWopRD1FjszMLwf" "22-Jul-2017 00:12:51.00 GMT" "/" ".google.ca" nil])
  (".haskell.org"
   [url-cookie "__cfduid" "dc748b3c668ca9b7542999224be25dbc61440619828" "25 Aug 16 20:10:28 [GMT]" "/" ".haskell.org" nil]
   [url-cookie "HttpOnly" nil "25 Aug 16 20:10:28 [GMT]" "/" ".haskell.org" nil])
@@ -35,10 +29,15 @@
   [url-cookie "x-wl-uid" "1TdYyRLUvqQlVl6ywBdIT4kJLwiCFl9tyCHWblHWHmT9QIC5RlyJhoWPfzuncgEiVYsRzIBdQU4Y=" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.com" nil]
   [url-cookie "session-id-time" "2082787201l" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.com" nil]
   [url-cookie "session-id" "180-5157414-6727502" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.com" nil])
+ (".solipsys.co.uk"
+  [url-cookie "__cfduid" "d58eaaf6b9aed5e77fce8ab47ed6d0af81453619064" "23 Jan 17 07:04:24 [GMT]" "/" ".solipsys.co.uk" nil]
+  [url-cookie "HttpOnly" nil "23 Jan 17 07:04:24 [GMT]" "/" ".solipsys.co.uk" nil])
+ (".amazon.ca"
+  [url-cookie "x-wl-uid" "1cZx34GF1cLlrcr1N1+YFWI+dbcu8XAvLz3GeNaEhwPMYYk02gcHVlNp4TlNVC7EhXlzV8SqQJ7g=" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.ca" nil]
+  [url-cookie "session-id-time" "2082787201l" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.ca" nil]
+  [url-cookie "session-id" "157-6333625-1505865" "01-Jan-2036 08:00:01.00 GMT" "/" ".amazon.ca" nil])
  (".google.com"
-  [url-cookie "NID" "69=BiXYh8fF5NGvnYidAQ5bCDbTpRODv-t5hj9_WYACcyS-2P7G8T15s8_WT8ZnDslmvVzWOG3d-cB4-cyjW1A7rW4vK_7U62_CV8SbyaaMa8ur5L3Gowh8Y9ZX_tfCBh6I" "22-Jan-2016 00:12:50.00 GMT" "/" ".google.com" nil]
-  [url-cookie "PREF" "ID=1111111111111111:FF=0:TM=1437610370:LM=1437610370:V=1:S=AkQh3kznJxdnUswP" "22-Jul-2017 00:12:50.00 GMT" "/" ".google.com" nil]
-  [url-cookie "HttpOnly" nil "22-Jan-2016 00:12:50.00 GMT" "/" ".google.com" nil]))
+  [url-cookie "PREF" "ID=1111111111111111:FF=0:TM=1437610370:LM=1437610370:V=1:S=AkQh3kznJxdnUswP" "22-Jul-2017 00:12:50.00 GMT" "/" ".google.com" nil]))
 )
 (setq url-cookie-secure-storage
  '(("accounts.google.com"
@@ -46,8 +45,6 @@
   [url-cookie "HttpOnly" nil "22-Jul-2017 01:34:17.00 GMT" "/" "accounts.google.com" t]
   [url-cookie "Priority" "HIGH" "22-Jul-2017 01:34:17.00 GMT" "/" "accounts.google.com" t])
  ("developer.mozilla.org"
-  [url-cookie "dwf_section_edit" "False" "02-Feb-2016 06:40:41.00 GMT" "/" "developer.mozilla.org" t]
-  [url-cookie "Max-Age" "2592000" "02-Feb-2016 06:40:41.00 GMT" "/" "developer.mozilla.org" t]
   [url-cookie "csrftoken" "HBrGxamP1OWsxTDLUFabnLKymYEilrCk" "01-Jan-2017 06:40:41.00 GMT" "/" "developer.mozilla.org" t])
  (".github.com"
   [url-cookie "HttpOnly" nil "Wed, 12 Sep 2035 16:00:50 -0000" "/" ".github.com" t]

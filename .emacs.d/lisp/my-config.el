@@ -1,5 +1,7 @@
 ;;; my-config.el --- My one-off emacs configurations.
 
+(global-hungry-delete-mode)
+
 (load-theme 'tango)
 
 ;; For appointments and reminders
@@ -26,6 +28,9 @@
 (add-hook 'prog-mode-hook 'hs-minor-mode)
 
 (add-hook 'text-mode-hook 'auto-fill-mode)
+(add-hook 'prog-mode-hook 'auto-fill-mode)
+;; This will only fill comments in prog-mode.
+(setq comment-auto-fill-only-comments t)
 
 (require 'ido)
 (ido-mode t)
@@ -62,8 +67,7 @@ chinese-py. All other org files are opened with japanese as input method."
 
 (add-hook 'text-mode-hook 'flyspell-mode)
 (add-hook 'emacs-lisp-mode-hook 'eldoc-mode)
-(add-hook 'lisp-mode-hook 'auto-fill-mode)
-(add-hook 'emacs-lisp-mode-hook 'auto-fill-mode)
+
 
 
 

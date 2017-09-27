@@ -1,4 +1,4 @@
-;; -*- emacs-lisp -*- <16/01/16 16:39:14 /Users/samlaf/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <17/08/13 19:18:14 /Users/samlaf/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
@@ -85,14 +85,6 @@
   ("tmpdir" "/ssh:awshost1:/tmp")
   ("touch-t" t)
   ("touch" "\\touch"))
- (["scp" nil "ssh" nil nil]
-  nil)
- (["ssh" nil "52.33.247.245" nil nil]
-  nil)
- (["ssh" nil "ec2-54-169-112-226.ap-southeast-1.compute.amazonaws.com" nil nil]
-  nil)
- (["ssh" nil "ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com" nil nil]
-  nil)
  (["ssh" nil "ec2-singapore" nil nil]
   ("locale" "LC_ALL=en_US.utf8")
   ("uname" "Linux 3.13.0-48-generic")
@@ -108,19 +100,31 @@
   ("readlink" "\\readlink")
   ("ls" "/bin/ls --color=never")
   ("uid-integer" 1000))
- (["ssh" nil "ec2-54-169-174-61.ap-southeast-1.compute.amazonaws.com" nil nil]
+ (["scp" nil "ssh" nil nil]
   nil)
- (["ssh" nil "ec2-52-33-247-245.us-west-2.compute.amazonaws.com" nil nil]
-  nil)
- (["ssh" nil "mcgill" nil nil]
-  nil)
- (["ssh" nil "52.33.39.44" nil nil]
-  nil)
- (["ssh" nil "54.169.228.79" nil nil]
-  nil)
- (["ssh" nil "mimi.cs.mcgill.ca" nil nil]
-  nil)
- (["scp" nil "sshx" nil nil]
-  nil)
- (["sshx" nil "ec2-54-179-164-22.ap-southeast-1.compute.amazonaws.com" nil nil]
+ (["ssh" "alfonsda" "arcade.iro.umontreal.ca" nil nil]
+  ("locale" "LC_ALL=en_US.utf8")
+  ("uname" "Linux 3.16.0-4-amd64")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin" "/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("~" "/u/alfonsda")
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t)
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 631)
+  ("readlink" "\\readlink")
+  ("gid-string" "rali")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("git" "\\git")
+  ("uid-integer" 18230)
+  ("tmpdir" "/ssh:alfonsda@arcade.iro.umontreal.ca:/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch"))
+ (["ssh" nil "arcade.iro.umontreal.ca" nil nil]
   nil))
